@@ -43,7 +43,7 @@ module.exports = class VideoScene {
 
     var music = new Howl({
       src: [cdnUrl(events_table[myself].music)],
-      // autoplay: true,
+      autoplay: true,
       loop: true,
       volume: music_volume,
     })
@@ -69,6 +69,8 @@ module.exports = class VideoScene {
     if (settings['music'] == 'Off') {
       music.mute(true)
     }
+
+    $('#video').prop('loop', true)	// loop the showdown board video 
 
     if ((transition == 'back') && !(state == null)) {
       console.log('State loaded successfully!')

@@ -19,6 +19,13 @@ const events = {
     'music': 'music/white secret.mp3',
     'speech': 'audio/speech/en/hunt.mp3',
   },
+  'showdown': {
+    'table': 1,
+    'type': 'showdown',
+    'label': 'Showdown',
+    'ltop': '60%',
+    'lleft': '50%',
+  },
   'settlement': {
     'table': 1,
     'type': 'settlement',

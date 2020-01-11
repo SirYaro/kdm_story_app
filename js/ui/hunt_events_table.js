@@ -373,134 +373,134 @@ Stworzenie jest tak przerażające, że umysły Ocalałych usiłują wymazać to
 [~T]
 `,
 
-  11: `11 | Monster Droppings
-The survivors find some monster droppings, like those of their quarry. The event revealer chooses to either <b>investigate</b> or <b>consume</b> the droppings (choose only one).
+  11: `11 |  Odchody potwora
+Ocalali znajdują nieco odchodów potworów. Wyglądają na pozostawione przez tropioną zdobycz. Wykonawca wydarzenia wybiera <b>badanie</b> lub <b>spożycie</b> odchodów (wybierz tylko jedno z nich).
 
 [TO] Wybór
-[td] Event revealer - What do you do?
-[c] Investigate #Investigate
+[td] Wykonawca wydarzenia - Co robisz?
+[c] Badanie #Badanie
 [d<]
 
-Gain +1 understanding and roll 1k10.
+Zdobywasz +1 wiedzy i rzucasz 1k10.
 
 [TO] 1k10
-[td] Event revealer - Investigate
+[td] Wykonawca wydarzenia - Badanie
 [c] 1-3
-[d] You discover just how sickening playing with feces is. Lose 1 survival and roll again on the hunt event table before moving on the hunt board.
+[d]  Odkrywasz, jak obrzydliwe jest bawienie się kałem. Tracisz 1 przetrwania i rzucasz ponownie w liście wydarzeń na łowach, przed poruszeniem na planszy łowów..
 [c] 4-6
-[d] The droppings tell a story. You are on the right track. Gain +1 survival.
+[d] Odchody mówią, że podążasz właściwym tropem. Otrzymujesz +1 do przetrwania.
 [c] 7+
-[d] You know these droppings well. You may skip the next hunt space. If this move begins the showdown, the survivors <b>ambush</b> their quarry.
+[d] Znasz doskonale takie odchody. Możesz pominąć następne pole na łowach. Jeśli ten ruch rozpoczyna Starcie, Ocalali zastawiają <b>zasadzkę</b> na zwierzynę.
 [T]
 
 [>d]
-[c] Consume #Consume
+[c] Spożycie #Spożycie
 [d<]
 
-Gain +1 courage and roll 1k10.
+Zdobywasz +1 odwagi i rzucasz 1k10.
 
 [TO] 1k10
-[td] Event revealer - Consume
+[td] Wykonawca wydarzenia - Spożycie
 [c] 1-3
 [d<]
 
-It seems you weren't the only one with this idea! You attempt to cough out the refuse, but your mouth is full of wriggling parasites! They borrow upwards through your nasal cavity into your brain. From now on, you always feel slightly dizzy. Suffer -1 permanent evasion.
-[i] In addition, if you have the <b>Quixotic</b> disorder, the parasites savor the unique neural activity of your brain, feeding relentlessly and excreting waste which further fuels your madness. Gain +10 insanity and the <b>Immortal</b> disorder. Your <b>Quixotic</b> disorder can never be removed for any reason.
+Wygląda, że nie byłeś jedynym, który miał taki pomysł! Próbujesz wypluwać je kaszląc, ale twoje usta są pełne wijących się pasożytów! Przebijają się w górę przez jamę nosową do mózgu. Od teraz zawsze czujesz lekkie zawroty Otrzymujesz na stałe -1 do uniku.
+Ponaddto jesli masz zaburzenie <b>donkiszoteria</b>, pasożyty delektują się unikalną aktywnością neuronową twojego mózgu. Karmią się łapczywie, wydalając odchody napędzające dodatkowo twoje szaleństwo. Otrzymujesz +10 obłędu i zaburzenie <b>nieśmiertelność</b>. Twoje zaburzenie <b>donkiszoteria</b> nie może być uleczone w żaden sposób.
 
 [>d]
 [c] 4-6
-[d] It's repulsive. Your title becomes "Scat Man." Everyone in the settlement must call you by that name from now on.
+[d] To odrażające. Otrzymujesz przydomek „gówniarz”. Wszyscy w osadzie muszą od tej chwili zwracać się do ciebie w ten sposób.
 [c] 7+
-[d] There was something quite special about the feces. Gain + 1 speed and + 1 strength token.
+[d] W kale było coś naprawdę specjalnego. Otrzymujesz żetony: +1 do szybkości oraz +1 do siły.
 [T]
 
 [>d]
 [T]
 `,
 
-  12: `12 | Destiny-Bound
+  12: `12 | Przyspieszenie przeznaczenia
 
 [img] 12 # no-shadow
 
-The survivors collectively feel a heightened level of anticipation. Their goal is close at hand.
+Ocalałych ogarnęło wzmożone przeczucie oczekiwania na coś ważnego. Ich cel jest na wyciągnięcie ręki. 
 
-The event revealer gains +1 courage! The survivors may skip the next hunt space. If this movement starts the showdown, the survivors <b>ambush</b> their quarry.
+Wykonawca wydarzenia otrzymuje +1 odwagi! Ocalali mogą pominąć następne pole łowów. Jeśli ten ruch uruchomi Starcie, Ocalali zastawiają <b>zasadzkę</b>.
 `,
 
-  13: `13 | Overload
-The event revealer falls to their knees, sobbing uncontrollably. They've simply had too much. They lose d10 survival and gain 1 random disorder.
+  13: `13 | Przeciążenie
+Wykonawca wydarzenia pada na kolana, łkając traci panowanie nad sobą. Tego jest po prostu zbyt wiele. Traci 1k10 przetrwania  i otrzymuje  1 losowe zaburzenie.
 
 [TO] Wybór
-[td] Which Society Principle does the settlement have?
-[c] Accept Darkness
+[td] Jaką doktrynę społeczną posiada osada?
+[c] Akceptacja ciemności
 [d<]
 
-The event revealer embraces their despair. Roll 1k10.
+Wykonawcę wydarzenia ogarnia rozpacz. Rzuć 1k10.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-5
-[d] The depths of your misery are deeper than you could have ever imagined. Gain disorders until you have 3 of them. Lose all survival.
+[d] Mizerność twojego istnienia jest większa niż kiedykolwiek mogłeś sobie wyobrazić. Dobierasz zaburzenia tak długo aż będziesz posiadał 3. Tracisz całe przetrwanie.
 [c] 6+
-[dt] You sink to the bottom of your misery then scrape its very foundations, hungry for more! You uncover a primal rage surrounding a core of serene calm. Gain +1 understanding and the <b>Rageholic</b> disorder.
+[dt] Sięgasz dna, by z pozostałości zbudować nowe fundamenty. Chcesz więcej! Odkrywasz pierwotny gniew, otaczający centrum i niezmąconego spokoju. Otrzymujesz +1 do wiedzy i zaburzenie <b>furia</b>.
 [>d]
-[c] Collective Toil
+[c] Praca zbiorowa
 [d<]
 
-They slowly pull themselves to their feet, promising to never give up hope. Roll 1k10.
+Powoli podnosisz się na nogi, obiecując, że nigdy nie porzucisz nadziei. Rzuć 1k10.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-5
-[d] You rise, silent tears streaming down your face. with the settlement at your back, you are ready to face the darkness. Gain +1 courage and +1k10 survival.
+[d]  Powstajesz, a łzy w ciszy spływają po twej twarzy. Świadomość istnienia osady pozwala ci mierzyć się z ciemnością. Otrzymujesz +1 do odwagi i +1k10 do przetrwania.
 [c] 6+
-[dt] You briefly touch the bottom of your misery and return to full awareness with new experiences to share. If any survivors return to the settlement this year, gain +2 endeavors.
+[dt] Na krótko pozwoliłeś świadomości osiągnąć dno nędzy istnienia. Dzięki temu doświadczeniu powracasz do pełni sił. Dzielisz się doświadczeniami. Jeśli którykolwiek z Ocalałych powróci do osady w tym roku, dodaj jednorazowo +2 do liczby dostępnych działań w osadzie.
 
 [>d]
-[c] Nie Society Principle
-[dt] The survivors continue their hunt.
+[c] Brak doktryny społecznej
+[dt] Ocalali kontynuują łowy.
 `,
 
-  14: `14 | Chance Encounter
+  14: `14 | Przypadkowe spotkanie
 
 [img] 14
 
-The survivors encounter a bewitching, barefoot waif with soot-covered feet.
+Ocalali napotykają urzekającą, bosą bezdomną z pokrytymi sadzą stopami.
 
 [TO] Sprawdź
-[td] Did you already roll this event or are all survivors insane?
+[td] Czy już wcześniej wylosowałeś to wydarzenie lub wszyscy Ocalali są <b>obłąkani</b>?
 [c] Tak #
-[d] She turns her back and disappears into the darkness. Roll again on the hunt event table before moving on the hunt board.
+[d] Odwraca się i znika w ciemności.Rzuć ponownie na liście wydarzeń na łowach, zanim poruszysz się na planszy łowów.
 [c] Nie #
 [d<]
 
-Exclaiming wildly at the survivors, the woman's presence fills everyone with the alien feeling of hope. All survivors gain +1 courage, +1 understanding.
+Pokrzykując donośnie na Ocalałych, obecność kobiety napełnia wszystkich nadzieją. Wszyscy Ocalali otrzymują +1 do odwagi oraz +1 do wiedzy.
 
 [TO] Sprawdź
-[td] Does the settlement have Hovel?
-[c] Tak #Hovel
-[d] She snaps her fingers and ages before their eyes! A chill passes over the survivors. Their bodies and armor spontaneously knit themselves back together. Heal all injury levels and lost armor points. Then, she pulls a random survivor aside and whispers secrets of the upcoming hunt. They gain +1 accuracy token.
+[td] Czy osada zna Chałupy?
+[c] Tak #Chałupa
+[d] Bezdomna strzela palcami i starzeje się na waszych oczach! Chłód przechodzi przez Ocalałych. Wasze ciała i pancerze natychmiastowo zrastają się z powrotem. Uzdrów wszystkie poziomy ran i stracone punkty pancerza. Następnie chwyta ona losowo wybranego Ocalałego i szepce mu tajemnice zbliżających się łowów. Otrzymuje on żeton +1 do precyzji.
 [c] Nie #
-[dt] She turns her back and disappears into the darkness.
+[dt] Kobieta odwraca się i znika w ciemnościach.
 [>d]
 [T]
 `,
 
-  15: `15 | Man-trap
+  15: `15 | Pułapka
 
 [img] 15 # no-shadow
 
-The event revealer springs a terrible trap! Roll 1k10.
+Wykonawca wydarzenia wdeptuje w straszliwą pułapkę! Rzuć 1k10.
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-2
-[d] With a terrible crash, the steel jaws of the man-trap cleanly sever your foot. Suffer the <b>dismembered leg</b> severe injury.
+[d] Ze straszliwym trzaskiem stalowe ciężki szczęki przecinają Twoją stopę. Otrzymujesz ciężki uraz <b>odcięta noga</b>.
 [c] 3-6
-[d] Mangled leg. Destroy all armor at the legs location, then suffer 1 event damage to the legs.
+[d] Okalecznie nóg. Usuń cały pancerz w miejscu trafienia: nogi. Następnie to wydarzenie zadaje 1 obrażenie nogom.
 [c] 7-9
-[d] The trap is quite old and weak. Suffer 1 event damage to the legs.
+[d] Pułapka okazuje się stara i słaba. To wydarzenie zadaje 1 obrażenie nogom.
 [c] 10+
-[d] The event revealer's foot knocks into the trap, giving everyone a scare! However, it was already sprung, leaving an unfortunate prize in its jaws. Gain 1 random basic resource.
+[d] Wykonawca wydarzenia kopie w pułapkę, strasząc wszystkich! Uszkadza ją, a w zaciśniętych szczękach pułapki odnajduje coś. Otrzymujesz 1 losowo wybrany podstawowy zasób.
 [T]
 `,
 
@@ -520,7 +520,7 @@ Your miserable sleep is plagued with mind-bending nightmares. Each survivor roll
   17: `17 | Face-to-Face
 Amidst the sea of stone faces, one catches the event revealer's eye. They feel compelled to <b>investigate</b>. Gain +1 courage and roll 1k10.
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1
 [d] The face is identical to your own. Spend 1d5 survival or reduce your understanding to 0.
 [c] 2-7
@@ -538,7 +538,7 @@ You find a strange plant growing from the eyes of a stone face. The event reveal
 [i] If any survivor has a sickle, add +4 to their roll.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-7
 [d] Try as you might, you cannot pull out the deeply rooted weed.
 [c] 8+
@@ -623,7 +623,7 @@ The darkness above is suddenly alight with a storm of acid rain. It smells terri
 The survivors silently watch the storm erode the stone faces, erasing their features. They wonder exactly who or what repairs the broken faces, if there is such a thing. The survivors share a dark laugh, each gaining monster level survival.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-5
 [d] The storm passes by.
 [c] 6+
@@ -634,7 +634,7 @@ The survivors silently watch the storm erode the stone faces, erasing their feat
 [d<]
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-5
 [d] The storm passes by.
 [c] 6+
@@ -667,7 +667,7 @@ The survivors pass a forlorn fountain in the shape of a lion's face. A stream of
 The survivors pass a stone face that appears to be holding something in its mouth. The event revealer <b>investigates</b>. Gain +1 courage and roll 1k10.
 
 [TO] 1k10
-[td] Event revealer - Investigate
+[td] Wykonawca wydarzenia - Investigate
 [c] 1-2
 [d] You yell out in pain and pull your hand back, revealing a bloody gash. Did the stone face just bite? Suffer monster level brain event damage and monster level event arm damage.
 [c] 3-5
@@ -727,10 +727,10 @@ You're plucked from the ground and eaten whole.
 The ground beneath the event revealer's feet gives way and they plummet into a pit below. The event revealer rolls 1k10.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] Another survivor has a whip #Whip
 [d] They throw you a line in time; do not roll on the table.
-[c] Event revealer has the <b>Tumble</b> fightning art #Tumble
+[c] Wykonawca wydarzenia has the <b>Tumble</b> fightning art #Tumble
 [d] They nimbly catch a ledge and haul themselves up; gain +1 speed token and do not roll on the table.
 [c] 1
 [d] You land with a sickening crunch, mangling your legs. Suffer the <b>broken leg</b> severe injury twice.
@@ -792,7 +792,7 @@ The trollbird follows the survivors on their hunt, constantly mocking them with 
 [i] If any survivor has the <b>Coprolalia</b> disorder, they curse at the bird and make vigorous and vulgar gestures. The bird is impressed. Add +3 to your roll.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-5
 [d] The trollbird makes a terrible racket, alerting the monster. All survivors gain +1 understanding. At the start of the showdown, the monster <b>ambushes</b> the survivors.
 [c] 6+
@@ -843,14 +843,14 @@ The event revealer decides whether or not the survivors follow the path.
 [i] If the event revealer is <b>insane</b>, they must.
 
 [TO] Wybór
-[td] Event revealer - Follow the path?
+[td] Wykonawca wydarzenia - Follow the path?
 [c] Tak #Follow
 [d<]
 
 The event revealer gains +1 understanding then rolls 1k10 and adds their understanding.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1
 [d] A colossal finger descends from above, crushing a random survivor. They suffer 2 event damage to every hit location.
 [c] 2-4
@@ -877,7 +877,7 @@ The path leads to the beast you are hunting! The survivors <b>ambush</b> the mon
 The event revealer is devastated by a piercing cacophony in their head. Roll 1k10.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] Result less than or equal to their current insanity #
 [d<]
 
@@ -989,7 +989,7 @@ The survivors come across the shattered ruins of a small settlement. Ashen corps
 The event revealer rolls 1k10 and adds their understanding.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-4
 [d<]
 
@@ -1067,7 +1067,7 @@ The survivors are hopelessly lost in the unbroken darkness. Move the survivors 2
 A massive Gregalope stands astride the horizon, its ancient body bloated with tumors and scar tissue. Its milky eyes catch sight of the survivors and it bounds away. Driven by a sudden desire, the survivors give chase. The event revealer rolls 1k10 and adds their movement to their roll.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] Any survivor has <b>Strategist</b> fighting art #Strategist
 [d<]
 Survivors may corner the Gregalope at a giant stone face instead of giving chase.
@@ -1096,7 +1096,7 @@ If the survivors prevail, gain the normal showdown rewards and 3 additional Scre
 A heavy mist envelops the survivors, obscuring their lantern light. Roll 1k10.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] Even result #Even
 [d] The survivors stumble in the right direction. If the showdown begins in the next space on the hunt board, the monster <b>ambushes</b> the survivors.
 [c] Odd result #Odd
@@ -1193,7 +1193,7 @@ Each survivor rolls 2d10 and adds their Hunt XP. The highest-scoring survivor (r
 While investigating their quarry's tracks, the survivors realize they are hunting not one, but two monsters. The two sets of tracks soon separate. leaving the event revealer to pick which tracks to follow.
 
 [TO] Wybór
-[td] Event revealers
+[td] Wykonawca wydarzenias
 [c] Larger tracks
 [d] Continue hunting as normal.
 [c] Smaller tracks
@@ -1294,7 +1294,7 @@ A crude iron cage swings from the branches of a massive tree. As the survivors a
 The event revealer rolls 1k10.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1
 [d] The survivors open the cage but all they find inside is a skeleton. All survivors suffer 2 brain event damage.
 [c] 2-7
@@ -1357,7 +1357,7 @@ The survivors meet a traveling Mask Salesman on the road. He insists that he has
 Shuffle one copy of each mask gear from the Mask Maker settlement location and draw one at random. The salesman is offering this mask. The event revealer rolls 1k10 to determine the price, then gains the mask.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-3
 [d] The salesman silently points at you. You instinctively hand him his asking price in exchange for the mask. Archive 1 gear of your choice from your gear grid and lose all survival.
 [c] 4-7
@@ -1423,7 +1423,7 @@ A strong wind blows, bringing with it the scents of distant places and things.
 The event revealer rolls 1k10.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-5
 [d] The monster catches your scent. It moves one space closer. If this movement starts the showdown, the monster <b>ambushes</b> the survivors.
 [c] 6+
@@ -1434,14 +1434,14 @@ The event revealer rolls 1k10.
 The survivors come upon the remains of a terrible battle between their quarry and some unknown foe. The event revealer may choose to <b>investigate</b>.
 
 [TO] Wybór
-[td] Event revealer - What do you do?
+[td] Wykonawca wydarzenia - What do you do?
 [c] Investigate
 [d<]
 
 The event revealer gains +1 courage and rolls 1k10.
 
 [TO] 1k10
-[td] Event revealer - Investigate
+[td] Wykonawca wydarzenia - Investigate
 [c] 1-2
 [d<]
 The monster springs out of the dark, taking advantage of the distracted survivors.
@@ -1638,7 +1638,7 @@ The glow of the survivors' lanterns blurs, forming trails of light behind them.
 [i] If the settlement has fought a Phoenix, the group recognizes the phenomenon. All survivors gain +1 understanding.
 The event revealer rolls 1k10 on the table below. If any survivor has an <b>Hours Ring</b>, they may instead select a die result.
 [TA] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-3
 [d] The survivors' bodies suddenly age. All survivors with less than 10 Hunt XP gain +3 Hunt XP. Do not gain the benefits of Age. Your bodies have physically aged, no practical experience has been learned.
 [c] 3-9
@@ -1657,7 +1657,7 @@ The survivors find a serene, luxurious tomb, immaculate in its construction and 
 The event revealer <b>investigates</b> and rolls 1k10.
 
 [TO] 1k10
-[td] Event revealer - Investigate
+[td] Wykonawca wydarzenia - Investigate
 [c] 1
 [d] The survivors bemoan how weak they are compared to the warriors in the murals. All survivors loses 1 survival.
 [c] 2-5
@@ -1681,7 +1681,7 @@ Amidst the endless stone faces, the event revealer notices an unusual object on 
 The event revealer <b>investigates</b> and rolls 1k10.
 [i] If the settlement has <b>Records</b>, add +6 to the result.
 [TO] 1k10
-[td] Event revealer - Investigate
+[td] Wykonawca wydarzenia - Investigate
 [c] 1-2
 [d] You find a weathered, purple stone with a swirling texture. It is shockingly heavy. Mesmerized by the stone, you hide it from the other survivors. Gain the <b>Secretive</b> disorder and -1 movement token from lugging the stone around.
 [c] 3-4
@@ -1706,7 +1706,7 @@ Otherwise, the event revealer suggests a word game to lighten the mood as the su
 [i] If the settlement has <b>Song of the Brave</b>, add +4 to your roll.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-2
 [d] The survivors' boisterous voices attract their quarry. The monster <b>ambushes</b> them.
 [c] 3-7
@@ -1729,7 +1729,7 @@ The way forward is blocked by dense, gold-flecked smoke. The survivors may push 
 Each survivor gains +1 courage and the event revealer rolls 1k10.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-5
 [d] The smoke overwhelms the survivors. As they run through the glittering smog, each survivor suffers 1 event damage to the head and chest locations. When they finally breach the haze's end, they silently walk on. No one is comfortable sharing the terrible things they glimpsed. Each survivor gains 1 random disorder.
 [c] 6+
@@ -1836,7 +1836,7 @@ Each straggler rolls 1k10.
 The survivors find a corpse dressed in brightly-colored clothing, clutching something to its chest. The event revealer may <b>investigate</b>.
 
 [TO] Wybór
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] Investigate
 [d<]
 
@@ -1844,7 +1844,7 @@ They gain +1 courage and roll 1k10.
 [i] If any survivor has a whip, they lash the corpse from afar; add +4 to your roll.
 
 [TO] 1k10
-[td] Event revealer -Investigate
+[td] Wykonawca wydarzenia -Investigate
 [c] 1
 [d] He was holding an explosive! Moving it causes it to detonate, blowing off your hand. Suffer the <b>dismembered arm</b> severe arm injury.
 [c] 2-4
@@ -1932,7 +1932,7 @@ As the survivors carefully pick their way past the verdant hazards, the straggle
 The survivors approach a 5-sided monolith made of flesh that stretches into the darkness overhead. Limbs and faces both human and bizarre protrude from all sides. The event revealer gains +1 courage and <b>investigates</b>.
 
 [TO] 1k10
-[td] Event revealer - investigate
+[td] Wykonawca wydarzenia - investigate
 [c] 1
 [d<]
 
@@ -2137,14 +2137,14 @@ In a hollow between two identical rocks, you find a corpse with fabulous hair cl
 The event revealer may read from the book and roll 1k10.
 
 [TO] Wybór
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] Read
 [d<]
 
 The book tells the tragic tale of two survivors who found a love they could never have.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-3
 [d] Page 3 - Dual Nature. The lovers' settlement was destroyed, and they were stolen away. The event revealer feels conflicted. After the showdown, they leave the settlement forever in search of something.
 [c] 4-6
@@ -2186,7 +2186,7 @@ A cloaked form steps out from a patch of darkness ahead of the survivors. Its il
 The event revealer approaches the stranger and rolls 1k10.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1-2
 [d] The stranger's approach fills your ears with painful static. There is a flash of light and a loud crack. You fall to the ground, holding your bloody chest in pain. Suffer the <b>ruptured spleen</b> severe body injury. All <b>non-deaf</b> survivors suffer 2 brain event damage.
 [c] 3-4
@@ -2230,7 +2230,7 @@ The survivors find a trail of blood. It pools in the eye sockets of the stonefac
 The event revealer may <b>investigate</b> and roll 1k10, or ignore the trail and end this event.
 
 [TO] 1k10
-[td] Event revealer - Investigate
+[td] Wykonawca wydarzenia - Investigate
 [c] 1-3
 [d] One of your own is slumped at the end of the trail, bleeding terribly. Choose a random survivor, they gain 3 bleeding tokens. All survivors suffer 3 brain event damage.
 [c] 4-6
@@ -2258,7 +2258,7 @@ They may erase it from the settlement record sheet and use it.
 
 Each survivor gains +1 courage. The portcullis creaks open and the survivors step through. A dank gloom awaits the survivors inside.
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1
 [d] The portcullis suddenly slams shut behind them and the lights of their lanterns begin to dim. The last thing the survivors see is the grimace of fear on each other's faces as the dark closes in. The survivors are dead.
 [c] 2+
@@ -2298,7 +2298,7 @@ Arriving at a massive anvil, the survivors see a giant, one-eyed knight, its cha
 The event revealer rolls 1k10.
 
 [TO] 1k10
-[td] Event revealer
+[td] Wykonawca wydarzenia
 [c] 1
 [d] The knight stares at the survivors. All survivors with less than 3 courage are struck dead. All other survivors flee in horror.
 [c] 2-8

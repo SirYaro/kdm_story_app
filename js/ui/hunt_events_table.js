@@ -723,117 +723,117 @@ Zostałeś porwany z ziemi i pożarty w całości.
 [T]
 `,
 
-  26: `26 | Pit
-The ground beneath the event revealer's feet gives way and they plummet into a pit below. The event revealer rolls 1k10.
+  26: `26 | Dół
+Ziemia pod stopami wykonawcy wydarzenia zapada się i spada on do dołu. Wykonawca wydarzenia rzuca 1k10.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
-[c] Another survivor has a whip #Whip
-[d] They throw you a line in time; do not roll on the table.
-[c] Wykonawca wydarzenia has the <b>Tumble</b> fightning art #Tumble
-[d] They nimbly catch a ledge and haul themselves up; gain +1 speed token and do not roll on the table.
+[c] Jeśli inny Ocalały ma bicz #Bicz
+[d] Zdąży ci go rzucić na czas, nie rzucaj  kością.
+[c] Wykonawca  wydarzenia zna sztukę walki <b>sprężysty</b> #Sprężysty 
+[d] Zwinnie chwyta się kamiennej półki i podciąga w górę; Otrzymuje żeton +1 do szybkości i nie rzuca kością.
 [c] 1
-[d] You land with a sickening crunch, mangling your legs. Suffer the <b>broken leg</b> severe injury twice.
+[d] Lądujesz z obrzydliwym chrupnięciem, okaleczając nogi. Otrzymujesz dwukrotnie ciężki uraz <b>złamanej nogi</b>.
 [c] 2-3
-[d] Your leg breaks your fall. Suffer the <b>broken leg</b> severe injury.
+[d] Łamiesz nogę przy upadku. Otrzymujesz ciężki uraz <b>złamana noga</b>.
 [c] 4-6
-[d] You land at the bottom with a loud thud. Suffer 2 event damage to a random hit location and archive all <b>fragile</b> gear in your gear grid.
+[d] Lądujesz w dole z głośnym łomotem. To wydarzenie zadaje 2 obrażenia, w losowe miejsce trafienia. Zarchiwizuj każdy <b>kruchy>/b> ekwipunek ze swojej siatki ekwipunku.
 [c] 7-9
-[d] You land at the bottom with a soft thud. Suffer 1 event damage to a random hit location.
+[d] Lądujesz na dnie z cichym łomotem. To wydarzenie zadaje 1 obrażenie, w losowe miejsce trafienia.
 [c] 10+
-[dt] You manage to grab the edge of the pit and escape unharmed.
+[dt] Udaje ci się chwycić krawędzi dołu i uciec bez szwanku.
 `,
 
-  27: `27 | Man-Stealers
+  27: `27 | Złodziej męskości
 
 [img] 27 # no-shadow
 
-Exhausted, the survivors rest. During their fitful sleep, a small insect approaches undetected.
+Wyczerpani Ocalali odpoczywają. Podczas niespokojnego snu, wślizgują się niepostrzeżenie małe insekty.
 
-Choose 1 random male survivor and roll on the table.
+Wybierz losowo 1 Ocalałego mężczyznę i rzuć 1k10.
 
 [TO] Wybór
-[td] Select random male survivor
-[c] Survivor chosen
+[td] Wybierz losowo 1 Ocalałego mężczyznę
+[c] Ocalały wybrany
 [d<]
 
-Roll 1k10.
+Rzuć 1k10.
 
 [TO] 1k10
-[td] Male survivor
-[c] Has the <b>Unconscious Fighter</b> fighting art #Unconscious Fighter
-[d] They crush the bug while still snoring. They wake, confused, with a random vermin resource in their hands.
+[td] Ocalały mężczyzna
+[c] Wybrany Ocalały zna sztukę walki <b>Walczący w szoku</b> #Walczący w szoku
+[d] Chrapiąc bezwiednie rozgniata robaka; nie rzuca kością. Budzi się zdezorientowany z losowym zasobem <b>robactwa</b> w dłoniach.
 [c] 1-5
-[d] When you wake, your genitals have been stolen. In their place is nothing but smooth skin. Suffer the <b>destroyed genitals</b> severe injury.
+[d] Po przebudzeniu stwierdzasz, że Twoje genitalia zostały skradzione. W ich miejscu masz tylko gładką skórę. Otrzymujesz ciężki uraz zniszczone genitalia.
 [c] 6+
-[dt] You wake with a start, terrified to find menacing pincers approaching. Your defenses are quick. Without thinking, you wallop the insect crawling on your pants, suffering 1 event damage to the waist.
+[dt] Budzisz się przerażony, widząc zbliżające się groźnie szczypce. Twoja obrona jest szybka. Bez zastanowienia, walczysz z owadem czołgającym się po spodniach. To wydarzenie zadaje tobie 1 obrażenie w talię.
 
 [>d]
-[c] Nie male survivors
-[d] Nothing happens.
+[c] Brak męskich Ocalałych
+[d] nic się nie dzieje.
 [T]
 `,
 
-  28: `28 | Trollbird
+  28: `28 | Troloptak
 
-A rumpled, unsightly bird stands in the survivors' path. Its beady, wet eyes blink expectantly and it calls out with an eerie human chuckle. The survivors may archive 1 <b>consumable</b> item or gear, offering it to the trollbird.
+Na drodze Ocalałych stanął nastroszony, brzydki ptak. Jego paciorkowate, mokre oczy mrugają wyczekująco. Wybucha on niesamowitym, ludzkim chichotem. Ocalali mogą zarchiwizować 1 <b>jadalny</b> przedmiot lub ekwipunek, oferując go ptakowi.
 
-[i] If any survivor is insane, they must feed the trollbird, if able.
+[i] Jeśli którykolwiek z Ocalałych jest obłąkany, musi nakarmić śpiewoptaka, jeśli ma czym.
 
 [TO] Wybór
-[td] What do you do?
-[c] Feed the bird #Feed
-[d] You feed the trollbird and it hops off with a terrible cackle.
-[c] Ignore the bird #Ignore
+[td] Co robisz?
+[c] Nakarm ptaka #Karmi
+[d] Karmisz ptaka który podskakuje straszliwie gdacząc.
+[c] Zignoruj ptaka #Zignoruj
 [d<]
 
-The trollbird follows the survivors on their hunt, constantly mocking them with its chuckle. Roll 1k10.
+Troloptak podąża za Ocalałymi podczas łowów, nieustannie kpiąc z nich swoim chichotem. Rzuć 1k10.
 
-[i] If any survivor has the <b>Coprolalia</b> disorder, they curse at the bird and make vigorous and vulgar gestures. The bird is impressed. Add +3 to your roll.
+[i] Jeśli którykolwiek z ocalałych ma zaburzenie <b>koprolalia</b>, klnie na ptaka energicznie czyniąc wulgarne gesty. Wyraźnie robi na ptaku wrażenie. Dodaj +3 do swojego rzutu.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1-5
-[d] The trollbird makes a terrible racket, alerting the monster. All survivors gain +1 understanding. At the start of the showdown, the monster <b>ambushes</b> the survivors.
+[d] Troloptak robi straszną awanturę, ostrzegając potwora. Wszyscy Ocalali otrzymują +1 do wiedzy. Na początku starcia, potwór zastawia <b>zasadzkę</b> na Ocalałych..
 [c] 6+
-[dt] The trollbird mocks and distracts the monster as the survivors sneak up. All survivors gain +1 insanity. At the start of the showdown, the survivors <b>ambush</b> the monster.
+[dt] Ptak kpi i odwraca uwagę potwora od skradających się Ocalałych. Wszyscy Ocalali zyskują +1 obłędu. Na początku starcia, Ocalali zastawiają <b>zasadzkę</b> na potwora.
 [>d]
 [T]
 `,
 
-  29: `29 | Dark Blacksmith
+  29: `29 | Mroczny kowal
 
 [img] 29 # no-shadow
 
-The survivors cross paths with a tall, unnaturally thin man in a hooded robe. Where his feet strike the ground, sparks illuminate his path. Each survivor with 3+ courage may give him one piece of gear from their gear grid and roll on the table.
+Ścieżki Ocalałych krzyżują się z wysokim, nienaturalnie chudym mężczyzną w zakapturzonym płaszczu. Tam, gdzie jego stopy uderzają o ziemię, iskry oświetlają jego przejście. Każdy z Ocalałych o odwadze 3+ może dać mu jeden element ze swojej siatki ekwipunku i rzucić kością.
 
-[i] If they have the Honorable disorder. add +3 to their roll.
+[i] Jeśli ma zaburzenie honorowy, dodaje  3 do swojego rzutu.
 
 [TA] 1k10
-[td] Any survivor with 3+ courage
+[td] Dowolny Ocalały z odwagą 3+
 [c] 1-2
-[d] The creature raises the object to its mouth and eats it. It's gone. Archive the gear card.
+[d] Istota podnosi przedmiot do swoich ust i zjada go. Poczym odchodzi. Zarchiwizuj kartę ekwipunku.
 [c] 3-6
-[d] The creature refuses the gear and stares at you with a single, large eye. Suffer 1k10 brain event damage.
+[d] Istota odrzuca ekwipunek i wgapia się w ciebie swoim pojedynczym, wielkim okiem. To wydarzenie zadaje Twojemu umysłowi 1k10 obrażeń.
 [c] 7-8
-[d] The creature unhinges its jaw and eats the piece of gear. In return, it hands you a shining shield. Gain the <b>Steel Shield</b> rare gear.
+[d] Istota kłapnęła szczękami i rozgryza fragmenty ekwipunku.W zamian dostajesz lśniącą tarczę. Otrzymujesz rzadki ekwipunek <b>stalowa tarcza</b>.
 [c] 9+
-[dt] The creature unhinges its jaw and eats the piece of gear. In return, it hands you a shining sword. Gain the <b>Steel Sword</b> rare gear.
+[dt] Istota kłapnęła szczękami i rozgryza fragmenty ekwipunku. W zamian dostajesz lśniący miecz. Otrzymujesz rzadki ekwipunek <b>stalowy  miecz</b>.
 `,
 
-  30: `30 | Rotten Faces
-The stone faces start to give under the survivors' feet. They are bloated and smell terrible. Each survivor rolls 1k10.
+  30: `30 | Zgniłe twarze
+Kamienne twarze zapadają się lekko pod nogami Ocalałych. Są wzdęte i śmierdzą okropnie. Każdy Ocalały rzuca 1k10.
 
 [TA] 1k10
-[td] Each survivor
+[td] Każdy Ocalały
 [c] 1
-[d] Your foot gets stuck and you quickly begin to sink into the ground. After a struggle you manage to break free. If you had leg armor, it is lost in the muck. Spend 3 survival or archive the gear.
+[d] Twoja stopa utknęła i szybko zaczyna zanurzać się w ziemi. Po szarpaninie udaje ci się ją uwolnić. Jeśli miałeś pancerz na nogach, zaginął w błocie. Wydaj 3 przetrwania albo zarchiwizuj ten ekipunek.
 [c] 2-5
-[d] Mired, you struggle to break free! Roll again on this table or spend 1 survival to escape.
+[d] Ugrzązłeś! Walczysz by się wyrwać! Rzuć ponownie w tej tabeli lub wydaj 1 przetrwania byc uciec.
 [c] 6-9
-[d] You escape without incident.
+[d] Uciekasz bez żadnego przykrego incydentu
 [c] 10+
-[dt] You find something gross drudging through the rot! Gain 1 random basic resource.
+[dt] Znalazłeś coś ciężkiego. Wyciągasz mozolnie obiekt ze zgnilizny! Otrzymujesz losowo 1 podstawowy zasób.
 `,
 
   31: `31 | Strange Path

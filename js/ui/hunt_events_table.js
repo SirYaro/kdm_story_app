@@ -504,86 +504,86 @@ Wykonawca wydarzenia wdeptuje w straszliwą pułapkę! Rzuć 1k10.
 [T]
 `,
 
-  16: `16 | Night Terrors
-Your miserable sleep is plagued with mind-bending nightmares. Each survivor rolls 1k10.
+  16: `16 | Nocna groza
+Wasz sen jest nękany przez koszmary. Każdy Ocalały rzuca 1k10.
 
 [TA] 1k10
-[td] Each survivor - Is result greater than insanity?
+[td] Każdy Ocalały - Czy wynik jest wyższy niż obłęd?
 [c] Tak
-[d] Learn something from the waking horror and gain +1 understanding.
+[d] Uczysz się czegoś o budzącej się grozie i otrzymujesz +1 do wiedzy.
 [c] Nie
-[d] Gain 1 random disorder.
-[c] Survivor is a savior or has the <b>Extra Sense</b> fighting art
-[dt] They disappear into the dream, emerging from the darkness hours later. They gain +4 Hunt XP and a random basic resource.
+[d] Otrzymujesz 1 losowe zaburzenie.
+[c] Jeśli którykolwiek z Ocalałych jest zbawcą lub zna sztukę walki  <b>szósty zmysł</b>,  znikają w tym  śnie.  Wynurzają  się z ciemności kilka godzin później. Każdy z nich otrzymuje +4
+doświadczenia łowieckiego i losowy podstawowy zasób.
 `,
 
-  17: `17 | Face-to-Face
-Amidst the sea of stone faces, one catches the event revealer's eye. They feel compelled to <b>investigate</b>. Gain +1 courage and roll 1k10.
+  17: `17 | Twarzą w twarz
+Pośród morza kamiennych twarzy, jedna przyciąga spojrzenie wykonawcy wydarzenia.Coś zmusza go do podjęcia <b>badania</b>. Otrzymuje +1 do odwagi i rzuca 1k10.
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1
-[d] The face is identical to your own. Spend 1d5 survival or reduce your understanding to 0.
+[d] Twarz wygląda identycznie jak Twoja. Wydaj 1k5 przetrwania lub zredukuj swoją wiedzę do 0.
 [c] 2-7
-[d] The face reminds you of someone dear. Your heart aches with loneliness. If your survival is greater than your insanity, suffer monster level brain event damage.
+[d] Twarz przypomina ci kogoś bliskiego. Twoje serce wypełnia ból samotności. Jeśli twoje przetrwanie jest większe niż twój obłęd, to wydarzenie zadaje twojemu umysłowi obrażenia równe poziomowi potwora.
 [c] 8+
-[dt] The face is your own but older and wiser. Gain +1 survival and +1 understanding.
+[dt] To twoja twarz,jednakże starsza i bardziej doświadczona. Otrzymujesz +1 do przetrwania i +1 do wiedzy.
 `,
 
-  18: `18 | Dead Weed
+  18: `18 | Martwy chwast
 
 [img] 18 # no-shadow # width:35%
 
-You find a strange plant growing from the eyes of a stone face. The event revealer tries to harvest it. Roll 1d0.
+Znajdujesz dziwną roślinę wyrastającą z oczu kamiennejtwarzy. Wykonawca wydarzenia próbuje ją wyrwać. Rzuć 1k10.
 
-[i] If any survivor has a sickle, add +4 to their roll.
+[i] Jeśli jakikolwiek Ocalały ma sierp, dodaj +4 do swojego rzutu.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1-7
-[d] Try as you might, you cannot pull out the deeply rooted weed.
+[d]  Próbujesz ze wszystkich sił, ale nie możesz wyciągnąć głęboko ukorzenionego chwastu.
 [c] 8+
-[dt] You pull the weed free! It has enormous regenerative power. Each survivor rubs it on their skin and removes 1 permanent severe injury. Then it crumbles into dust in your hands.
+[dt] Łatwo wyciągasz chwast! Ma ogromną moc regeneracyjną. Każdy z ocalałych wciera go w skórę i trwale usuwa 1 ciężki uraz. Następnie chwast rozpada się w pył w twoich rękach.
 `,
 
-  19: `19 | Exhalation of Darkness
+  19: `19 | Opary Ciemności
 
 [img] 19 # width:25%
 
-The survivors are enveloped in a steamy darkness that dims their lantern lights. They become separated from each other and hopelessly lost.
+Ocalałych spowijają opary ciemności zaciemniającej światła  ich latarni.  Oddzielają  się od siebie i gubią  w mroku.
 
 [TO] Sprawdź
-[td] Does any survivor have the <b>Leader</b> fighting art?
-[c] Tak #Leader
-[d] They boldly stride into the clammy darkness and gather everyone. End this event.
+[td] Czy jakiś Ocalały posiada sztukę walki <b>przywódca</b>?
+[c] Tak #Przywódca
+[d] Rzucasz się odważnie w gęstą ciemność i zbierasz wszystkich. Zakończ to wydarzenie.
 [c] Nie #
 [d<]
 
-Each survivor rolls 1k10. The lowest scoring survivor (or survivors, in case of ties) becomes a straggler. Each straggler rolls 1k10.
+Każdy Ocalały rzuca 1k10. Ocalały z najniższym wynikiem (lub Ocalali w przypadku remisów) zostaje Spóźnionym i rzuca 1k10.
 
 [TA] 1k10
-[td] Straggler
+[td] Spóźniony
 [c] 1-2
-[d] You trip and fall into the bones of an ancient monster, smashing a piece of gear on the way down. Archive 1 gear of your choice from your gear grid.
+[d] Biegnąc potykasz się i wpadajsz na kości starożytnego potwora. Niszczysz przy tym część swojego ekwipunku. Wybierz i zarchiwizuj 1 ekwipunek ze swojego siatki ekwipunku.
 [c] 3-5
-[d] Something unseen attacks you, suffer 1 brain event damage and 1 event damage to a random location.
+[d] Atakuje cię coś niewidzialnego. To wydarzenie zadaje 1 obrażenie umysłowi i 1 obrażenie w losowe miejsce trafienia.
 [c] 6-8
-[d] You bang into a giant stone face's nose! Suffer 1 head event damage.
+[d] Uderzasz w nos gigantycznej kamiennej twarzy! To wydarzenie zadaje ci 1 obrażenie w głowę.
 [c] 9+
-[dt] You're not sure how, but you leave the darkness with your hands full. Gain 1 random basic resource.
+[dt] Nie wiesz jak to się stało, ale wypadasz z ciemności, z pełnymi rękoma. Otrzymujesz 1 losowy podstawowy zasób.
 
 [>d]
 [T]
 `,
 
-  20: `20 | Dry Lands
-As the survivors press forward, the air turns dry and the ground cracks. The survivors suffer heat exhaustion. Each survivor loses 1 survival. If they are wearing fur or heavy gear, they instead lose 1d5 survival.
+  20: `20 | Sucha ziemia
+Maszerujących Ocalałych spowija gorące powietrze, a ziemia pod ich stopami pęka. Nieznośne gorąco wysysa z Ocalałych siły. Każdy traci 1 przetrwania. Jeśli ma na sobie futro lub ciężki ekwipunek, zamiast tego traci 1k5 przetrwania.
 
 [TO] Sprawdź
-[td] Does any survivor have a pickaxe?
-[c] Tak #Pickaxe
-[d] The survivors break open an interesting-looking vein in the cracked ground. Gain 1 <b>Iron</b> strange resource.
-[c] Nie #No pickaxe
-[dt] The survivors continue their hunt.
+[td] Czy jakis Ocalały posiada kilof?
+[c] Tak #Kilof
+[d] Ocalali natrafiają w popekanej ziemi na ineresującą żyłę żelaza. Otrzymujesz 1 dziwny zasób <b>żelazo</b>.
+[c] Nie #Brak kilofa
+[dt] Ocalali kontynuują łowy.
 `,
 
   21: `21 | Drawings
@@ -697,7 +697,7 @@ Each survivor rolls 1k10. The lowest scoring survivor (or survivors, in case of 
 Each straggler rolls 1k10.
 
 [TA] 1k10
-[td] Straggler
+[td] Spóźniony
 [c] 1
 [d<]
 
@@ -1242,7 +1242,7 @@ A small copse of trees rises over an otherwise lifeless plain. Enticing red frui
 
 <b>Insane</b> survivors and survivors with the <b>Binge Eating</b> disorder must consume.
 
-[i] If any survivor has a sickle, they carve a line across the tree, drawing blood! The fruit instantly sours. End this event.
+[i] If any survivor has a sickle, they carve a line across the tree, drawing blood! The fruit instantly sours. Zakończ to wydarzenie.
 
 [TA] 1k10
 [td] Any survivor - Consume
@@ -1820,7 +1820,7 @@ Each straggler rolls 1k10.
 [i] If any other survivor has a whip, they throw a line to the straggler. Each straggler adds +4 to their roll.
 
 [TA] 1k10
-[td] Straggler
+[td] Spóźniony
 [c] 1
 [d] You are swallowed by the sinkhole. Moments later it regurgitates you completely naked. Your gear is hopelessly lost in the miasma. Archive all gear in your gear grid.
 [c] 2-4
@@ -1914,7 +1914,7 @@ As the survivors carefully pick their way past the verdant hazards, the straggle
 [i] If any survivor has a whip, a hasty tether is made. Add +4 to your roll.
 
 [TA] 1k10
-[td] Straggler
+[td] Spóźniony
 [c] 1
 [d] You land in the grass patch. As you climb to your feet, you realize it's too late. The parts of your body that touched the ground have sprouted with sharp blades of grass. Any attempt to remove them only spreads them further over your body. During the showdown, you are never a threat (ignore any effect that would make you a threat, even the White Lion's <b>Sniff</b>). At the end of the showdown, your body blossoms into a whorl of immaculate green grass. Dead.
 [c] 2-9
@@ -2066,7 +2066,7 @@ A one-eyed statue, twice as tall as any man, sits before a great anvil with a ha
 [c] 9-13
 [d] You may not be quick enough to grab the sword, but at least you're not foolish enough to die trying.
 [c] 14+
-[dt] Your speed is legendary. Gain the <b>Muramasa</b> rare gear. End this event.
+[dt] Your speed is legendary. Gain the <b>Muramasa</b> rare gear. Zakończ to wydarzenie.
 `,
 
   89: `89 | Cleaner Birds

@@ -586,139 +586,139 @@ Maszerujących Ocalałych spowija gorące powietrze, a ziemia pod ich stopami p�
 [dt] Ocalali kontynuują łowy.
 `,
 
-  21: `21 | Drawings
-Cowering in a cave, the survivors find strange drawings decorating the walls. They appear to contain a message.
+  21: `21 |  Rysunki
+Kryjąc się w jaskini, Ocalali odnajduja dziwne rysunki dekorujące ściany. Odkrywają, że zawierają one wiadomość.
 
 [TO] Sprawdź
-[td] Does any survivor have +3 understanding or does the settlement have Pictographs?
-[c] Tak #Decipher
+[td] Czy jakiś Ocalały ma 3+ wiedzy albo osada odkryła piktogramy?
+[c] Tak #Odszyfruj
 
 [d<]
 
-[i] If the settlement has <b>Pictographs</b>, every survivor may roll (regardless of their understanding) and add +4 to their rolls.
+[i] Jeśli zna <b>piktogramy</b>, każdy Ocalały może rzucić 1k10 (nawet bez wymaganej wiedzy) i dodać +4 do wyrzuconego przez siebie wyniku.
 
 [TA] 1k10
-[td] Any survivor with 3+ understanding
+[td] Każdy ocalały z wiedzą na 3+
 [c] 1-3
-[d] Your nose begins to bleed. Suffer monster level brain event damage.
+[d] Twój nos zaczyna krwawić. To wydarzenie zadaje 1 obrażenie umysłowi, równe poziomowi potwora.
 [c] 4-7
-[d] The true meaning escapes you. Gain +1 insanity.
+[d] Prawdziwe znaczenie umyka Ci. Otrzymujesz +1 do obłędu.
 [c] 8+
-[dt] The drawings teach you a new way to fight monsters! Gain +2 survival and a random fighting art.
+[dt] Rysunki uczą cię nowego sposobu walki z potworami! Otrzymujesz +2 przetrwania i losową sztukę walki.
 [>d]
 
 [c] Nie
-[d] The survivors continue their hunt.
+[d] Ocalali kontunuują łowy.
 [T]
 `,
 
-  22: `22 | Acid Rain
-The darkness above is suddenly alight with a storm of acid rain. It smells terrible, burns flesh, and forms hissing pools in the upturned mouths of the stone faces. All survivors suffer monster level event damage to every hit location as they scramble to find shelter.
+  22: `22 | Kwasowy deszcz
+Ciemność nad wami nagle rozbłyska burzą kwasowego deszu. Cuchnie okropnie, pali ciało i tworzy syczące kałuże w rozwartych ustach kamiennych twarzy. To wydarzenie zadaje wszystkim Ocalałym obrażenia, równe poziomowi potwora w każde miejsce trafienia, gdy miotają się by znaleźć schronienie.
 
 [TO] Sprawdź
-[td] Does the settlement have Sculpture?
-[c] Tak #Sculpture
+[td] Czy osada zna Rzeźbę?
+[c] Tak #Rzeźba
 [d<]
 
-The survivors silently watch the storm erode the stone faces, erasing their features. They wonder exactly who or what repairs the broken faces, if there is such a thing. The survivors share a dark laugh, each gaining monster level survival.
+Ocalali w milczeniu oglądają deszcz erodujący kamienne twarze, usuwający z nich rysy. Zastanawiają się, kto lub co naprawia zniszczone twarze po takim zdarzeniu. Ocalali wymieniają markotne uśmiechy. Każdy otrzymuje przetrwanie równe poziomowi potwora.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1-5
-[d] The storm passes by.
+[d] Burza powoli mija.
 [c] 6+
-[dt] The storm moves homeward. Add the <b>Acid Storm</b> settlement event to the timeline next year.
+[dt] Kwasowa burza przemieszcza się ku domowi. Dodaj wydarzenie <b>Kwasowa burza</b> na osi czasu w przyszłym roku.
 
 [>d]
-[c] Nie #No Sculpture
+[c] Nie #Brak Rzeźby
 [d<]
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1-5
-[d] The storm passes by.
+[d] Burza powoli mija.
 [c] 6+
-[dt] the storm moves homeward. Add the <b>Acid Storm</b> settlement event to the timeline next year.
+[dt] Kwasowa burza przemieszcza się ku domowi. Dodaj wydarzenie <b>Kwasowa burza</b> na osi czasu w przyszłym roku.
 
 [>d]
 [T]
 `,
 
-  23: `23 | Clean Water
-The survivors pass a forlorn fountain in the shape of a lion's face. A stream of crystal-clear water flows from its mouth. Each survivor <b>consumes</b> the water, gaining +1 survival and +1 courage. Any number of survivors may douse their head in the water and roll 1k10.
+  23: `23 | Czysta woda
+Ocalali podchodzą do samotnej fontanny w kształcie lwiego łba. Strumień krystalicznie czystej wody wypływa z jego paszczy. Każdy ocalały spożywa wodę, zyskując +1 do przetrwania i +1 odwagi. Dowolna liczba ocalałych może zanurzyć głowę w wodzie i rzucić 1k10.
 
 [TA] 1k10
-[td] Any survivor
+[td] Każdy ocalały
 [c] 1-2
-[d] The instant it becomes wet, your hair turns stark white. Gain 1 random disorder.
+[d] Głowa błyskawicznie staje się mokra, twoje włosy zmieniają się w białe. Zyskujesz 1 losowe zaburzenie.
 [c] 3-5
-[d] Your hair is wet. Congratulations.
+[d]  Twoje włosy są mokre. Gratulacje.
 [c] 6-8
-[d] The water is bracing. Gain +1 understanding or remove a disorder of your choice.
+[d] Woda jest orzeźwiająca. Zyskujesz +1 wiedzy lub usuń dowolne wybrane przez siebie zaburzenie.
 [c] 9+
-[d] The water is shockingly cold! It rushes over you like a tidal wave and leaves you awestruck. Set your insanity to 0 and remove all disorders.
+[d] Woda jest szokująco zimna! Przepływa nad tobą jak fala przyboju i pozostawia uczucie orzeźwienia. Ustaw swój obłęd na 0 i usuń wszystkie zaburzenia.
 [T]
 `,
 
-  24: `24 | Food from the Mouths of Others
+  24: `24 | Pokarm w ustach innych
 
 [img] 24 # no-shadow
 
-The survivors pass a stone face that appears to be holding something in its mouth. The event revealer <b>investigates</b>. Gain +1 courage and roll 1k10.
+Ocalali mijają kamienną twarz, wydającą się mieć coś w ustach. Wykonawca  wydarzenia  przeprowadza  <b>badanie</b>. Otrzymuje +1 odwagi i rzuca 1k10.
 
 [TO] 1k10
-[td] Wykonawca wydarzenia - Investigate
+[td] Wykonawca wydarzenia - Badaj
 [c] 1-2
-[d] You yell out in pain and pull your hand back, revealing a bloody gash. Did the stone face just bite? Suffer monster level brain event damage and monster level event arm damage.
+[d] Wrzeszczysz z bólu i cofasz rękę pokazując krwawe rany. Czyżby kamienna twarz po prostu ugryzła? To wydarzenie zadaje obrażenie umysłowi, równe poziomowi potwora oraz obrażenie rąk, równe poziomowi potwora.
 [c] 3-5
-[d] There's nothing. It was just a trick of the lantern light.
+[d] Nic tu nie ma. To było tylko złudzenie.
 [c] 6-8
-[d] More rocks, what did you expect? Gain 1 </b>Founding Stone<b> starting gear.
+[d] To tylko skały, ekwipunek czego się odłamek spodziewałeś? Otrzymujesz 1 początkowy ekwipunek <b>odłamek podłoża</b>.
 [c] 9+
-[d] You pull out a masticated mass. Gain 1 random basic resource and 2 insanity.
+[d] Wyciągasz przeżutą masę. Otrzymujesz 1 losowy podstawowy zasób oraz +2 do obłędu.
 [T]
 `,
 
-  25: `25 | Titans in the Dark
+  25: `25 |  Tytani w ciemności
 
 [img] 25 # no-shadow # width:50%
 
-An earsplitting bellow marks the passing of a truly titanic beast. All <b>non-deaf</b> survivors suffer monster level brain event damage. The survivors cower on the ground, lying as flat as possible and hoping they are simply too small to be worth eating.
+Przeszywający uszy ryk obwieścił nadejście prawdziwie tytanicznej bestii. To wydarzenie, zadaje obrażenie umysłom wszystkim  <b>niegłuchych</b>  Ocalałych,  równe  poziomowi potwora. Ocalali kryją się na ziemi, leżąc tak bardzo płasko, jak to tylko możliwe, mając nadzieję, że są zbyt mali, by zostać zjedzonymi.
 
-Each survivor rolls 1k10. The lowest scoring survivor (or survivors, in case of ties) becomes a straggler.
+Każdy Ocalały rzuca 1k10. Ocalały z najniższym wynikiem (lub którykolwiek Ocalali w Ocalały przypadku ma remisów) zostaje Spóźnionym.
 
-[i] If any survivor has <b>noisy</b> gear, -2 to their roll.
+[i] Jeśli którykolwiek Ocalały ma ekwipunek <b>hałaśliwy</b>,  otrzymuje -2 do tego rzutu.
 
 [TO] 1k10
-[td] Determine the straggler
-[c] Straggler chosen
+[td] Wybierz Spóźnionego
+[c] Spóźniony wybrany
 [d<]
 
-Each straggler rolls 1k10.
+Każdy Spóźniony rzuca 1k10.
 
 [TA] 1k10
 [td] Spóźniony
 [c] 1
 [d<]
 
-You're plucked from the ground and eaten whole.
+Zostałeś porwany z ziemi i pożarty w całości.
 
 [TO] Sprawdź
-[td] Does the settlement have Survival of the Fittest?
-[c] Tak #Survival of the Fittest
-[d] You twist out of its mouth and land with a thud. Suffer the <b>broken arm</b> and <b>broken leg</b> severe injuries but do not die.
+[td] Czy osada zna Przetrwanie najsilniejszych?
+[c] Tak #Przetrwanie najsilniejszych
+[d] skręcasz się i wyrywasz z ust lądując na ziemi z głuchym łomotem. Otrzymujesz ciężki uraz złamana ręka i złamana noga, ale nie umierasz.
 [c] Nie #
-[dt] Dead.
+[dt] Nie żyjesz.
 
 [>d]
 [c] 2-4
-[d] Something snatches you in its great maw and chews you for 1 event damage to 1d5 random hit locations.
+[d] Coś chwyta cię w wielką paszczę i chwilę przeżuwa cię. To wydarzenie zadaje po 1 obrażeniu, w wylosowane 1k5 miejsc trafień.
 [c] 5-6
-[d] The clamping jaws barely nip you! Suffer monster level event damage to a random hit location.
+[d] Zaciskające się szczęki tylko cię uszczypnęły! To wydarzenie zadaje obrażenie równe poziomowi potwora, w losowe miejsce trafienia.
 [c] 7-9
-[d] You make yourself extra flat against the ground and avoid anything terrible.
+[d] Rozpłaszczasz się na ziemi najbardziej jak potrafisz, co pozwala uniknąć straszliwych tarapatów.
 [c] 10+
-[dt] You will never stop running from what you saw. Gain +1 permanent movement.
+[dt] Nigdy nie przestaniesz uciekać od tego, co zobaczyłeś. Zdobywasz na stałe +1 do ruchu.
 [>d]
 [T]
 `,
@@ -994,7 +994,7 @@ The event revealer rolls 1k10 and adds their understanding.
 [d<]
 
 [TO] Sprawdź
-[td] Does the settlement have <b>Song of the Brave</b>?
+[td] Czy osada zna <b>Song of the Brave</b>?
 [c] Tak #Song of the Brave
 [d<]
 
@@ -1027,7 +1027,7 @@ Gain the <b>Lantern Oven</b> innovation:
 [i] If the settlement already has this innovation, the event revealer harvests a <b>broken lantern</b> basic resource from the remains.
 
 [TO] Sprawdź
-[td] Does the settlement have <b>Song of the Brave</b>?
+[td] Czy osada zna <b>Song of the Brave</b>?
 [c] Tak #Song of the Brave
 [d<]
 
@@ -1144,7 +1144,7 @@ The event revealer dreams of the upcoming hunt. The great beast vanishes during 
 The event revealer gains +1k10 insanity and -1 evasion token.
 
 [TO] Sprawdź
-[td] Does the settlement have a savior?
+[td] Czy osada zna a savior?
 [c] Tak #
 [d<]
 
@@ -1309,7 +1309,7 @@ The event revealer rolls 1k10.
 The survivors encounter a group of fleeing settlers.
 
 [TO] Sprawdź
-[td] Does the settlement have <b>Symposium</b> and <b>Language</b>?
+[td] Czy osada zna <b>Symposium</b> and <b>Language</b>?
 [c] Tak #Symposium and Language
 [d<]
 
@@ -1517,7 +1517,7 @@ The stone faces ahead are replaced by an expanse of stone feet sprouting from th
 [d<]
 
 [TO] Sprawdź
-[td] Does the settlement have Survival of the Fittest?
+[td] Czy osada zna Survival of the Fittest?
 [c] Tak #Survival of the Fittest
 [d] They fall off the underside of the world. The survivors bite down hard on the feet. Their teeth grind against stone as they refuse to let go. At once, the feet shatter, revealing ordinary stone faces beneath. Set all survivors' insanity to 0. Each survivor suffers the <b>shattered jaw</b> severe head injury. Do not roll any additional hunt events caused by <b>Feet</b>.
 [c] Nie #
@@ -1564,7 +1564,7 @@ Otherwise, each survivor rolls 1k10. The lowest scoring survivor (roll off in ca
 
 The straggler is drawn to the statue, touching it gently. In an instant, they are gone, replaced by the man from the throne, now flesh and blood. The straggler sits in his place on the throne, stone mouth open in a silent yell. They are gone forever. Consider them dead, but do not apply <b>Cannibalize</b> death principle; there is no body.
 [TO] Sprawdź
-[td] Does the settlement have <b>Momento Mori</b>?
+[td] Czy osada zna <b>Momento Mori</b>?
 [c] Tak #Momento Mori
 [d] The satue resembles a deceased survivor. Replace the straggler with the record sheet of a fallen survivor. Remove all of their severe injuries. Set their Hunt XP to 2 (they Age again, as this is a new lifetime). They gain +1k10 survival, +1k10 insanity. You may give them 3 ranks of proficiency in a random weapon type.
 [c] Nie #
@@ -1763,7 +1763,7 @@ Against all reason, you feel compelled to reach into a skull and take an ember. 
 Your jaw clamps shut around the ember, the flesh of your mouth melts shut, muffling your cries of pain. Smoke pours from your eyes, nose, and ears.
 
 [TO] Sprawdź
-[td] Does the settlement have <b>Survival of the Fittest</b>?
+[td] Czy osada zna <b>Survival of the Fittest</b>?
 [c] Tak #Survival of the Fittest
 [d] The urge to live wins out and you savagely break open your own jaw, Suffer the <b>broken jaw</b> severe head injury. The ember tumbles to the ground, its sputtering hiss ringing in your ears as all survivors flee in horror.
 [c] Nie #
@@ -1870,7 +1870,7 @@ The survivors discover a body slumped against a large stone face. Moving closer,
 Record the <b>Portcullis Key</b> in the settlement record sheet notes.
 
 [TO] Sprawdź
-[td] Does the settlement have Graves?
+[td] Czy osada zna Graves?
 [c] Tak #Graves
 [d] The event revealer builds a small monument of broken stone noses and gains +1 understanding.
 [c] Nie #
@@ -1938,7 +1938,7 @@ The survivors approach a 5-sided monolith made of flesh that stretches into the 
 
 The monolith's limbs spring to life, grabbing hold before you can react.
 [TO] Sprawdź
-[td] Does the settlement have Survival of the Fittest?
+[td] Czy osada zna Survival of the Fittest?
 [c] Tak #Survival of the Fittest
 [d] You fight the monolith! The horrible edifice tears your arm off, but you bite one of its appendages in return, severing it! The monolith retreats into the ground as you roar in triumph. Suffer the <b>dismembered arm</b> severe injury and gain +1 permanent strength. All other survivors stand in awe and gain +3 insanity and +1 courage.
 [c] Nie #
@@ -1954,7 +1954,7 @@ The monolith's limbs spring to life, grabbing hold before you can react.
 
 As the survivors draw near, they discover that this flesh monolith is actually an enormous pile of survivors' corpses, many with badly broken limbs. The pile is covered in chunks of strange, sweet-smelling viscera.
 [TO] Sprawdź
-[td] Does the settlement have Graves?
+[td] Czy osada zna Graves?
 [c] Tak #Graves
 [d] You ascend the heap and find 3 barely living survivors, their bodies devoid of nourishment and their eyes too sensitive for lantern light. If you return to the settlement, +3 population. These new survivors cannot depart for 2 lantern years as they need time to recover (note this on the timeline).
 [c] Nie #
@@ -1970,7 +1970,7 @@ As the survivors draw near, they discover that this flesh monolith is actually a
 A huge, ornately bound book lays open before the survivors.
 
 [TO] Sprawdź
-[td] Does the settlement have Pictographs?
+[td] Czy osada zna Pictographs?
 [c] Tak #Pictographs
 [d<]
 
@@ -2130,7 +2130,7 @@ Each survivor suffers 1 brain event damage and gains 1 <b>Founding Stone</b> sta
 In a hollow between two identical rocks, you find a corpse with fabulous hair clutching a book to its chest.
 
 [TO] Sprawdź
-[td] Does the settlement have Pictographs?
+[td] Czy osada zna Pictographs?
 [c] Tak #Pictographs
 [d<]
 
@@ -2246,7 +2246,7 @@ The event revealer may <b>investigate</b> and roll 1k10, or ignore the trail and
 The survivors approach a massive portcullis standing in the darkness. It is not attached to anything and does not bar their way. They may choose to walk around it.
 
 [TO] Sprawdź
-[td] Does the settlement have the Portcullis Key?
+[td] Czy osada zna the Portcullis Key?
 [c] Tak #Portcullis Key
 [d<]
 

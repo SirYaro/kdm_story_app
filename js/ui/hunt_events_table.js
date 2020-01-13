@@ -836,119 +836,119 @@ Kamienne twarze zapadają się lekko pod nogami Ocalałych. Są wzdęte i śmier
 [dt] Znalazłeś coś ciężkiego. Wyciągasz mozolnie obiekt ze zgnilizny! Otrzymujesz losowo 1 podstawowy zasób.
 `,
 
-  31: `31 | Strange Path
-The survivors stop at the head of a path. Small lanterns twinkle, marking its edges.
+  31: `31 | Dziwna ścieżka
+Ocalali stają na początku ścieżki. Małe latarnie migoczą, znacząc jej krawędzie.
 
-The event revealer decides whether or not the survivors follow the path.
-[i] If the event revealer is <b>insane</b>, they must.
+Wykonawca wydarzenia decyduje, czy Ocalali podążą ścieżką, czy też nie.
+[i] Jeśli wykonawca wydarzenia jest dotknięty <b>obłędem</b>, muszą przez nią przejść. 
 
 [TO] Wybór
-[td] Wykonawca wydarzenia - Follow the path?
-[c] Tak #Follow
+[td] Wykonawca wydarzenia - podążacie ścieżką?
+[c] Tak #Podążacie
 [d<]
 
-The event revealer gains +1 understanding then rolls 1k10 and adds their understanding.
+Wykonawca wydarzenia otrzymuje +1 wiedzy, następnie rzuca 1k10 dodając swoją wiedzę do wyniku.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1
-[d] A colossal finger descends from above, crushing a random survivor. They suffer 2 event damage to every hit location.
+[d] Gigantyczny palec spada z góry, zgniatając losowego Ocalałego. To wydarzenie zadaje mu 2 obrażenia w każde miejsce trafienia.
 [c] 2-4
-[d] A random survivor tears off hysterically along a branch in the path. They return hours later, ghostly pale and with no recollection of what happened. They lose 1k10 survival.
+[d] Losowy Ocalały z histerycznym płaczem odbiega, porzucając marsz ścieżką. Wraca wiele godzin później, upiornie blady i bez pamięci co się stało. Traci 1k10 przetrwania.
 [c] 5-7
-[d] The path twists and turns dizzyingly into the dark. All survivors suffer 1 brain event damage and the event revealer rolls again on this table, adding +2 to their roll.
+[d] Ścieżka skręca i ginie w mroku. To wydarzenie zadaje wszystkim Ocalałym 1 uszkodzenia umysłu, a wykonawca wydarzenia rzuca ponownie na tej liście wydarzeń, dodając +2 do tego rzutu.
 [c] 8-9
-[d] The path leads the survivors to a large stone face with lanterns for eyes. Inside its open mouth is a bounty. Each survivor gains 1 random basic resource.
+[d] Ścieżka prowadzi Ocalałych do olbrzymiej kamiennej twarzy z latarniami w oczach. Wewnątrz jej otwartych ust jest dar. Każdy Ocalały otrzymuje 1 losowy podstawowy zasób.
 [c] 10+
 [d<]
 
-The path leads to the beast you are hunting! The survivors <b>ambush</b> the monster.
-[i] If any survivor has the <b>Honorable</b> disorder, they realize the folly of their ways and may remove the disorder. If any survivors remain <b>Honorable</b>, they announce their presence to the monster; the monster <b>ambushes</b> the survivors instead.
+Ścieżka prowadzi do bestii, na którą polujecie! Ocalali zastawiają <b>zasadzkę</b> na potwora.
+[i] Jeśli którykolwiek z Ocalałych posiada zaburzenie <b>Honorowy</b>, zdaje sobie sprawę z szaleństwa w jakie popadł i może usunąć to zaburzenie. Jeśli którykolwiek Ocalały pozostanie <b>honorowy</b>, ogłasza swoją obecność potworowi i to potwór urządza <b>zasadzkę</b> na Ocalałych.
 
 [>d]
 [T]
 
 [>d]
-[c] Nie #Do not follow
-[dt] Roll again on the hunt event table before moving on the hunt board.
+[c] Nie #Nie podążacie
+[dt] Rzuć jeszcze raz na liście wydarzeń na łowach, przed ruchem na planszy łowów.
 `,
 
-  32: `32 | Sudden Madness
-The event revealer is devastated by a piercing cacophony in their head. Roll 1k10.
+  32: `32 | Nagłe szaleństwo
+Głowę wykonawcy wydarzenia przeszywa dewastująca zmysły kakofonia. Rzuć 1k10.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
-[c] Result less than or equal to their current insanity #
+[c] Wynik jest niższy lub równy aktualnemu poziomowi obłędu Wykonawcy #
 [d<]
 
-They go mad, lashing out at their compatriots! Each other survivor suffers 1 event damage to a random hit location before the event revealer regains control of themselves.
+Wykonaca wydarzenia wariuje rzucając się na swoich towarzyszy. To wydarzenie zadaje każdemu innemu Ocalałemu 1 trafienie w losowe miejsce trafienia, zanim wykonawca wydarzenia wydarzenia odzyskuje kontrolę nad sobą.
 
 [TO] Sprawdź
-[td] Does the event revealer have the <b>Crazed</b> fightning art?
-[c] Tak #Crazed
-[d] They gain insight from their ordeal. Gain +10 insanity and +2 understanding.
+[td] Czy Wykonaca wydarzenia posiada sztukę walki <b>Oszalały</b>?
+[c] Tak #Oszalały
+[d] Pozostają mu spostrzeżenia po tych mękach. Zyskuje +10 do obłędu i +2 do wiedzy.
 [c] Nie #
-[d] They learn nothing from the experience.
+[d] Nie wyciągnął żadnej nauki z tego doświadczenia.
 [T]
 
 [>d]
-[c] Result greater than their current insanity #
+[c] Wynik jest wyższy niż aktualny poziomo obłędu Wykonawcy wydarzenia #
 [d<]
 
-They regain control of themselves.
+Odzyskuje kontrolę nad sobą.
 
 [TO] Sprawdź
-[td] Does the event revealer have the <b>Crazed</b> fightning art?
-[c] Tak #Crazed
-[d] They gain insight from their ordeal. Gain +10 insanity and +2 understanding.
+[td] Czy Wykonaca wydarzenia posiada sztukę walki <b>Oszalały</b>?
+[c] Tak #Oszalały
+[d] Pozostają mu spostrzeżenia po tych mękach. Zyskuje +10 do obłędu i +2 do wiedzy.
 [c] Nie #
-[d] They learn nothing from the experience.
+[d] Nie wyciągnął żadnej nauki z tego doświadczenia.
 [T]
 
 [>d]
 [T]
 `,
 
-  33: `33 | It Whispers Your Name
+  33: `33 |  To szepcze Twoje imię
 
 [img] 33
 
-The event revealer trips over a protruding nose in the ground. The lips of a stone face begin to move!
+Gdy wykonawca wydarzenia przechodzi ponad wystającym nosem z ziemi, kamienne usta zaczynają się poruszać! 
 
 [TO] Sprawdź
-[td] Does the event revealer have a name?
+[td] Czy Wykonawca wydarzenia ma imię?
 [c] Tak #
 [d<]
 
-The lips seductively whisper the survivor's name.
+Usta zaczynają uwodzicielsko szeptać imię Ocalałego.
 
 [TO] Sprawdź
-[td] Is event revealer insane?
-[c] Tak #Insane
+[td] Czy Wykonawca jest obłąkany?
+[c] Tak #Obłąkany
 [d<]
 
-They are drawn in, savagely kissing the face. Repulsed and outraged, the other survivors suffer 1 brain event damage before pulling the crazed survivor from the ground and moving on.
+Dziko i brutalnie zaczyna całować twarz. Reszta Ocalałych jest zniesmaczona i oburzona. To wydarzenie zadaje umysłom reszty Ocalałych, po 1 obrażeniu, zanim odciągną szaleńca od twarzy i ruszą  dalej.
 
 [TO] Sprawdź
-[td] Does any survivor have the <b>Marrow Hunger</b> impairment?
-[c] Tak #Marrow Hunger
-[d] The face secretly whispers their life's purpose. They gain +1 permanent strength. Add the <b>Murder</b> settlement event to the timeline next year.
+[td] Czy któryś z Ocalałych ma zaburzenie <b>Głód szpiku</b>?
+[c] Tak #Głód szpiku
+[d] Twarz szepce sekretne przesłanie o celu jego życia. Dodaj wydarzenie <b>morderstwo</b> do osi czasu w przyszłym roku.
 [c] Nie #
-[d] The survivors continue their hunt.
+[d] Ocalali kontunuują łowy.
 [T]
 
 [>d]
-[c] Nie #Not insane
+[c] Nie #Nie jest obłąkany
 [d<]
 
-They gain +1 understanding, feeling on the cusp of learning something.
+Wykonawca zyskuje +1 do wiedzy, czując, że czegoś się nauczył.
 
 [TO] Sprawdź
-[td] Does any survivor have the <b>Marrow Hunger</b> impairment?
-[c] Tak #Marrow Hunger
-[d] The face secretly whispers their life's purpose. They gain +1 permanent strength. Add the <b>Murder</b> settlement event to the timeline next year.
+[td] Czy któryś z Ocalałych ma zaburzenie <b>Głód szpiku</b>?
+[c] Tak #Głód szpiku
+[d] Twarz szepce sekretne przesłanie o celu jego życia. Dodaj wydarzenie <b>morderstwo</b> do osi czasu w przyszłym roku.
 [c] Nie #
-[d] The survivors continue their hunt.
+[d] Ocalali kontunuują łowy.
 [T]
 
 [>d]
@@ -956,37 +956,37 @@ They gain +1 understanding, feeling on the cusp of learning something.
 
 [>d]
 [c] Nie #
-[dt] The lips stop moving and nothing else happens.
+[dt] Usta przestają się poruszać i nic więcej sie nie dzieje.
 `,
 
-  34: `34 | Crippling Misery
-Each survivor rolls 1k10. The lowest-scoring survivor (or survivors, in case of ties) becomes a straggler.
+  34: `34 |  Nieszczęśliwe okaleczenie
+Każdy Ocalały rzuca 1k10. Ocalały z najniższym wynikiem (lub Ocalali w przypadku remisu) zostaje Spóźnionym. 
 
-[i] If any survivor (or survivors) has the <b>Anxiety</b> disorder, they are the straggler. Do not roll.
+[i] Jeśli którykolwiek  Ocalony (lub  Ocalali)  ma zaburzenie  <b>niepokój</b>, automatycznie staje się Spóźnionym. Nie rzuca wtedy kością.
 
 [TO] 1k10
-[td] Determine straggler
-[c] Straggler chosen
+[td] Wybierz Spóźnionego
+[c] Spóźniony wybrany
 [d<]
 
-The straggler is lost in a moment of profound self doubt. They slip, not having the will to catch themselves, and tumble off a steep hill of stone faces. They land awkwardly with a crunch, suffering the <b>broken leg</b> severe injury. Sobbing to themselves, they come to grips with just how terrible their life is and gain +1 understanding.
+Spóźnionego zaczyna gnębić silne zwątpienie. Nim się ocknął - zagubił się. Nie mając dość energii i woli by się w porę złapać, ześlizgnął się po stromym wzgórzu kamiennych twarzy. Niezgrabnie lądując z nieprzyjemnym chrzęstem, otrzymuje ciężki uraz:  <b>złamana noga</b>. W trosce o siebie, zdaje sobie sprawę jak okropne jest jego życie. Zyskuje +1 wiedzy.
 
 [TA] Check
-[td] Does the straggler have the <b>Binge Eating</b> disorder?
-[c] Tak #Binge Eating
-[d] They wipe away their tears and reach out to a nearby critter, instinctually cramming it into their mouth for comfort. Draw 1 random vermin resource and <b>consume</b> it.
-[c] Nie #No Binge Eating
-[d] Nothing happens.
+[td] Czy Spóźniony ma zaburzenie <b>Napady obżarstwa</b>?
+[c] Tak #Napady obżarstwa
+[d] Zmywa łzy i wyciąga rękę po pobliskie stworzonko, instynktownie wpychając je sobie do ust jako pocieszenie. Dobierz 1 losowy zasób robactwa i go <b>spożyj</b>.
+[c] Nie #Brak napadów obżarstwa
+[d] Nic się nie dzieje.
 [T]
 
 [>d]
 [T]
 `,
 
-  35: `35 | Broken Lantern Oven
-The survivors come across the shattered ruins of a small settlement. Ashen corpses dot the ruins, disintegrating at the slightest touch. An extinguished lantern oven stands intact at the center of the settlement.
+  35: `35 |  Zepsuty latarniany piec
+Ocalali, natknęli się na roztrzaskane ruiny małej osady. Popielate zwłoki pokrywają ruiny, rozsypując się przy najlżejszym dotyku. Wygasły latarniany piec stoi nietkniętyw centrum osady. 
 
-The event revealer rolls 1k10 and adds their understanding.
+Wykonawca  wydarzenia  rzuca 1k10  i dodaje  swoją wiedzę.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
@@ -994,24 +994,24 @@ The event revealer rolls 1k10 and adds their understanding.
 [d<]
 
 [TO] Sprawdź
-[td] Czy osada zna <b>Song of the Brave</b>?
-[c] Tak #Song of the Brave
+[td] Czy osada zna <b>Pieść o bohaterach</b>?
+[c] Tak #Pieść o bohaterach
 [d<]
 
-The group may nominate a brave survivor to <b>investigate</b> the ruins of the settlement's lantern hoard. They gain +1 courage and roll 1k10.
+Grupa wybiera Ocalałego bohatera, aby zbadał ruiny latarnianego kopca. Otrzymuje +1 do odwagi i rzuca kością 1k10.
 
 [TO] 1k10
-[td] Nominated Survivor
+[td] Wybrany Ocalały
 [c] 1-5
-[d] You try to enter the ruined lantern hoard, but you are overcome with fear, keeling over and vomiting everywhere. When you rise, you find yourself physically incapable of pushing forward anymore. Gain the <b>Apathetic</b> disorder.
+[d] Próbujesz wejść do zrujnowanego latarnianego kopca ale pokonuje Cię strach, padasz na kolana i wymiotujesz wszędzie. Kiedy wstaniesz, czujesz, że jesteś fizycznie niezdolny by brnąć dalej. Otrzymujesz zaburzenie <b>Apatia</b>.
 [c] 6+
-[dt] You are repelled by the ruined lantern hoard, but linger just long enough to grab a pair of insects scurrying within it. That's as close as you're comfortable going. Gain 2 vermin resources of your choice.
+[dt] Jesteś odpychany przez zrujnowany latarniany kopiec, ale dotarłeś wystarczająco blisko, aby złapać parę owadów biegających w środku. Będąc tak blisko czujesz przyjemne odprężenie. Wybierz 2 zasoby robactwa według własnego uznania.
 
 [>d]
 [c] Nie #
 [d<]
 
-The survivors continue their hunt.
+Ocalali kontunuują łowy.
 
 [>d]
 [T]
@@ -1020,31 +1020,31 @@ The survivors continue their hunt.
 [c] 5+
 [d<]
 
-Gain the <b>Lantern Oven</b> innovation:
+Zdobywacie innowację <b>Latarniany piec</b>:
 
-<button class="hunt_event_action_button hoverable" id="lantern_oven" onClick="placeReminder('lantern_oven')">Gain Innovation</button>
+<button class="hunt_event_action_button hoverable" id="lantern_oven" onClick="placeReminder('lantern_oven')">Dodaj innowację</button>
 
-[i] If the settlement already has this innovation, the event revealer harvests a <b>broken lantern</b> basic resource from the remains.
+[i] Jeśli osada posiada już tę innowację, wykonawca wydarzenia zabiera z pozostałości podstawowy zasób <b>zniszczona latarnia</b>.
 
 [TO] Sprawdź
-[td] Czy osada zna <b>Song of the Brave</b>?
-[c] Tak #Song of the Brave
+[td] Czy osada zna <b>Pieść o bohaterach</b>?
+[c] Tak #Pieść o bohaterach
 [d<]
 
-The group may nominate a brave survivor to <b>investigate</b> the ruins of the settlement's lantern hoard. They gain +1 courage and roll 1k10.
+Grupa wybiera Ocalałego bohatera, aby zbadał ruiny latarnianego kopca. Otrzymuje +1 do odwagi i rzuca kością 1k10.
 
 [TO] 1k10
-[td] Nominated Survivor
+[td] Wybrany Ocalały
 [c] 1-5
-[d] You try to enter the ruined lantern hoard, but you are overcome with fear, keeling over and vomiting everywhere. When you rise, you find yourself physically incapable of pushing forward anymore. Gain the <b>Apathetic</b> disorder.
+[d] Próbujesz wejść do zrujnowanego latarnianego kopca ale pokonuje Cię strach, padasz na kolana i wymiotujesz wszędzie. Kiedy wstaniesz, czujesz, że jesteś fizycznie niezdolny by brnąć dalej. Otrzymujesz zaburzenie <b>Apatia</b>.
 [c] 6+
-[dt] You are repelled by the ruined lantern hoard, but linger just long enough to grab a pair of insects scurrying within it. That's as close as you're comfortable going. Gain 2 vermin resources of your choice.
+[dt] Jesteś odpychany przez zrujnowany latarniany kopiec, ale dotarłeś wystarczająco blisko, aby złapać parę owadów biegających w środku. Będąc tak blisko czujesz przyjemne odprężenie. Wybierz 2 zasoby robactwa według własnego uznania.
 
 [>d]
 [c] Nie #
 [d<]
 
-The survivors continue their hunt.
+Ocalali kontunuują łowy.
 
 [>d]
 [T]

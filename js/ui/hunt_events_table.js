@@ -1305,93 +1305,92 @@ Wykonawca wydarzenia rzuca 1k10.
 [T]
 `,
 
-  51: `51 | Refugees
-The survivors encounter a group of fleeing settlers.
+  51: `51 | Uchodźcy
+Ocalali spotykają grupę uciekających osadników.
 
 [TO] Sprawdź
-[td] Czy osada zna <b>Symposium</b> and <b>Language</b>?
-[c] Tak #Symposium and Language
+[td] Czy osada zna <b>Sympozjum</b> i  <b>Język</b>?
+[c] Tak #Sympozjum i Język
 [d<]
 
-The survivors manage to crudely communicate. The survivors may offer a resource or gear to help the distressed refugees.
+Ocalali podejmują próbę prymitywnej komunikacji. Mogą zaoferować zasób lub ekwipunek by pomóc nieszczęśliwym uchodźcom.
 
 [TO] Wybór
-[td] Share resource or gear?
-[c] Tak #Share
+[td] Podzielicie się zasobami lub ekwipunkiem?
+[c] Tak #Podziel się
 [d<]
 
-Archive the offering. The refugees frantically share their mournful tale. While much is lost in translation, they relate the savage invasion of a monster that destroyed their home. The tale prepares the survivors for what lies ahead. At the start of the showdown, reveal the top 5 Al cards of the Al deck and put them back in any order.
-[i] If any survivor has the <b>Leader</b> fighting art, one of the settlers is drawn to their charisma. Gain +1 population.
+Zarchiwizujecie ofertę. Uchodźcy gorączkowo dzielą się swoją żałosną opowieścią. Wiele niezrozumiałych kwestii umyka podczas tłumaczenia. Relacjonują agresywną inwazję potwora który zniszczył ich dom. Opowieść przygotowuje Ocalałych na przyszłe zdarzenia. Na początku starcia, odkryjesz 5 wierzchnich kart z talii SI i odłożysz z powrotem w wybranej kolejności.
+[i] Jeśli jakiś Ocalały zna sztukę walki <b>Przywódca</b> jeden z osadników jest tak zaintrygowany jego charyzmą, że dołącza się do waszej osady. Otrzymujecie +1 populacji.
 
 [>d]
-[c] Nie #Do not share
-[dt] Survivors continue their hunt.
+[c] Nie #Nie dziel się
+[dt] Ocalali kontunuują łowy.
 [>d]
 [c] Nie #
-[d] Survivors continue their hunt.
+[d] Ocalali kontunuują łowy.
 [T]
 `,
 
-  52: `52 | Madflies
-Tiny, persistent insects swarm the survivors, flying into their ears and nostrils. The bugs buzz maddeningly in their heads, growing louder as they nest.
-Each survivor rolls 1k10.
+  52: `52 | Rozszalałe muchy
+Maleńkie, uporczywe owady kłębią się wokół Ocalałych. Wlatują w uszy i nozdrza. Brzęczenie owadów dźwięczy szaleńczo w głowie, narastając coraz głośniej. 
+Każdy Ocalały rzuca 1k10.
 
 [TA] 1k10
-[td] Each survivor
+[td] Każdy Ocalały
 [c] 1-2
-[d] You dive into a nearby marsh to flush out the disgusting insects. It works, but now you're constantly distracted by the tiny bug corpses you occasionally hack up. Gain -1 evasion token.
+[d] Nurkujesz w pobliskie bagno by zmyć obrzydliwe owady. To działa, ale teraz jesteś ciągle rozpraszany przez malutkie truchła, które od czasu do czasu strząsasz. Otrzymujesz żeton -1 do zwodów.
 [c] 3-7
-[d] The buzzing immediately stops and the flies depart. Their rejection makes you feel strangely despondent. Gain +1 insanity.
+[d] Brzęczenie znika w jednej chwili, a muchy odlatują. Ich zniknięcie sprawia, że czujesz się dziwnie przygnębiony. Otrzymujesz +1 do obłędu.
 [c] 8+
 [d<]
 
-Their eggs gestate incredibly quickly and madflies explode forth from your mouth! The experience is gruesome, but makes you feel so alive! Suffer the <b>frenzy</b> brain trauma.
-[i] If you have the <b>Rageholic</b> disorder or <b>Berserker</b> fighting art, giving birth to disgusting new life kindles your rage. Suffer the <b>frenzy</b> brain trauma again.
+Ich jajeczka przechodzą błyskawiczny rozwój, a rozszalałe muchy niemalże eksplodują z twoich ust!
+Doświadczenie jest makabryczne, ale sprawia, że nabierasz energii i ożywasz! Otrzymujesz traumę  umysłu <b>furia</b>. Jeśli masz zaburzenie <b>furiat</b> lub znasz sztukę walki <b>berserk</b>, zrodzenie obrzydliwego nowego życia, rozpala twój gniew. Ponownie otrzymujesz traumę umysłu <b>furia</b>.
 
 [>d]
 [T]
 `,
 
-  53: `53 | Mask Salesman
-The survivors meet a traveling Mask Salesman on the road. He insists that he has special wares to offer.
-Shuffle one copy of each mask gear from the Mask Maker settlement location and draw one at random. The salesman is offering this mask. The event revealer rolls 1k10 to determine the price, then gains the mask.
+  53: `53 | Zamaskowany sprzedawca
+Ocalali spotykają podróżującego zamaskowanego sprzedawcę. Nachalnie przekonuje, że ma niezwykłe towary w swojej ofercie.
+Potasuj jedną kopię karty ekwipunku „maska” z lokacji osady „wytwórca masek”, i wylosuj jedną. Sprzedawca oferuje wam tę maskę. Wykonawca wydarzenia rzuca 1k10 by określić cenę za jaką uzyska maskę.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1-3
-[d] The salesman silently points at you. You instinctively hand him his asking price in exchange for the mask. Archive 1 gear of your choice from your gear grid and lose all survival.
+[d] Sprzedawca w milczeniu wskazuje ciebie. Instynktownie wręczasz mu opłatę w zamian za maskę. Zarchiwizuj 1 wybrany ekwipunek ze swojej siatki ekwipunku i wydaj wszystkie punkty przetrwania.
 [c] 4-7
-[d] The salesman slowly gestures for an offering. Archive 1 gear of your choice from your gear grid.
+[d] Sprzedawca powoli gestykuluje w celu złożenia oferty. Zarchiwizuj 1 wybrany przez ciebie ekwipunek ze swojej siatki ekwipunku.
 [c] 8+
-[dt] As he imparts the mask to you, the salesman's lips form the sounds of your name. It is gone. Give your survivor a new name (it must be different) and +1 survival for naming your survivor.
+[dt] Przekazując tobie maskę usta sprzedawcy wypowiadają Twoje imię. Następnie znika. Nadaj swojemu Ocalałemu nowe imię (musi być inne) i daj +1 przetrwania za nadanie imienia Ocalałemu.
 `,
 
-  54: `54 | Bone Storm
-Mighty winds tear across the landscape, collecting chips of stones and skeletal remains. The survivors huddle together on the outskirts of the storm.
-They may either <b>brave the storm</b> or <b>wait it out</b>.
+  54: `54 | Burza kości
+Potężne wiatry pędzą przez krainę, zbierając w stosy kamienie i szczątki szkieletów. Ocalali stają wspólnie przy krańcu burzy. Mogą odważyć się na <b>wkroczenie w burzę</b> albo na <b>przeczekanie</b>.
 
 [TO] Wybór
 [td] Co robisz?
-[c] Brave the storm
-[d] All survivors gain +1 courage and suffer 1 event damage to 3 random hit locations. Archive all <b>fragile</b> gear.
-[c] Wait it out
-[dt] Roll twice on the hunt event table before moving on the hunt board.
+[c] Wkroczenie w burzę
+[d] Wszyscy Ocaleni otrzymują +1 odwagi jednakże to wydarzenie zadaje 1 obrażenie w losowo wybrane miejsca trafienia. Zarchiwizuj każdy <b>kruchy</b> ekwipunek.
+[c] Przeczekanie
+[dt] Rzuć dwukrotnie na liście wydarzeń na łowach, zanim poruszycie się na planszy łowów.
 `,
 
-  55: `55 | Mudslide
-A flash mudslide sweeps the survivors away. Each survivor rolls 1k10.
-[i] If any survivor has a whip, they catch it around a pillar-shaped bone and swing to safety; they do not roll.
+  55: `55 | Błotna lawina
+Błyskawiczna, błotnista lawina porywa Ocalałych. Każdy Ocalały rzuca 1k10.
+[i] Jeśli którykolwiek Ocalałyma bicz, używa go na filarze w kształcie kości i podciąga się w bezpieczne miejsce. Nie rzuca kością.
 
 [TA] 1k10
-[td] Each survivor
+[td] Każdy Ocalały
 [c] 1-2
-[d] You're violently swept along, drowning in mud. Suffer 2 event damage to a random hit location and archive all <b>fragile</b> and <b>soluble</b> gear in your gear grid. Roll again on the table.
+[d] Zostałeś gwałtownie porwany i toniesz w błocie. To wydarzenie zadaje tobie 2 obrażenia w losowe miejsce trafienia. Zarchiwizuj cały <b>kruchy</b> oraz <b>rozpuszczalny</b> ekwipunek  w swojej siatce ekwipunku. Rzuć ponownie w tej tabeli.
 [c] 3-7
-[d] You manage to scramble free, but not before taking a serious beating. Suffer 2 event damage to your body and archive all <b>fragile</b> and <b>soluble</b> gear in your gear grid.
+[d] Udaje Ci się wydostać, lecz zostałeś poważnie poturbowany. To wydarzenie zadaje 2 obrażenia twojemu korpusowi. Zarchiwizuj cały <b>kruchy</b> oraz <b>rozpuszczalny</b> ekwipunek, w swojej siatce ekwipunku.
 [c] 8-9
-[d] You reach higher ground. You're caked in mud but otherwise unscathed.
+[d] Wspiąłeś się na wyżej połozone tereny. Jesteś pokryty skorupą błota, ale wyszedłeś z tego bez większego szwanku.
 [c] 10+
-[dt] You remember being pulled under, the sensation of mud forcing itself down your throat, then nothing else. After the mudslide passes, the other survivors find you unharmed. Gain +1 insanity.
+[dt] Pamiętasz to uczucie wciągania cię w głębię, zalewające usta błoto, siłą wpychające się do gardła i nic więcej. Po przejściu błotnej lawiny pozostali Ocalali znajdują ciebie bez urazów. Otrzymujesz +1 do obłędu.
 `,
 
   56: `56 | Dead Monster
@@ -1604,7 +1603,7 @@ They slice a few leaves from a nearby plant and everyone uses them to plug their
 Each survivor rolls 1k10.
 
 [TA] 1k10
-[td] Each survivor - Is result less than survival?
+[td] Każdy Ocalały - Is result less than survival?
 [c] Tak #Less than survival
 [d] They continue on.
 [c] Nie #Greater than survival
@@ -1794,7 +1793,7 @@ A great battle for dominance between two enormous antelopes has left the stone-f
 Each survivor rolls 1k10.
 
 [TA] 1k10
-[td] Each survivor
+[td] Każdy Ocalały
 [c] 1-2
 [d] You trip over the jagged ground and shred your flesh! Suffer the <b>torn muscle</b> severe leg injury.
 [c] 3-8
@@ -2029,7 +2028,7 @@ The survivors smell it long before they see it, a series of cave mouths that emi
 Each survivor rolls 1k10.
 
 [TA] 1k10
-[td] Each survivor
+[td] Każdy Ocalały
 [c] 1-8
 [d] They overcome the desire to investigate.
 [c] 9+

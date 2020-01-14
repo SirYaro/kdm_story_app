@@ -1138,82 +1138,82 @@ Sen jest tylko zmorą. To wydarzenie zadaje 1 obrażenie umysłowi Wykonawcy.
 [T]
 `,
 
-  41: `41 | Nightmare
-The event revealer dreams of the upcoming hunt. The great beast vanishes during their battle and secretly follows them back to the settlement. They helplessly watch as it devours all they know and love.
+  41: `41 | Koszmar
+Wykonawca wydarzenia śni o nadchodzących łowach. Wielka bestia znika podczas walki i potajemnie śledzi ich powrót do osady. Bezradnie patrzą, jak pożera wszystko, co znają i kochają.
 
-The event revealer gains +1k10 insanity and -1 evasion token.
+Wykonawca wydarzenia otrzymuje +1k10 obłędu i żeton -1 do zwodów.
 
 [TO] Sprawdź
-[td] Czy osada zna a savior?
+[td] Czy osada posiada zbawiciela?
 [c] Tak #
 [d<]
 
-The savior appears in the dream and defends their home. The event revealer gains +1d5 survival.
+Zbawiciel, objawia się we śnie i broni ich domu. Wykonawca wydarzenia otrzymuje +1k5 przetrwania.
 [TO] Sprawdź
-[td] Does any survivor in the settlement or hunting party have the <b>Twilight Sword</b>?
-[c] Tak #Twilight Sword
-[d] They awake from the dream and continue their hunt.
-[c] Nie #No Twilight Sword
-[dt] The event revealer envisions a maniacal version of themselves wielding the blade and gleefully slaughtering the beast. They awake to find a <b>Twilight Sword</b> at their side, humming gently against their body. Instinctively the survivor recognizes the weight of the weapon's curse and the promise of its power. The event revealer gains the <b>Twilight Sword</b> rare gear. They may also select <b>Twilight Sword</b> as their weapon proficiency type and gain +1 weapon proficiency with this weapon.
+[td] Czy jakiś z Ocalałych w osadzie lub grupie łowieckiej posiada <b>Miecz zmierzchu</b>?
+[c] Tak #Miecz zmierzchu
+[d] Ocalali budzą się i kontynuuja łowy.
+[c] Nie #Brak Miecza zmierzchu
+[dt] Wykonawca wydarzenia widzi w śnie szaloną wersję siebie władającego poteżnym ostrzem i radośnie mordującego bestię. Budzi się, odnajdując przy sobie <b>Miecz zmierzchu</b> leżący tuż przy ciele. Ocalały instynktownie rozpoznaje moc klątwy nałożonej na broń i obietnicę mocy. Wykonawca wydarzenia zyskuje rzadki ekwipunek <b>Miecz zmierzchu</b> Może również wybrać <b>Miecz zmierzchu</b> jako rodzaj biegłości w broni i zdobyć +1 do umiejętności biegłości w posługiwaniu się tą bronią.
 
 [>d]
 [c] Nie #
 [d<]
 
 [TO] Sprawdź
-[td] Does any survivor in the settlement or hunting party have the <b>Twilight Sword</b>?
-[c] Tak #Twilight Sword
-[d] They awake from the dream and continue their hunt.
-[c] Nie #No Twilight Sword
-[dt] The event revealer envisions a maniacal version of themselves wielding the blade and gleefully slaughtering the beast. They awake to find a <b>Twilight Sword</b> at their side, humming gently against their body. Instinctively the survivor recognizes the weight of the weapon's curse and the promise of its power. The event revealer gains the <b>Twilight Sword</b> rare gear. They may also select <b>Twilight Sword</b> as their weapon proficiency type and gain +1 weapon proficiency with this weapon.
+[td] Czy jakiś z Ocalałych w osadzie lub grupie łowieckiej posiada <b>Miecz zmierzchu</b>?
+[c] Tak #Miecz zmierzchu
+[d] Ocalali budzą się i kontynuuja łowy.
+[c] Nie #Brak Miecza zmierzchu
+[dt] Wykonawca wydarzenia widzi w śnie szaloną wersję siebie władającego poteżnym ostrzem i radośnie mordującego bestię. Budzi się, odnajdując przy sobie <b>Miecz zmierzchu</b> leżący tuż przy ciele. Ocalały instynktownie rozpoznaje moc klątwy nałożonej na broń i obietnicę mocy. Wykonawca wydarzenia zyskuje rzadki ekwipunek <b>Miecz zmierzchu</b> Może również wybrać <b>Miecz zmierzchu</b> jako rodzaj biegłości w broni i zdobyć +1 do umiejętności biegłości w posługiwaniu się tą bronią.
 
 [>d]
 [T]
 `,
 
-  42: `42 | Surgeon
-A creaky carriage approaches the survivors. Richly appointed in red and gold, the carriage is carved on every side with lurid faces. A massive, twitching eye adorns the front, while the door of the carriage is a waiting, open mouth. Out of a small window, a gnarled hand beckons.
-One survivor with 3+ courage may choose to enter the wagon.
+  42: `42 | Chirurg
+Skrzypiący powóz zbliża się do Ocalałych. Bogato zdobiony, w kolorze czerwieni i złota, pokryty z każdej strony reliefami przedstawiającymi ponure twarze. Ogromne, drżące oko zdobi przód, a otwierające się wielkie usta okazują się być drzwiami. Z małego okna skinęła sękata dłoń.
+Jeden z Ocalałych z odwagą 3+ może wejść do powozu.
 
 [TO] Wybór
-[td] Survivor with 3+ courage
-[c] Enter
-[d] They remove one impairment or severe injury and gain 1 random disorder.
-[c] Do not enter
-[d] The survivors continue their hunt.
+[td] Ocalałych z odwagą 3+
+[c] Wejdź
+[d] Usuwasz jedno uposledzenie lub ciężki uraz i otrzymujesz 1 losowe zaburzenie.
+[c] Nie wchodź
+[d] Ocalali kontynuują łowy.
 [T]
 `,
 
-  43: `43 | Fresh Kill
-A carpet of skittering bugs points the survivors to a freshly killed monster. The scavenging insects try to defend their dinner, but the survivors fight them off to claim the prize.
-Each survivor rolls 2d10 and adds their Hunt XP. The highest-scoring survivor (roll off in case of ties) slays the most vermin and wins the putrid prize for themselves. They gain 1 random basic resource and 1 random vermin resource.
+  43: `43 |  Świeża ofiara
+Dywan pełzających owadów wskazuje Ocalałym, niedawno zabitego potwora. Owady oczyszczające truchło próbują bronić swojego obiadu, ale Ocalali walczą z nimi, by odebrać nagrodę.
+Każdy Ocalały rzuca 2k10 i dodaje swoje doświadczenie łowieckie. Ocalały z największą liczbą punktów (remisujący ponawiają rzut) zabija najwięcej robactwa i wygrywa od nich zgniłą nagrodę. Zyskuje 1 losowy podstawowy zasób oraz 1 losowy zasób robactwa.
 `,
 
-  44: `44 | Opportunists
-While investigating their quarry's tracks, the survivors realize they are hunting not one, but two monsters. The two sets of tracks soon separate. leaving the event revealer to pick which tracks to follow.
+  44: `44 | Oportuniści
+Podczas badania tropów zdobyczy, Ocalali zdają sobie sprawę, że polują nie na jednego, ale dwa potwory. Dwa zestawy tropów rozdzielają się, pozostawiając Wykonawcy wydarzenia dylemat którymi śladami podążyć.
 
 [TO] Wybór
-[td] Wykonawca wydarzenias
-[c] Larger tracks
-[d] Continue hunting as normal.
-[c] Smaller tracks
-[dt] Start the showdown immediately. At the start of the showdown, the monster suffers 5 wounds. If the survivors are victorious, they gain half the basic resources and half the monster resources (rounded up) from rewards in the aftermath.
+[td] Wykonawca wydarzenia wybiera
+[c] Większe ślady
+[d] Kontunuujcie łowy normalnie.
+[c] Mniejsze ślady
+[dt] Natychmiast rozpocznij starcie. Na początku starcia potwór otrzymuje 5 obrażeń. Jeśli Ocalali zwyciężą, otrzymają połowę podstawowych zasobów i połowę zasobów potwora (zaokrąglając w górę) w ramach zwyczajowej nagrody po walce.
 `,
 
-  45: `45 | Jagged Valley
-A valley of sharp, white stones opens before the survivors, looking just like a toothy maw. As the survivors push and climb through the jagged spires, they find that even the shallowest nick bleeds profusely. Each survivor suffers 1 event damage to the body.
-Unless a survivor has bandages to patch up their wounds, all survivors also gain 2 bleeding tokens!
+  45: `45 | Dolina Strzępów
+Przes Ocalałymi rozpostarła się dolina pełna ostrych, białych kamieni, wyglądająca jak zębata paszcza. Kiedy Ocalalali rozpoczeli wspinaczkę przez poszarpane iglice, odkrywają, że nawet najłagodniejsze draśnięcie krwawi obficie. To wydarzenie zadaje każdemu Ocalałemu 1 uszkodzenie korpusu. 
+Jeśli żaden Ocalały nie ma opatrunków do opatrzenia obrażeń, wszyscy otrzymują również 2 żetony krwawienia!
 
-[i] If any survivor has a pickaxe, they may try to convince the other survivors to let them <b>investigate</b> a bit more. If they are convinced, roll 1k10.
+[i] Jeśli którykolwiek z Ocalałych by kilof, może spróbować namówić pozostałych Ocalałych by pozwolili mu <b>badać</b>. Jeśli zostaną przekonani, rzuć 1k10.
 
 [TA] 1k10
-[td] Survivor carrying a pickaxe - Investigate
+[td] Ocalały z kilofem - Badanie
 [c] 1
-[d] The white stones are teeth and the survivors are in a giant mouth! Everyone must spend 1 survival to scamper out of the mouth. Anyone remaining inside is chewed to a pulp. Dead. Do not gain the benefits of <b>Cannibalize</b>.
+[d] Białe kamienie to zęby, a Ocalali są w gigantycznych ustach! Każdy musi wydać 1 przetrwania by wydostać się z ust. Ktokolwiek pozostanie w środku, zostaje przeżuty na miezgę i ginie. Osada nie otrzymuje zysków wynikających z <b>Kanibalizmu</b>.
 [c] 2-5
-[d] The white stone is extremely hard. When the survivors finally break through, a horde of bugs scuttles forth from the holes. Gain 1 <b>Hissing Cockroach</b> vermin resource. The excavation was time consuming: roll again on the hunt event table before moving on the hunt board.
+[d] Biały kamień jest niezwykle twardy. Kiedy Ocalali w końcu przez niego się przebijają, hordy robaków wybiegają z dziur. Otrzymujesz 1 zasób robactwa <b>syczący karaluch</b>. Kopanie było czasochłonne. Rzuć ponownie na liście wydarzeń na łowach, zanim przesuniecie się na planszy łowów.
 [c] 6+
-[dt] The survivors find a crack and expand it. Within is a hidden cache! Gain 1 <b>Iron</b> strange resource and 1 <b>Hissing Cockroach</b> vermin resource. The excavation was time consuming; roll again on the hunt event table before moving on the hunt board.
+[dt] Ocalali znajdują pęknięcie i je zasób poszerzają. Wewnątrz jest skrytka! Znajdujesz 1 dziwny zasób <b>Żelazo</b> i 1 zasób  robactwa <b>Syczący karaluch</b>. Kopanie było czasochłonne. Rzuć ponownie na liście wydarzeń na łowach, zanim przesuniecie się na planszy łowów.
 `,
 
   46: `46 | River

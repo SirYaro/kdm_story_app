@@ -1053,86 +1053,86 @@ Ocalali kontunuują łowy.
 [T]
 `,
 
-  36: `36 | On the Trail
-The survivors rush forward, feeling their quarry close at hand. Skip the next hunt space. If this movement begins the showdown, the survivors <b>ambush</b> their quarry.
-[i] If any survivor has <b>noisy</b> gear, the survivors do not ambush. Start the showdown normally.
+  36: `36 | Na szlaku
+Ocalali ruszają naprzód czując, że tropiona zdobycz jest już blisko. Pomiń następne pole łowów.Jeśli ten ruch rozpoczyna  starcie, Ocalali organizują <b>zasadzkę</b> na zdobycz. Jeśli którykolwiek z Ocalałych ma <b>hałaśliwy</b> ekwipunek, Oca-
+lali nie organizują zasadzki. Rozpocznij Starcie normalnie.
 `,
 
-  37: `37 | Lost
-The survivors are hopelessly lost in the unbroken darkness. Move the survivors 2 spaces back on the hunt board.
+  37: `37 | Zagubieni
+Ocalali zagubili się beznadziejnie w nieprzeniknionej ciemności. Cofnij Ocalałych o 2 pola na planszy łowów.
 `,
 
-  38: `38 | Gregalope
+  38: `38 |  Gigantylopa
 
-A massive Gregalope stands astride the horizon, its ancient body bloated with tumors and scar tissue. Its milky eyes catch sight of the survivors and it bounds away. Driven by a sudden desire, the survivors give chase. The event revealer rolls 1k10 and adds their movement to their roll.
+Ogromna Antylopa stanęła okrakiem na granicy horyzontu, jej stare ciało pokryte jest guzami i bliznami. Gdy jej mleczne oczy dostrzegają Ocalałych – odskakuje. Nagłe pragnienie pcha Ocalałych w pościg. Wykonawca wydarzenia rzuca 1k10  i dodaje  swój ruch  do wyniku  rzutu.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
-[c] Any survivor has <b>Strategist</b> fighting art #Strategist
+[c] Czy jakiś Ocalały posiada sztuke walki <b>Strateg</b>? #Strateg
 [d<]
-Survivors may corner the Gregalope at a giant stone face instead of giving chase.
+Ocalali zamiast ścigać Gigantylopę mogą ją zagnać w miejsce bez mozliwości ucieczki obok gigantycznej kamiennej twarzy.
 
-If they do end the hunt immediately.
+Jeśli to robią, natychmiast zakończ łowy.
 
-Start a showdown with a level 2 Screaming Antelope, using its setup rules.
-In addition, place a <b>Giant Stone Face</b> adjacent to the monster and give the monster the Butcher's <b>Berserker</b> trait card.
+Rozpocznij Starcie z Wrzeszczącą Antylopą 2 poziomu, używając jej zasad rozstawienia.
+Dodatkowo umieść <b>Gigantyczną kamienną twarz</b> przylegającą do potwora i daj potworowi kartę cechy Rzeźnika: <b>Berserk</b>. 
 
-If the survivors prevail, gain the normal showdown rewards and 3 additional Screaming Antelope resources.
+Jeśli Ocalali przeżyją, zdobywają normalne nagrody za starcie oraz dodatkowe 3 zasoby Wrzeszczącej Antylopy.
 
-<button class="hunt_event_action_button hoverable" id="gregalope" onClick="placeReminder('gregalope')">Start showdown!</button>
+<button class="hunt_event_action_button hoverable" id="gregalope" onClick="placeReminder('gregalope')">Rozpocznij starcie!</button>
 
 [>d]
 [c] 1-6
-[d] The survivors quickly fall behind the majestic beast. Move 1 space away from the quarry on the hunt board.
+[d] Ocalali szybko pozostają w tyle za majestatyczną bestią. Odsuń ich o jedno pole od zdobyczy na planszy łowów.
 [c] 7-14
-[d] The Gregalope is far too fast. It's gone before you know it.
+[d] Gigantylopa jest zdecydowanie za szybka. Zniknęła nim zdążyłeś się zorientować co sie dzieje.
 [c] 15-16
-[d] The survivors lose sight of the Gregalope but discover a hidden path. You may re-roll the next result on the hunt event table.
+[d] Ocalali tracą z oczu Gigantylopę, ale odkrywają ukrytą ścieżkę. Będziesz mógł ponowić najbliższy rzut na liście wydarzeń.
 [c] 17+
-[dt] Just before it leaps out of view, the Gregalope bows its mighty horns. The experience changes the exhausted event revealer. They gain +1 permanent movement.
+[dt] Zanim Gigantylopa uskoczyła poza pole widzenia, skłoniła swe potężne rogi. To zdarzenie wpływa nawykonawcę wydarzenia. Otrzymuje na stałe +1 do ruchu.
 `,
 
-  39: `39 | Heavy Mist
-A heavy mist envelops the survivors, obscuring their lantern light. Roll 1k10.
+  39: `39 | Gęsta mgła
+Gęsta mgła oplata Ocalałych, zasłaniając światła ich latarń. Rzuć 1k10.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
-[c] Even result #Even
-[d] The survivors stumble in the right direction. If the showdown begins in the next space on the hunt board, the monster <b>ambushes</b> the survivors.
-[c] Odd result #Odd
-[dt] They get turned around; roll again on the hunt event table before moving on the hunt event board.
+[c] Wynik parzysty #Przysty
+[d] Ocalali brną we właściwym kierunku. Jeśli Starcie zacznie się się na następnym polu na planszy łowów, potwór zaczaja się w <b>zasadzce</b> na Ocalałych.
+[c] Wynik nieparzysty #Nieparzysty
+[dt] Jeśli wynik jest nieparzysty, Ocalali kręcą się w kółko. Rzuć ponownie w tabeli wydarzeń na łowach zanim poruszysz się dalej na planszy łowów.
 `,
 
-  40: `40 | Dream
-The event revealer dreams of the upcoming hunt. They stand before the great beast, weapons ready, but it strikes them down.
+  40: `40 | Sen
+Wykonawca wydarzenia śni o nadchodzących łowach. Stają przed wielką bestią, ale ta ich powala.
 
 [TO] Sprawdź
-[td] Does the event revealer have 3+ courage or is any survivor a savior?
+[td] Czy Wykonawca wydarzenia ma odwagę 3+ albo którykolwiek z Ocalałych jest zbawcą?
 [c] Tak #
 [d<]
 
-The event revealer is emboldened by the dream and gains +1 evasion token.
+Wykonawca zdarzenia jest ośmielony przez sen i otrzymuje żeton +1 do uników.
 
 [TO] Sprawdź
-[td] Does any survivor have the <b>Twilight Sword</b>?
-[c] Tak #Twilight Sword
-[d] They dream of indiscriminate slaughter. Add the <b>Murder</b> settlement event to the timeline 1d5 years from now.
-[c] Nie #No Twilight Sword
-[d] Nothing happens.
+[td] Czt którykolwiek z Ocalałych ma <b>Miecz zmierzchu</b>?
+[c] Tak #Miecz zmierzchu
+[d] Śni o masowej rzezi. Dodaj zdarzenie <b>morderstwo</b> na osi czasu za 1k5 lat od teraz.
+[c] Nie #Brak Miecza zmierzchu
+[d] Nic się nie dzieje.
 [T]
 
 [>d]
 [c] Nie #
 [d<]
 
-The dream is merely rattling. Suffer 1 brain event damage.
+Sen jest tylko zmorą. To wydarzenie zadaje 1 obrażenie umysłowi Wykonawcy.
 
 [TO] Sprawdź
-[td] Does any survivor have the <b>Twilight Sword</b>?
-[c] Tak #Twilight Sword
-[d] They dream of indiscriminate slaughter. Add the <b>Murder</b> settlement event to the timeline 1d5 years from now.
-[c] Nie #No Twilight Sword
-[d] Nothing happens.
+[td] Czt którykolwiek z Ocalałych ma <b>Miecz zmierzchu</b>?
+[c] Tak #Miecz zmierzchu
+[d] Śni o masowej rzezi. Dodaj zdarzenie <b>morderstwo</b> na osi czasu za 1k5 lat od teraz.
+[c] Nie #Brak Miecza zmierzchu
+[d] Nic się nie dzieje.
 [T]
 [>d]
 [T]

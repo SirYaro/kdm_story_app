@@ -1393,84 +1393,84 @@ Błyskawiczna, błotnista lawina porywa Ocalałych. Każdy Ocalały rzuca 1k10.
 [dt] Pamiętasz to uczucie wciągania cię w głębię, zalewające usta błoto, siłą wpychające się do gardła i nic więcej. Po przejściu błotnej lawiny pozostali Ocalali znajdują ciebie bez urazów. Otrzymujesz +1 do obłędu.
 `,
 
-  56: `56 | Dead Monster
-The survivors find a decomposed monster corpse. It's too rotten to yield any resources.
+  56: `56 |  Martwy potwór
+Ocalali znajdują rozkładające się zwłoki potwora. Jest zbyt zgniły by otrzymać jakiekolwiek zasoby.
 
 [TO] Sprawdź
-[td] Does any survivor have 3+ understanding?
-[c] Tak #3+ understanding
+[td] Czy jakiś Ocalały ma 3+ wiedzy?
+[c] Tak #3+ wiedzy
 [d<]
 
-The survivors cover themselves in the dead monster's spilled blood. The stench will help them sneak up on their quarry. When the showdown starts, the survivors <b>ambush</b> the monster.
-[i] If any survivor has the <b>Squeamish</b> disorder, they refuse to soil themselves. Do not <b>ambush</b> the monster.
+Ocalali wymazują się się rozlaną krwią martwego potwora. Smród pomoże im podkraść się bliżej do zdobyczy. Kiedy rozpoczyna się starcie, Ocalali przygotowują <b>zasadzkę</b> na potwora.
+[i] Jeśli którykolwiek z Ocalałych ma zaburzenie <b>wrażliwość</b>, odmawia pomazania się. Nie przygotowujecie <b>zasadzki</b> na potwora.
 
 [>d]
 [c] Nie #
-[dt] The starving survivors feast on the rotting corpse, immediately losing control of their twisting guts. Each survivor loses 1 survival and cannot <b>consume</b> for the rest of this lantern year.
+[dt] Ocalali przygotowują ucztę z gnijącego trupa. Natychmiast tracą kontrolę nad swoimi wnętrznościami. Wraz z zawartośćią żoładka każdy traci 1 przetrwania i nie <b>spożywać</b> do końca tego roku.
 `,
 
-  57: `57 | Gorm's Laughter
-The rhythmic wail of a Gorm's laughter reaches the survivors, filling them with fear. The cackling follows the survivors, tormenting them until they reach their quarry.
+  57: `57 | Śmiech Gorma
+Rytmiczne zawodzenie śmiechu Gorma dociera do Ocalałych, napełniając ich serca strachem. Gaworzenie podąża za Ocalałymi, dręcząc ich aż do zdobyczy.
 
-Place a token on every hunt board space between the survivors and their quarry. When the survivors move into a space with a token, remove it and all <b>non-deaf</b> survivors suffer 1 brain event damage.
+Umieść żeton na każdym polu planszy łowów między Ocalałymi, a ich zdobyczą. Kiedy Ocalali przemieszczają się na pole z żetonem, usuń go, następnie to wydarzenie zadaje 1 obrażenie umysłu każdemu <b>nie-głuchemu</b> Ocalałemu.
 
-<button class="hunt_event_action_button hoverable" id="gorms_laughter" onClick="placeReminder('gorms_laughter')">Place a reminder</button>
+<button class="hunt_event_action_button hoverable" id="gorms_laughter" onClick="placeReminder('gorms_laughter')">Umieść przypomnienie</button>
 `,
 
-  58: `58 | Scent on the Wind
-A strong wind blows, bringing with it the scents of distant places and things.
-The event revealer rolls 1k10.
+  58: `58 |  Zapach na wietrze
+Silny wiatr przynosi zapachy odległych miejsc i przedmiotów.
+Wykonawca wydarzenia rzuca 1k10.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1-5
-[d] The monster catches your scent. It moves one space closer. If this movement starts the showdown, the monster <b>ambushes</b> the survivors.
+[d] Potwór wyczuwa twój zapach. Przesuwa się o jedno pole bliżej. Jeśli ten ruch rozpoczyna starcie, potwór atakuje Ocalałych z <b>zasadzki</b>.
 [c] 6+
-[dt] The survivors smell their quarry's foul odor and surge forward. The survivors may skip the next hunt space. If this movement starts the showdown, the survivors <b>ambush</b> the monster.
+[dt] Ocalali wyczuli nieprzyjemną woń tropionej zdobyczy. Ocalali mogą pominąć kolejne pole na planszy łowów. Jeśli ten ruch rozpocznie starcie, Ocalali organizują <b>zasadzkę</b> na potwora.
 `,
 
-  59: `59 | Signs of Battle
-The survivors come upon the remains of a terrible battle between their quarry and some unknown foe. The event revealer may choose to <b>investigate</b>.
+  59: `59 | Pozostałości bitwy
+Ocalali natykają się na pozostałości po straszliwej bitwie pomiędzy tropioną zdobyczą, a nieznanym wrogiem. Wykonawca wydarzenia może spróbować <b>badania</b>.
 
 [TO] Wybór
-[td] Wykonawca wydarzenia - What do you do?
-[c] Investigate
+[td] Wykonawca wydarzenia - Co robisz?
+[c] Badanie
 [d<]
 
-The event revealer gains +1 courage and rolls 1k10.
+Wykonawca wydarzenia zyskuje +1 odwagi i rzuca 1k10.
 
 [TO] 1k10
-[td] Wykonawca wydarzenia - Investigate
+[td] Wykonawca wydarzenia - Badanie
 [c] 1-2
 [d<]
-The monster springs out of the dark, taking advantage of the distracted survivors.
+Potwór wynurza się z ciemności, wykorzystując rozproszenie Ocalałych. 
 
-The monster <b>ambushes</b> the survivors.
+Potwór zaczaja się w <b>zasadzce</b> na Ocalałych.
 
-During showdown setup, place the event revealer directly in front of the monster.
+Podczas rozstawienia starcia, umieść wykonawcę wydarzenia dokładnie na wprost przed potworem.
 
-<button class="hunt_event_action_button hoverable" id="signs_of_battle" onClick="placeReminder('signs_of_battle')">Start showdown!</button>
+<button class="hunt_event_action_button hoverable" id="signs_of_battle" onClick="placeReminder('signs_of_battle')">Rozpocznij starcie!</button>
 
 [>d]
 [c] 3-7
 [d<]
 
-The remains are human. The distraught and enraged survivors each suffer 1 brain event damage.
-[i] If the settlement has <b>Graves</b>, they bury the dead and each survivor gains +1 survival.
-[i] If the settlement has <b>Cannibalize</b>, gain 1 random basic resource.
+Szczątki są ludzkie. Ocalali są zrozpaczeni i rozwścieczeni. To wydarzenie zadaje każdemu 1 obrażenie umysłu.
+[i] Jeśli osada zna <b>Groby</b>, grzebią zmarłych, a każdy Ocalały otrzymuje +1 do przetrwania. 
+[i]Jeśli osada zna <b>kanibalizm</b>, otrzymujesz 1 losowy podstawowy zasób.
 
 [>d]
 [c] 8+
-[d] The quarry has left the remains of another monster in its wake. Gain 1 random basic resource.
+[d] Odnalezione szczątki ofiary są potworem pokonanym przez tropioną przez was zdobycz. Otrzymujesz 1 losowy podstawowy zasób.
 [T]
 
 [>d]
-[c] Ignore
-[dt] Roll again on the hunt event table before moving on the hunt event board.
+[c] Zignoruj
+[dt] Rzuć ponownie na liście wydarzeń na łowach zanim poruszycie się na planszy łowów.
 `,
 
-  60: `60 | Wildfire
-A massive wall of flame obstructs the survivors, incinerating the ground. It has destroyed whatever awaited the survivors and left chaos in its wake. Archive all hunt event cards in the next 2 hunt spaces. Place two basic hunt event cards in those spaces.
+  60: `60 |  Pożar
+Ogromna ściana ognia zatrzymuje Ocalałych spopielając ziemię. Zniszczyła to, co czekało na Ocalałych pozostawiając chaos. Zarchiwizuj wszystkie karty wydarzeń na łowach z kolejnych 2 pól planszy łowów. Umieść na tych polach dwie podstawowe karty wydarzeń na łowach.
 `,
 
   61: `61 | Frozen Lightning

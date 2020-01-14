@@ -8,7 +8,7 @@ The survivors find a woman\'s corpse riddled with arrows. The body rests in the 
 The survivors may <b>grab and dash</b>!
 
 [TO] Wybór
-[td] What do you do?
+[td] Co robisz?
 [c] Grab and dash
 [d<]
 [TO] 1k10
@@ -40,7 +40,7 @@ The survivors stop a man\'s length away from a one-handed skeleton clad in ancie
 If the settlement has <b>Pictographs</b>, a survivor with 3+ understanding may investigate.
 
 [TO] Wybór
-[td] What do you do?
+[td] Co robisz?
 [c] Investigate
 [d<]
 [TO] 1k10
@@ -67,7 +67,7 @@ The survivors see a tree in the distance, reaching up from the horizon like a de
 Players may nominate a survivor with 3+ courage to <b>investigate</b>.
 
 [TO] Wybór
-[td] What do you do?
+[td] Co robisz?
 [c] Investigate
 [d<]
 
@@ -1216,91 +1216,91 @@ Jeśli żaden Ocalały nie ma opatrunków do opatrzenia obrażeń, wszyscy otrzy
 [dt] Ocalali znajdują pęknięcie i je zasób poszerzają. Wewnątrz jest skrytka! Znajdujesz 1 dziwny zasób <b>Żelazo</b> i 1 zasób  robactwa <b>Syczący karaluch</b>. Kopanie było czasochłonne. Rzuć ponownie na liście wydarzeń na łowach, zanim przesuniecie się na planszy łowów.
 `,
 
-  46: `46 | River
-The survivors come to the edge of a river of blood. <b>Non-insane</b> survivors suffer 1 brain event damage at the sight of it. The survivors must <b>investigate</b> in order to pick up their quarry's trail. Each survivor rolls 1k10.
-If no survivor successfully finds the monster's trail, roll again on the hunt event table before moving on the hunt board.
+  46: `46 | Rzeka
+Ocalali dotarli do brzegu rzeki krwi. To wydarzenie swoim widokiem, zadaje umysłom <b>nieobłąkanych</b> Ocalałych 1 obrażenie. Ocalali muszą kolejno przeprowadzić <b>badanie</b>, aby podjąć trop zdobyczy. Każdy rzuca 1k10.
+Jeśli żaden z Ocalałych nie znajdzie ponownie tropu potwora, rzuć ponownie na liście wydarzeń na łowach zanim poruszycie się na planszy łowów.
 
 [TA] 1k10
-[td] Each survivor - Investigate
+[td] Każdy Ocalały - Badanie
 [c] 1-2
-[d] You lose your balance and fall into the river of blood! Instantly, a massive parasite crams its way down your throat, savaging your insides on the way in. Suffer the <b>broken rib</b> severe body injury. You hope that that's all the parasite does to you.
+[d] Tracisz równowagę i wpadasz do rzeki krwi! Natychmiast wielki pasożyt wpycha się w usta, w głąb gardła, rozrywając wnętrzności po drodze.  Otrzymujesz ciężki uraz złamane żebro. Masz nadzieję, że to wszystko co pasożyt ci zrobił.
 [c] 3-5
-[d] Your quarry has defecated in the blood. Suffer 1 event damage to a random hit location from sifting through the fecal blood water too long.
+[d] Twoja zdobycz wypróżniała się do krwi. To wydarzenie zadaje Ci 1 obrażenie, w losowe miejsce trafienia, z powodu wchłonięcia zbyt dużej ilości skażonej fekaliami krwi.
 [c] 6-8
 [d<]
 
-You realize that the blood river is filled with the bloated corpses of unrecognizable monsters. You feel compelled to fish some out! Gain 1 random basic resource.
-[i] If you are wearing <b>heavy</b> gear, you fall in and swallow blood and soft, bloated monster bits. Reduce your survival to 1.
+Orientujesz się, że rzeka krwi jest wypełniona rozdętymi zwłokami nierozpoznawalnych potworów. Coś Cię popycha by jakieś wyłowić! Otrzymujesz 1 losowy podstawowy zasób. 
+[i]Jeśli nosisz <b>ciężkie</b> wyposażenie, zanurzając się połykasz krew i miękką, rozdętą część potwora. Zmniejsz swoje przetrwanie do 1.
 
 [>d]
 [c] 9+
-[dt] You successfully find the monster's trail.
+[dt] Z powodzeniem odnajdujesz trop potwora.
 `,
 
-  47: `47 | Banquet Trees
-A small copse of trees rises over an otherwise lifeless plain. Enticing red fruit hangs from the branches. Each survivor must spend 1 survival to resist the temptation to <b>consume</b> the fruit.
+  47: `47 | Biesiadne drzewa
+Niewielki zagajnik drzew wyrasta na martwej równinie. Kuszące czerwone owoce zwisają z gałęzi. Każdy z Ocalałych musi wydać 1 przetrwania, aby oprzeć się pokusie <b>spożycia</b> owocu.
 
-<b>Insane</b> survivors and survivors with the <b>Binge Eating</b> disorder must consume.
+<b>Obłąkani</b> Ocalali i Ocalali z zaburzeniami <b>Napady obżarstwa</b>, muszą <b>spożyć</b>.
 
-[i] If any survivor has a sickle, they carve a line across the tree, drawing blood! The fruit instantly sours. Zakończ to wydarzenie.
+[i] Jeśli którykolwiek Ocalały ma sierp, wyrąbuje przejście poprzez drzewa, siekając je! Owoce natychmiast gniją. Zakończ to wydarzenie.
 
 [TA] 1k10
-[td] Any survivor - Consume
+[td] Każdy spożywający Ocalały
 [c] 1-5
-[d] The addictive fruit savages your insides. Lose 1 survival and roll again on this table. If you had no survival, suffer 2 event damage to a random hit location.
+[d] Uzależniające owoce atakują twoje wnętrzności. Tracisz 1 przetrwania, a następnie rzuć ponownie kością. Jeśli nie masz przetrwania, to wydarzenie zadaje 2 obrażenia, w losowe miejsce trafienia.
 [c] 6+
-[dt] You belch loudly in satisfaction and walk away.
+[dt] Usatysfakcjonowany bekasz głośno i odchodzisz.
 `,
 
-  48: `48 | Death Wager
+  48: `48 | Zakład śmierci
 
 [img] 48 # width:25%
 
-The survivors are awoken by a traveler hidden in a deep cloak. The traveler pulls back its hood and reveals a deformed face with two chins curving away from each other, each with its own grinning mouth.
+Ocalałych budzi podróżny, owinięty szczelnie płaszczem.Podróżnik zsuwa kaptur i odsłania zdeformowaną twarzz dwoma podbródkami zakrzywiającymi się od siebie,z których każdy ma własne wyszczerzone usta.
 
-In a dreamlike state, the survivors all understand this entity is known as The Gambler and if they speak they will die. Until this event is completed, only the event revealer may speak. If any other player speaks, their survivor turns cold. Dead. The survivors must play The Gambler's game or be trapped with him forever. Each survivor rolls 1k10.
+Niczym we śnie, wszyscy Ocalali rozumieją, że ta postać jest znana jako Hazardzista i jeśli tylko zaczną mówić to umrą. Do zakończenia tego wydarzenia tylko wykonawca tego wydarzenia może mówić. Jeśli którykolwiek inny gracz przemówi, Ocalałych ogarnia chłód. Umierają. Ocalali muszą zagrać w grę Hazardzisty lub zostaną uwięzieni w pułapce na zawsze. Każdy Ocalały rzuca 1k10.
 
 [TA] 1k10
-[td] Each survivor
+[td] Każdy Ocalały
 [c] 1
-[d] The Gambler reaches out and scoops up your dice. As they vanish within a fold of his cloak, you feel all traces of air leave your lungs and are unable to draw another breath. Dead.
+[d] Hazardzista wyciąga rękę i zgarnia kości do gry. Gdy znikają w fałdzie jego płaszcza, czujesz, jak powietrze opuszcza twoje płuca, a nie jesteś w stanie zaczerpnąć kolejnego oddechu. Nie żyjesz.
 [c] 2-9
-[d] You do not lose, nor do you win. Play again if you wish. If you do, roll again on this table.
+[d] Nie przegrywasz, ani nie wygrywasz. Możesz zagrać kolejny raz jeśli zechcesz. Ponów swój rzut i sprawdź rezultat.
 [c] 10+
-[dt] You win. Gain +1 permanent luck.
+[dt] Wygrałeś. Otrzymujesz na stałe +1 do szczęścia.
 `,
 
-  49: `49 | Pus Fields
-The landscape is dotted with large, swelling mounds oozing pus. The smallest jostle threatens to explode them. The survivors may <b>carefully tread</b> through the mounds or <b>rush through</b>.
+  49: `49 | Ropne pola
+Krajobraz jest usiany dużymi, obrzękniętymi ropiejącymi kopcami. Najmniejsze muśnięcie grozi ich eksplozją. Ocalali mogą <b>ostrożnie przechodzić</b> przez wzgórza lub </b>przebiec przez nie.
 
 [TO] Wybór
-[td] What do you do?
-[c] Carefully tread
-[d] You make it through without incident, but your progress is slowed. Roll again on the hunt event table before moving on the hunt board.
-[c] Rush through
-[dt] Each survivor rolls 1k10 and adds their evasion to the result. On a 7 or less, they detonate one of the pus mounds! They suffer 2 event damage to a random hit location and become <b>stinky</b> for the rest of this lantern year.
+[td] Co robisz?
+[c] Ostrożnie przechodzisz
+[d] Ostrożne przejście: Przemkneliście się bez incydentów, ale wasz ruch jest spowolniony. Rzuć ponownie na liście wydarzeń na łowach nim przesuniecie się na planszy łowów.
+[c] Przebiegasz
+[dt] Przebiegnięcie: Każdy z ocalałych rzuca 1k10 i dodaje wartość swojego uniku do wyniku. Przy 7 lub mniej, detonuje jeden z ropnych kopców! To wydarzenie zadaje mu 2 obrażenia w losowe miejsca trafienia i sprawia, że <b>cuchnie</b> do końca tego roku.
 `,
 
-  50: `50 | Gibbet
-A crude iron cage swings from the branches of a massive tree. As the survivors approach, a man calls out to them from the cage, pleading to be freed.
+  50: `50 | Szubienica
+Prymitywna żelazna klatka kołysze się na gałęzi potężnego drzewa. Gdy Ocalali zbliżają się, uwięziony mężczyzna krzyczy do nich z klatki, błagając o uwolnienie.
 
 [TO] Wybór
-[td] What do you do?
-[c] Pass him by
-[d] The survivors pass him by and suffer 1 brain event damage as the prisoner weeps and pleads.
-[c] Free him
+[td] Co robisz?
+[c] Ignorujesz go
+[d] Ocalali mijają uwięzionego, a to wydarzenie zadaje 1 obrażenie ich umysłom, gdy słyszą płacz i błagania więźnia. 
+[c] Uwolnij go
 [d<]
 
-The event revealer rolls 1k10.
+Wykonawca wydarzenia rzuca 1k10.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1
-[d] The survivors open the cage but all they find inside is a skeleton. All survivors suffer 2 brain event damage.
+[d] Ocalali otwierają klatkę, ale wszystko, co znajdują w środku to szkielet. To wydarzenie zadaje umysłom Ocalałych 2 obrażenia.
 [c] 2-7
-[d] The prisoner is thankful and follows the survivors until they rest. When they wake, each survivor loses 1 random resource (if they had any).
+[d] Więzień jest wdzięczny i podąża z Ocalałymi do postoju i odpoczynku. Kiedy się obudzą, każdy z Ocalałych traci 1 losowy zasób (jeśli go posiadał).
 [c] 8+
-[dt] The prisoner is grateful and follows the survivors home after the showdown. The settlement gains +1 population.
+[dt] Więzień jest wdzięczny i podąża do domu Ocalałych po starciu. Osada zyskuje +1 populacji.
 [>d]
 [T]
 `,
@@ -1371,7 +1371,7 @@ Mighty winds tear across the landscape, collecting chips of stones and skeletal 
 They may either <b>brave the storm</b> or <b>wait it out</b>.
 
 [TO] Wybór
-[td] What do you do?
+[td] Co robisz?
 [c] Brave the storm
 [d] All survivors gain +1 courage and suffer 1 event damage to 3 random hit locations. Archive all <b>fragile</b> gear.
 [c] Wait it out
@@ -1722,7 +1722,7 @@ The way forward is blocked by dense, gold-flecked smoke. The survivors may push 
 [i] If the survivors have a <b>Final Lantern</b>, it guides them through the smoke without any trouble; end this event.
 
 [TO] Wybór
-[td] What do you do?
+[td] Co robisz?
 [c] Brave the smoke
 [d<]
 
@@ -1738,7 +1738,7 @@ Each survivor gains +1 courage and the event revealer rolls 1k10.
 The survivors grasp each other's hands, form a line, and traverse the smoke. They breathe through rags and take turns peeking out for orientation. Somewhere, deep within the smoke, they stumble across a crater. They may ignore it and escape the smoke (ending this event) or explore the crater.
 
 [TO] Wybór
-[td] What do you do?
+[td] Co robisz?
 [c] Explore the crater
 [d<]
 

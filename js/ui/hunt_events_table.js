@@ -1573,103 +1573,103 @@ Posąg przyciąga do siebie spóźnionego. Dotyka on go delikatnie. W jednej chw
 [T]
 `,
 
-  66: `66 | Forbidden Word
-There is a great rush of air. A booming, inhuman voice declares a single word in an unknown language. For one instant, the survivors understand.
-All <b>non-deaf</b> survivors gain +1 understanding and suffer 1 brain event damage.
-[i] If they are <b>insane</b> they also gain 1 random disorder.
+  66: `66 | Zakazane słowo
+Uderza was silny podmuch powietrza. Przerażający, nieludzki głos wypowiada jedno słowo w nieznanym języku, które  natychmiast Ocalali rozumieją.
+Każdy <b>nie głuchy</b> Ocalały otrzymuje +1 do wiedzy, a następnie to wydarzenie zadaje mu 1 obrażenie umysłu.
+[i] Każdy <b>obłąkany</b> Ocalały otrzymuje 1 losowe zaburzenie.
 `,
 
-  67: `67 | Saliva Pools
-The ground ahead is pockmarked with pools filled with a gooey liquid. They bubble merrily and stink of digesting meat. As the survivors move between them, they are overcome by waves of nausea.
+  67: `67 | Stawy szlamu
+Teren na wprost jest podziurawiony sadzawkami zapełnionymi lepką cieczą, bulgoczącą beztrosko smrodem trawionego mięsa. Gdy Ocalali przechodzą między nimi, opanowują Jeśli ich którykolwiek fale mdłości.
 
 [TO] Sprawdź
-[td] Does any survivor have a sickle?
-[c] Tak #Sickle
+[td] Czy jakiś Ocalały ma sierp?
+[c] Tak #Sierp
 [d<]
 
-They slice a few leaves from a nearby plant and everyone uses them to plug their noses and mask the smell. All survivors gain +1 understanding.
+Wycinasz kilka liści z pobliskiej rośliny. Wszyscy używają ich do zatkania nosa i zamaskowania zapachu. Każdy Ocalały zyskuje +1 do wiedzy.
 
 [TO] Sprawdź
-[td] Does any survivor have 3+ understanding?
-[c] Tak #3+ understanding
-[d] They devise a way to use the pools. Each survivor may place one piece of gear in a pool. Archive the gear and gain the resources used to craft it (if any).
+[td] Czy jakiś ocalały ma 3+ wiedzy?
+[c] Tak #3+ wiedzy
+[d] Wymyślacie sposób korzystania z sadzawek. Każdy z Ocalałych może umieścić w niej jedną sztukę ekwipunku. Zarchiwizuj ekwipunek, w zamian otrzymujesz zasoby użyte do jego wytworzenia (jeśli jakieś były użyte).
 [c] Nie #
-[dt] The survivors continue their hunt.
+[dt] Ocalali kontunuują łowy.
 
 [>d]
 [c] Nie #
 [d<]
 
-Each survivor rolls 1k10.
+Każdy Ocalały rzuca 1k10.
 
 [TA] 1k10
-[td] Każdy Ocalały - Is result less than survival?
-[c] Tak #Less than survival
-[d] They continue on.
-[c] Nie #Greater than survival
-[dt] They vomit into a nearby pool, suffering 1 event damage to the body. Before their eyes, the pool greedily dissolves their vomit, they gain +1 understanding.
+[td] Każdy Ocalały - Czy wynik jest niższy niż przetrwanie?
+[c] Tak #Mniej niż przetrwanie
+[d] Możesz iść dalej
+[c] Nie #Więcej niż przetrwanie
+[dt] Wymiotujesz do pobliskiej sadzawki, a to wydarzenie zadaje 1 obrażenie w korpus. Na twoich oczach, sadzawka łapczywie rozpuszcza wymiociny. Zyskujesz +1 wiedzy.
 [br]
-[TO] After all rolls
-[td] Does any survivor have 3+ understanding?
-[c] Tak #3+ understanding
-[d] They devise a way to use the pools. Each survivor may place one piece of gear in a pool. Archive the gear and gain the resources used to craft it (if any).
+[TO] Po wszystkich rzutach
+[td] Czy jakiś ocalały ma 3+ wiedzy?
+[c] Tak #3+ wiedzy
+[d] Wymyślacie sposób korzystania z sadzawek. Każdy z Ocalałych może umieścić w niej jedną sztukę ekwipunku. Zarchiwizuj ekwipunek, w zamian otrzymujesz zasoby użyte do jego wytworzenia (jeśli jakieś były użyte).
 [c] Nie #
-[d] The survivors continue their hunt.
+[d] Ocalali kontunuują łowy.
 [T]
 
 [>d]
 [T]
 `,
 
-  68: `68 | A Familiar Face
-[i] If no survivors have died yet this campaign, ignore this event and roll again on the hunt event table before moving on the hunt board.
+  68: `68 |  Znajoma twarz
+[i] Jeśli żaden z Ocalałych nie zginął jeszcze w tej kampanii, zignoruj to wydarzenie i ponownie rzuć w liście wydarzeń na łowach, zanim poruszycie się na planszy łowów.
 
-Each survivor rolls 1k10. The lowest scoring survivor (or survivors, in case of ties) becomes a straggler.
+Każdy ocalały rzuca 1k10. Ocalały z najniższym wynikiem (lub Ocalali w przypadku remisów) zostaje Spóźnionym. 
 
 [TO] 1k10
 [td] Wybierz Spóźnionego
 [c] Spóźniony wybrany
-[dt] While examining the stone faces underfoot, the straggler recognizes the face of a fallen friend. Bittersweet memories reduce them to tears. Reduce their insanity to 0 and they gain +1 understanding.
+[dt] Oglądając kamienne twarze pod stopami, spóźniony rozpoznaje twarz zmarłego przyjaciela. Słodko-gorzkie wspomnienia powodują napływ łez. Zredukuj jego obłęd do 0 i otrzymuje on +1 do wiedzy.
 `,
 
-  69: `69 | Time Lapse
-The glow of the survivors' lanterns blurs, forming trails of light behind them.
-[i] If the settlement has fought a Phoenix, the group recognizes the phenomenon. All survivors gain +1 understanding.
-The event revealer rolls 1k10 on the table below. If any survivor has an <b>Hours Ring</b>, they may instead select a die result.
+  69: `69 | Upływ czasu
+Rozmyty blask lamp Ocalałych rzucając smugi światła pozostawia ścieżkę za nimi.
+[i] Jeśli osada walczyła z Feniksem, grupa rozpoznaje to zjawisko. Wszyscy Ocalali otrzymują +1 do wiedzy.
+Wykonawca wydarzenia rzuca 1k10 w tabeli poniżej. Jeśli którykolwiek z Ocalałych ma <b>Pierścień godzin</b>, zamiast rzutu może wybrać od razu rezultat.
 [TA] 1k10
 [td] Wykonawca wydarzenia
 [c] 1-3
-[d] The survivors' bodies suddenly age. All survivors with less than 10 Hunt XP gain +3 Hunt XP. Do not gain the benefits of Age. Your bodies have physically aged, no practical experience has been learned.
+[d] Ciała Ocalałych błyskawicznie się starzeją. Ocalali mający mniej niż 10 doświadczenia łowieckiego otrzymują +3 doświadczenia łowieckiego. Nie otrzymujecie benefitów jakie daje wiek. Wasze ciała fizycznie się postarzały, ale nie dało to żadnego praktycznego doświadczenia.
 [c] 3-9
 [d<]
 
-The survivors' minds fill with alien memories. They are no longer just themselves. They walk differently and speak with strange accents. Give each survivor a new name and +1 survival for being named. Each survivor gains +1 Hunt XP and 1 random disorder.
-[i] If your settlement has <b>Survival of Fittest</b>, and you've already used your once-per-lifetime reroll, you may use it again.
+Umysły Ocalałych napełniają się obcymi wspomnieniami. Nie są już sobą. Mają inny chód i mówią z dziwnym akcentem. Nadaj każdemu Ocalałemu nowe imię i uzyskaj +1 przetrwania za jego nazwanie. Każdy z Ocalałych otrzymuje +1 doświadczenia  łowieckiego i 1 losowe zaburzenie.
+[i] Jeśli twoja osada zna <b>Przetrwanie najsilniejszych</b> i użyłeś już jednorazowego przerzutu, możesz użyć go ponownie.
 
 [>d]
 [c] 10+
-[dt] The survivors are suddenly standing by their quarry! Start the showdown immediately.
+[dt]  Ocalali nagle stoją przed tropioną zdobyczą! Natychmiast rozpoczynacie starcie.
 `,
 
-  70: `70 | Tomb of Excellence
-The survivors find a serene, luxurious tomb, immaculate in its construction and condition. Elegant murals decorate the walls, depicting glorious victories over the very monster the survivors are hunting. The survivors are baffled by its presence.
-The event revealer <b>investigates</b> and rolls 1k10.
+  70: `70 | Doskonały grobowiec
+Ocalali znaleźli luksusowy grobowiec, nieskazitelny w swej budowie i formie. Eleganckie malowidła zdobią ściany przedstawiając chwalebne zwycięstwa nad potworem, na którego polują Ocalali. Ocalali są zaskoczeni jego obecnością.
+Wykonawca wydarzenia przeprowadza <b>badanie</b>, wykonując rzut 1k10.
 
 [TO] 1k10
-[td] Wykonawca wydarzenia - Investigate
+[td] Wykonawca wydarzenia - badanie
 [c] 1
-[d] The survivors bemoan how weak they are compared to the warriors in the murals. All survivors loses 1 survival.
+[d] Ocalali opłakują słabość wojowników na malowidłach naściennych. Wszyscy Ocalali tracą 1 przetrwania.
 [c] 2-5
-[d] It's nice to see something pretty for once, eh?
+[d] Czyż nie jest miło zobaczyć czegoś tak pięknego? Ech...
 [c] 6-9
-[d] The survivors can't remember ever feeling so cheerful and inspired. Each survivor gains +1 courage.
+[d] Ocalali nie pamiętają by kiedykolwiek czuli się tacy radośni i zainspirowani. Każdy Ocalały otrzymuje +1 do odwagi.
 [c] 10+
 [d<]
 
-The doorway to the tomb is framed with a wood that has small hands for grain. Inside, murals depict a hero at the center of a labyrinth that is holding a giant, human-filled fruit above his head. Each survivor gains +1 understanding.
-[i] If the settlement has <b>Pictographs</b>, the survivors find information about their quarry. At the start of the showdown, they may place the monster's trap at the bottom of the hit location deck.
+Drzwi do grobowca mają drewniane obramowanie o słojach w kształcie małych dłoni. Freski wewnątrz przedstawiają bohatera w centrum labiryntu, trzymającego nad głową gigantyczny wypełniony ludźmi owoc. Każdy Ocalały otrzymuje +1 do wiedzy.
+[i] Jeśli osada zna <b>Piktogramy</b>, Ocalali znajdują informacje o tropionej zdobyczy. Na początku starcia, mogą umieścić pułapkę potwora na spodzie talii miejsc trafień.
 
-<button class="hunt_event_action_button hoverable" id="tomb_of_excelence" onClick="placeReminder('tomb_of_excelence')">[Pictographs] Place reminder</button>
+<button class="hunt_event_action_button hoverable" id="tomb_of_excelence" onClick="placeReminder('tomb_of_excelence')">[Pictographs] Umieść przypomnienie</button>
 
 [>d]
 [T]

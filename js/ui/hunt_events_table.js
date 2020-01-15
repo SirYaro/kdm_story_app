@@ -1675,135 +1675,135 @@ Drzwi do grobowca mają drewniane obramowanie o słojach w kształcie małych d�
 [T]
 `,
 
-  71: `71 | Found Relic
-Amidst the endless stone faces, the event revealer notices an unusual object on the ground.
-The event revealer <b>investigates</b> and rolls 1k10.
-[i] If the settlement has <b>Records</b>, add +6 to the result.
+  71: `71 | Znaleziony relikt
+Wśród niekończących się kamiennych twarzy na ziemi, wykonawca wydarzenia zauważa niezwykły obiekt. 
+Wykonawca wydarzenia przeprowadza <b>badanie</b>, i rzuca 1k10.
+[i] Jeśli osada posiada <b>Archiwum</b>, dodaj +6 do wyniku.
 [TO] 1k10
-[td] Wykonawca wydarzenia - Investigate
+[td] Wykonawca wydarzenia - Badanie
 [c] 1-2
-[d] You find a weathered, purple stone with a swirling texture. It is shockingly heavy. Mesmerized by the stone, you hide it from the other survivors. Gain the <b>Secretive</b> disorder and -1 movement token from lugging the stone around.
+[d] Znajdujesz zwietrzały, purpurowy kamień o wirującej teksturze. Jesteś zszokowany jego ciężkością. Zahipnotyzowany przez kamień, ukrywasz go przed pozostałymi Ocalałymi. Otrzymujesz zaburzenie <b>Skryty</b> i żeton ruchu -1 z powodu wleczenia kamienia ze sobą.
 [c] 3-4
-[d] Useless junk litters the ground.
+[d] Bezużyteczne śmieci zaścielają ziemię.
 [c] 5-9
-[d] You find a stone heart that pulses with warmth as you hold it in your hands. Gain +1 insanity.
+[d] Znajdujesz kamienne serce, pulsujące ciepłem, gdy tylko weźmiesz je w dłonie. Otrzymujesz +1 do obłędu.
 [c] 10+
 [d<]
 
-You find a mask with living lips. If you return to the settlement with the mask, it quickly learns your language and shares its secrets before crumbling to dust. At the start of the next settlement phase, draw 3 innovations from the innovation deck and add one to your settlement at no cost.
-[i] If any survivor has a <b>Final Lantern</b>, it begins to flash and vibrate wildly. The mask disintegrates and all survivors suffer 1 brain event damage.
+Znajdujesz maskę z żyjącymi wargami. Jeśli wrócisz z maską do osady, szybko uczy się twojego języka i dzieli się sekretami nim rozpadnie się w pył. Na początku najbliższej fazy osady, wylosuj 3 innowacje z talii innowacji i dodaj je do swojej osady bez żadnych kosztów. Jeśli któryś z Ocalałych posiada <b>ostateczną latarnię</b>, zaczyna ona gwałtownie pulsować i wibrować. Maska
+rozpada się, a to wydarzenie zadaje umysłom Ocalałych 1 obrażenie.
 
-<button class="hunt_event_action_button hoverable" id="found_relic" onClick="placeReminder('found_relic')">Place a reminder</button>
+<button class="hunt_event_action_button hoverable" id="found_relic" onClick="placeReminder('found_relic')">Umieść przypomnienie</button>
 
 [>d]
 [T]
 `,
 
-  72: `72 | Something to Pass the Time
-[i] If the settlement does not have <b>Symposium</b>, ignore this event and roll again on the hunt event table before moving on the hunt board.
-Otherwise, the event revealer suggests a word game to lighten the mood as the survivors trudge forward. The event revealer rolls 1k10.
-[i] If the settlement has <b>Song of the Brave</b>, add +4 to your roll.
+  72: `72 | Coś do zabicia czasu
+[i] Jeśli osada nie posiada <b>Sympozjum</b>, zignoruj ​​to wydarzenie i ponownie rzuć na liście wydarzeń na łowach, zanim przesuniesz się na planszy łowów.
+W przeciwnym razie wykonawca wydarzenia sugeruje grę słowną, która rozładuje napięcie, zanim Ocalali ruszą naprzód. Wykonawca wydarzenia rzuca 1k10.
+[i] Jeśli osada zna <b>Pieśń o bohaterach</b>, dodaj +4 do tego rzutu.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1-2
-[d] The survivors' boisterous voices attract their quarry. The monster <b>ambushes</b> them.
+[d] Hałaśliwe głosy Ocalałych przyciągają tropioną zdobycz.  Potwór zaczaja się na nich w <b>zasadzce</b>.
 [c] 3-7
-[d] No one else is in the mood for a game. The event revealer loses 1 courage.
+[d] Nikt nie jest w nastroju do gry. Wykonawca wydarzenia traci 1 odwagi.
 [c] 8-9
-[d] The survivors play the simple but entertaining game. Each survivor gains +1 courage.
+[d] Ocalali grają w prostą, ale zabawną grę. Każdy Ocalały otrzymuje +1 do odwagi.
 [c] 10+
-[dt] The game is astonishingly fun and the survivors' spirits soar with their booming laughter. Each survivor rolls 1k10. On a 6+, they gain 1 survival or cure 1 disorder.
+[dt] Gra jest zaskakująco zabawna, a duch Ocalałych rośnie wraz z ich buńczucznym śmiechem. Każdy Ocalały rzuca 1k10. Przy wyniku 6+ zyskuje 1 przetrwania lub leczy 1 zaburzenie.
 `,
 
-  73: `73 | Golden Ember
-The way forward is blocked by dense, gold-flecked smoke. The survivors may push ahead and brave the smoke.
-[i] If the survivors have a <b>Final Lantern</b>, it guides them through the smoke without any trouble; end this event.
+  73: `73 |  Złoty żar
+Droga naprzód jest zablokowana przez złocisty gęsty dym. Ocalali mogą pójść naprzód i odważnie wkroczyć w dym.
+[i] Jeśli Ocalali mają <b>ostateczną  latarnię</b>, przeprowadza  ich przez dym bez żadnych problemów. Zakończ to wydarzenie.
 
 [TO] Wybór
 [td] Co robisz?
-[c] Brave the smoke
+[c] Wkrocz w dym
 [d<]
 
-Each survivor gains +1 courage and the event revealer rolls 1k10.
+Każdy z Ocalałych otrzymuje +1 odwagi, następnie wykonawca wydarzenia rzuca 1k10.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1-5
-[d] The smoke overwhelms the survivors. As they run through the glittering smog, each survivor suffers 1 event damage to the head and chest locations. When they finally breach the haze's end, they silently walk on. No one is comfortable sharing the terrible things they glimpsed. Each survivor gains 1 random disorder.
+[d] Dym przytłacza Ocalałych. Kiedy biegną przez migotliwy dym, to wydarzenie zadaje każdemu z Ocalałych 1 obrażenie w głowę oraz 1 w korpus. Gdy w końcu osiągają koniec mgły, idą w ciszy dalej. Nikt nie jest chętny dzielić się straszliwymi rzeczami, jakie dostrzegł. Każdy Ocalały otrzymuje 1 losowe zaburzenie.
 [c] 6+
 [d<]
 
-The survivors grasp each other's hands, form a line, and traverse the smoke. They breathe through rags and take turns peeking out for orientation. Somewhere, deep within the smoke, they stumble across a crater. They may ignore it and escape the smoke (ending this event) or explore the crater.
+Ocalali chwytają się za ręce tworząc linię i przemierzają tak dym. Oddychają przez szmaty i na zmianę wychodzą w poszukiwaniu kierunku. Gdzieś, głęboko w dymie, natykają się na krater. Mogą go zignorować i uciec z dymu (kończąc to wydarzenie) lub zbadać krater.
 
 [TO] Wybór
 [td] Co robisz?
-[c] Explore the crater
+[c] Zbadaj krater
 [d<]
 
-The survivors carefully descend into the crater, finding the ruins of a settlement surrounded by a ring of skulls. The settlement is absolutely demolished and almost everything has been ground to powder from some tremendous force. The skulls face away from the ruins and in each gaping mouth, a golden ember spews smoke.
-The sight is haunting; each survivor suffers 1k10 brain event damage and gains 1 random disorder. The survivors gingerly sift through the ruins.
-Nominate a survivor to <b>investigate</b> and roll 1k10.
+Ocalali ostrożnie schodzą do krateru, znajdując ruiny osady otoczonej pierścieniem czaszek. Osada została całkowicie zniszczona, i prawie wszystko zostało w niej zmielone na proszek jakąś potężną siłą. Czaszki są odwrócone od ruin,a w otworze ust mieni się złocisty żar, z którego ulatuje dym. 
+Widok jest niepokojący. To wydarzenie zadaje umysłowi każdego z Ocalałych, 1k10 obrażeń oraz otrzymuje 1 losowe zaburzenie. Ocalali ostrożnie przeszukują ruiny.
+Wybierz Ocalałego by przeprowadził <b>badanie</b> i rzucił 1k10.
 
 [TO] 1k10
-[td] Nominated survivor - Investigate
+[td] Wybrany Ocalały - Badanie
 [c] 1
 [d<]
 
-Against all reason, you feel compelled to reach into a skull and take an ember. Your flesh sizzles, blinding you with pain yet you cannot stop yourself from reaching for your own mouth.
+Wbrew wszelkiemu rozsądkowi czujesz się zmuszony sięgnąć do czaszki i złapać żar w rękę. Twoje ciało skwierczy, oślepiając cię bólem, nie możesz powstrzymać się od sięgnięcia do własnych  ust.
 
 [TO] Sprawdź
-[td] Do you have a broken jaw?
-[c] Tak #Broken jaw
-[d] You're thwarted. You drop the golden ember from your burning hand. Suffer the <b>dismembered arm</b> severe injury. Shaken, the survivors flee the smoke.
-[c] Nie #No broken jaw
+[td] Czy masz <b>zdruzgotaną szczękę</b>?
+[c] Tak #Zdruzgotana szczęka
+[d] Nie możesz tego zrobić. Upuszczasz złoty płomień ze swojej płonącej ręki. Otrzymujesz ciężki uraz <b>odcięte ramię</b>.  Uciekasz z dymu wraz z resztą zszokowanych Ocalałych.
+[c] Nie #Brak zdruzgotanej szczęki
 [d<]
 
-Your jaw clamps shut around the ember, the flesh of your mouth melts shut, muffling your cries of pain. Smoke pours from your eyes, nose, and ears.
+Zaciskasz szczękę na żarze, a twoje usta topią się tłumiąc okrzyki bólu. Dym unosię z twoich oczu, nosa i uszu.
 
 [TO] Sprawdź
-[td] Czy osada zna <b>Survival of the Fittest</b>?
-[c] Tak #Survival of the Fittest
-[d] The urge to live wins out and you savagely break open your own jaw, Suffer the <b>broken jaw</b> severe head injury. The ember tumbles to the ground, its sputtering hiss ringing in your ears as all survivors flee in horror.
+[td] Czy osada zna <b>Przetrwanie najsilniejszych</b>?
+[c] Tak #Przetrwanie najsilniejszych, 
+[d] Chęć do życia wygrywa. Brutalnie łamiesz własną szczękę. Otrzymujesz ciężki uraz głowy <b>zdruzgotana szczęka</b>. Żar spada na ziemię, a jego syk dzwoni Ci w uszach. Wszyscy Ocalali uciekają z tego miejsca w przerażeniu.
 [c] Nie #
-[dt] Your smoking, melting body marches robotically into the ring of skulls, laying itself in the place of the disturbed skull. The putrid smell of your burning brain suffuses the smoke in the air. The sight is so disturbing that all other survivors flee, never to speak of what happened.
+[dt] Twoje dymiące, topiące się ciało zaczyna maszerować mechanicznie do pierścienia czaszek, układając się w miejscu poruszonej czaszki. Cuchnący zapach płonącego mózgu unosi się w powietrzu wraz z dymem. Widok jest tak przerażający, że reszta Ocalałych ucieka, nigdy nie rozmawiając o tym, co się stało.
 [>d]
 [>d]
 [T]
 [c] 2-4
-[d] You sense the extreme danger from the golden embers and linger just long enough to grab a small trinket. Gain 1 <b>Broken Lantern</b> basic resource.
+[d] Czujesz ekstremalne niebezpieczeństwo bijące od złocistego żaru, ale pozostajesz tu wystarczająco długo, by chwycić zniszczona mały bibelot. Zdobywasz 1 podstawowy zasób  <b>zniszczona  latarnia</b>.
 [c] 5-8
-[d] You notice that the settlement is strewn with lanterns, all extinguished and smashed nearly beyond recognition. The survivors resolve that this will never happen to them. If any survivor returns to the settlement this year, gain +2 endeavors.
+[d] Zauważasz, że osada jest usiana latarniami, wszystko jest zniszczone, porozbijane i niemalże niemożliwe do rozponania. Ocalali postanawiają, że to się nigdy nie stanie z ich osadą. Jeśli którykolwiek z Ocalałych powróci do osady w tym roku, otrzymuje +2 do działań.
 [c] 9+
-[dt] Amidst the ruins, you find only one unbroken object. A Twilight Sword. It rests, respectfully laid across a mostly undamaged survivor's skeleton. If the settlement does not have a <b>Twilight Sword</b>, and no survivor in the group has the <b>Honorable</b> disorder, you may nominate a survivor to gain the <b>Twilight Sword</b> rare gear. If you do and the <b>Hooded Knight</b> story event is not on the timeline, add it to the timeline 2 years from now.
+[dt] Wśród ruin znajdujesz jeden niezniszczony przedmiot. <b>Miecz zmierzchu</b>. Spoczywa, z szacunkiem ułożony w poprzek nieuszkodzonego szkieletu Ocalałego. Jeśli osada nie ma <b>miecza zmierzchu</b>, a żaden z członków grupy nie ma zaburzenia <b>honorowy</b>, możesz wyznaczyć Ocalałego by wziął rzadki ekwipunek <b>miecz zmierzchu</b>. Jeśli to zrobisz, a wydarzenie fabularne <b>zakapturzony rycerz</b> nie znajduje się na osi czasu, dodaj je do osi czasu za 2 lata od tej chwili.
 
 [>d]
-[c] Escape the smoke
-[dt] Survivors escape the smoke and continue their hunt.
+[c] Ucieknij z dymu
+[dt] Ocalali uciekają z dymu i kontynuują łowy.
 
 [>d]
 [T]
 [>d]
-[c] Go around
-[dt] They take the long way around; roll again on the hunt event table before moving on the hunt board.
+[c] Obejdź dookoła
+[dt] Wybieracie dalekie obejście. Rzuć ponownie na liście wydarzeń na łowach nim przesuniecie się na planszy łowów.
 `,
 
-  74: `74 | Antler-Gouged
-A great battle for dominance between two enormous antelopes has left the stone-faced ground gouged with criss-crossing scars.
-Each survivor rolls 1k10.
+  74: `74 |  Żłobienia porożem
+Wielka bitwa o dominację pomiędzy dwoma olbrzymimi antylopami pozostawiła kamienną ścianę wyszczerbioną krzyżującymi się bliznami. 
+Każdy Ocalały rzuca 1k10.
 
 [TA] 1k10
 [td] Każdy Ocalały
 [c] 1-2
-[d] You trip over the jagged ground and shred your flesh! Suffer the <b>torn muscle</b> severe leg injury.
+[d] Potykasz się o poszarpaną ziemię i kaleczysz się!  Orzymujesz ciężki uraz nogi <b>rozdarty mięsień</b>.
 [c] 3-8
-[d] You carefully tread over the destroyed faces.
+[d] Ostrożnie stąpasz po zniszczonych twarzach.
 [c] 9+
-[dt] You find a loosened stone. Gain a <b>Founding Stone</b> starting gear.
+[dt] Znajdujesz poluzowany kamień. Otrzymujesz startowy zasób <b>odłamek podłoża</b>.
 `,
 
-  75: `75 | Oops!
-Stumbling through the darkness, the event revealer crashes into the ground, crushing their lantern beneath them. The living light inside the lantern becomes agitated by the survivor's clumsiness and burns a piece of gear. The event revealer archives 1 gear of their choice from their gear grid.
+  75: `75 | Ups!
+Potykając się w ciemności, wykonawca zdarzenia wuwraca się na ziemię, miażdżąc pod sobą latarnię. Gorejące światło z wnętrza latarni, przypala jego ekwipunek. Wykonawca wydarzenia archiwizuje 1 wybrany przez siebie ekwipunek, ze swojej siatki ekwipunku.
 `,
 
   76: `76 | Dream the Way
@@ -2229,7 +2229,7 @@ The survivors find a trail of blood. It pools in the eye sockets of the stonefac
 The event revealer may <b>investigate</b> and roll 1k10, or ignore the trail and end this event.
 
 [TO] 1k10
-[td] Wykonawca wydarzenia - Investigate
+[td] Wykonawca wydarzenia - Badanie
 [c] 1-3
 [d] One of your own is slumped at the end of the trail, bleeding terribly. Choose a random survivor, they gain 3 bleeding tokens. All survivors suffer 3 brain event damage.
 [c] 4-6

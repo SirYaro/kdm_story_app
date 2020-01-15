@@ -1068,7 +1068,7 @@ Ogromna Antylopa stanęła okrakiem na granicy horyzontu, jej stare ciało pokry
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
-[c] Czy jakiś Ocalały posiada sztuke walki <b>Strateg</b>? #Strateg
+[c] [Kliknij] jeśli jakiś Ocalały posiada sztuke walki <b>Strateg</b> #Strateg
 [d<]
 Ocalali zamiast ścigać Gigantylopę mogą ją zagnać w miejsce bez mozliwości ucieczki obok gigantycznej kamiennej twarzy.
 
@@ -1669,7 +1669,7 @@ Wykonawca wydarzenia przeprowadza <b>badanie</b>, wykonując rzut 1k10.
 Drzwi do grobowca mają drewniane obramowanie o słojach w kształcie małych dłoni. Freski wewnątrz przedstawiają bohatera w centrum labiryntu, trzymającego nad głową gigantyczny wypełniony ludźmi owoc. Każdy Ocalały otrzymuje +1 do wiedzy.
 [i] Jeśli osada zna <b>Piktogramy</b>, Ocalali znajdują informacje o tropionej zdobyczy. Na początku starcia, mogą umieścić pułapkę potwora na spodzie talii miejsc trafień.
 
-<button class="hunt_event_action_button hoverable" id="tomb_of_excelence" onClick="placeReminder('tomb_of_excelence')">[Pictographs] Umieść przypomnienie</button>
+<button class="hunt_event_action_button hoverable" id="tomb_of_excelence" onClick="placeReminder('tomb_of_excelence')">[Piktogramy] Umieść przypomnienie</button>
 
 [>d]
 [T]

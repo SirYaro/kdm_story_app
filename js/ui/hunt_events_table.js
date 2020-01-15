@@ -1473,101 +1473,101 @@ Szczątki są ludzkie. Ocalali są zrozpaczeni i rozwścieczeni. To wydarzenie z
 Ogromna ściana ognia zatrzymuje Ocalałych spopielając ziemię. Zniszczyła to, co czekało na Ocalałych pozostawiając chaos. Zarchiwizuj wszystkie karty wydarzeń na łowach z kolejnych 2 pól planszy łowów. Umieść na tych polach dwie podstawowe karty wydarzeń na łowach.
 `,
 
-  61: `61 | Frozen Lightning
-A storm sweeps over the survivors. Deep purple lightning flashes overhead. The bolts freeze in midstrike and rain down on the survivors as jagged, glowing spikes.
-Each survivor rolls 1k10. The lowest scoring survivor (or survivors, in case of ties) becomes a straggler.
+  61: `61 | Mroźna błyskawica
+Nadciąga burza. Błyskawice w kolorze głębokiej purpury błyskają nad głowami. Na wpół zmarznięte lodowe sople uderzają w Ocalałych niczym postrzępione, błyszczące kolce. 
+Każdy Ocalały rzuca 1k10. Ocalały z najniższym wynikiem (lub Ocalali w przypadku remisów) zostaje Spóźnionym.
 
 [TO] 1k10
-[td] Determine straggler
-[c] Straggler chosen
-[dt] A bolt crashes beside the straggler, catching them in an explosion of razorsharp crystals. They suffer 1d5 event damage to 2 random hit locations. Archive all <b>fragile</b> gear in their gear grid.
+[td] Wybierz Spóźnionego
+[c] Spóźniony wybrany
+[dt] Sopel grzmotnął obok Spóźnionego, eksplodując chmarą ostrych jak brzytwa kryształów. To wydarzenie zadaje 1k5 obrażeń w 2 losowe miejsca trafienia. Zarchiwizuj każdy <b>kruchy</b> ekwipunek ze swojej siatki ekwipunku.
 `,
 
-  62: `62 | Space Between the Rocks
-The survivors are distracted by a dark crack in the endless sea of stone faces.
+  62: `62 |  Miejsce między głazami
+Uwagę Ocalałych zwraca ciemne pęknięcie w niekończącym się morzu kamiennych twarzy.
 
 [TO] Sprawdź
-[td] Does any survivor have a pickaxe?
-[c] Tak #Pickaxe
-[d] They strike the ground, causing the crack to expand into a gaping hole. Bravely reaching inside the survivor produces a blackened, twisted hunk. Gain 1 <b>iron</b> strange resource.
+[td] Czy jakiś Ocalały posoada kilof?
+[c] Tak #Kilof
+[d] Ocalały uderza kilofem w ziemię, powiększając pęknięcie do coraz większej dziury. Odważnie sięgając do jej wnętrza, wyciąga poczerniałą, poskręcaną bryłę. Otrzymujesz 1 dziwny zasób <b>żelaza</b>.
 [c] Nie #
 [d<]
 
-Each survivor rolls 1k10. The lowest scoring survivor (or survivors, in case of ties) becomes a straggler.
+Każdy ocalały rzuca 1k10. Ocalały z najniższym wynikiem (lub Ocalali w przypadku remisów) zostaje Spóźnionym.
 
 [TO] 1k10
-[td] Determine straggler
-[c] Straggler chosen
-[dt] The straggler stoops to gaze into the depths and refuses to stop staring. When the other survivors drag them away, they babble incoherently. Whatever they saw changed them forever; they gain 1 random disorder. If all the survivors end up as stragglers, no one ever pulls them away and they are all lost. Dead.
+[td] Wybierz Spóźnionego
+[c] Spóźniony wybrany
+[dt] Spóźniony, schylony nad pęknięciem nie może przestać się w nie wpatrywać. Kiedy inni Ocalali odciągają go, bełkocze niespójnie. Cokolwiek widział, zmienia go to na zawsze. Otrzymuje 1 losowe zaburzenie. Jeśli wszyscy Ocalali są Spóźnieni, nikt ich nigdy nie oderwie od tego miejsca i wszyscy są zgubieni. Giną.
 
 [>d]
 [T]
 `,
 
-  63: `63 | Feet
+  63: `63 |  Stopy
 
 [img] 63 # width:35%
 
-The stone faces ahead are replaced by an expanse of stone feet sprouting from the ground. The survivors walk sole-to-sole with the feet.
+Ocalali widzą przed sobą, jak kamienne twarze zastępowane są przez wyrastające z ziemi kamienne stopy. Ocalali chodzą stykając się podeszwa w podeszwę ze stopami.
 
 [TO] Sprawdź
-[td] Are all survivors insane?
-[c] Tak #All insane
+[td] Czy wszyscy Ocalali są <b>obłąkani</b>?
+[c] Tak #Wszyscy obłakani
 [d<]
 
 [TO] Sprawdź
-[td] Czy osada zna Survival of the Fittest?
-[c] Tak #Survival of the Fittest
-[d] They fall off the underside of the world. The survivors bite down hard on the feet. Their teeth grind against stone as they refuse to let go. At once, the feet shatter, revealing ordinary stone faces beneath. Set all survivors' insanity to 0. Each survivor suffers the <b>shattered jaw</b> severe head injury. Do not roll any additional hunt events caused by <b>Feet</b>.
+[td] Czy osada zna <b>Przetrwanie najsilniejszych</b>?
+[c] Tak #Przetrwanie najsilniejszych
+[d] Spadają ze spodu świata. Ocalali gryzą mocno stopy. Ich zęby zgrzytają o kamień, odmawiając puszczenia. Stopy natychmiast rozpadają się odsłaniając zwykłe kamienne twarze  pod  spodem. Ustaw obłęd wszystkim Ocalałym na 0. Każdy  z Ocalałych  otrzymuje  ciężki  uraz głowy  <b>zdruzgotana szczęka</b>. Nie rzucaj na żadne dodatkowe wydarzenia na łowach spowodowane przez wydarzenie <b>Stopy</b>.
 [c] Nie #
-[dt] They fall off the underside of the world. The survivors are dead.
+[dt] Spadają ze spodu świata. Ocalali są martwi.
 
 [>d]
-[c] Nie #Someone sane
-[dt] If any survivor is <b>insane</b>, they are convinced they have reached the underside of the world. They clutch the ground for dear life, terrified of falling off. Their raucous terror slows the survivors and attracts unwanted attention. Roll once on the hunt event table for each <b>insane</b> survivor before moving on the hunt board. If any of these rolls result in <b>Feet</b>, ignore it and re-roll.
+[c] Nie #Ktoś nie jest obłąkany
+[dt] Jeśli jakiś Ocalały jest <b>obłąkany</b>, jest przekonany, że dotarł do spodu świata. Czepia się ziemi przerażony upadkiem. To zdarzenie spowalania Ocalałych odwracając ich uwagę. Rzuć w tabeli wydarzeń na łowach, raz za każdego <b>obłąkanego</b> Ocalałego zanim poruszycie się na planszy łowów. Jeśli w którymkolwiek z tych rzutów wypadą <b>Stopy</b>, zignoruj go i powtórz rzut.
 `,
 
-  64: `64 | Stone Fountain
-Two cupped stone hands rise out of the ground. The hands hold clear, cold water that trickles through the stone fingers in a seemingly endless supply. Any survivor may <b>consume</b> from the fountain. If they do, gain +1 courage and roll 1k10.
+  64: `64 | Kamienna fontanna
+Dwie złożone kamienne ręce wynurzają się z ziemi. Dłonie trzymają czystą, zimną wodę, która spływa przez kamienne z pozornie nieskończonego zbiornika. Każdy Ocalały może <b>spożyć</b> wodę z fontanny. Jeśli to zrobi, zyskuje +1 odwagi i rzuca 1k10.
 
-If no one consumes, roll again on the hunt event table before moving on the hunt board.
+Jeśli nikt nie spożywa, rzuć ponownie na liście wydarzeń na łowach zanim poruszysz sie na planszy łowów.
 
 [TA] 1k10
-[td] Any survivor - Consume
+[td] Każdy Ocalały - spożycie
 [c] 1-4
 [d<]
 
-The water is clear until it enters your lips, where it suddenly turns to blood. You spit out the foul liquid and suffer monster level brain event damage.
-[i] If you have the <b>Hemophobia</b> disorder, you also suffer monster level event damage to the body as you vomit violently in disgust.
+Woda zdaje się być czysta, póki nie weźmiesz jej do ust, gdzie nagle zamienia się w krew. Wypluwasz obrzydliwą ciecz, to wydarzenie zadaje twojemu umysłowi obrażenia równe poziomowi potwora. 
+[i] Jeśli masz zaburzenie <b>Hemofobia</b>, to wydarzenie dodatkowo  zadaje twojemu korpusowi obrażenia równe poziomowi potwora, gdy wymiotujesz gwałtownie z obrzydzenia.
 
 [>d]
 [c] 5-8
-[d] It's water. Refreshing.
+[d] To zupełnie świeża woda.
 [c] 9+
-[dt] The water is clean and pure, like none the survivor has ever tasted. Gain +1 survival.
+[dt] Woda jest krystalicznie czysta i ma smak jakiego nigdy nie próbował żaden Ocalały. Otrzymujesz +1 do przetrwania.
 `,
 
-  65: `65 | Statue
+  65: `65 | Posąg
 
 [img] 65
 
-Cresting a hill, the survivors find a statue of a man sitting on a throne.
+Na grzbiecie wzgórza, Ocalali znajdują posąg człowieka siedzącego na tronie. 
 
-[i] If any survivor has 5+ understanding, the survivors may ignore the statue and end this event.
+[i] Jeśli którykolwiek Ocalały ma 5+ wiedzy, Ocalali mogą zignorować posąg i zakończyć to wydarzenie.
 
-Otherwise, each survivor rolls 1k10. The lowest scoring survivor (roll off in case of ties) becomes a straggler.
+W przeciwnym razie każdy Ocalały rzuca 1k10. Ocalały z najniższym wynikiem (lub Ocalali w przypadku remisów) zostaje Spóźnionym.
 [TO] 1k10
-[td] Determine straggler
-[c] Straggler chosen
+[td] Wybierz Spóźnionego
+[c] Spóźniony wybrany
 [d<]
 
-The straggler is drawn to the statue, touching it gently. In an instant, they are gone, replaced by the man from the throne, now flesh and blood. The straggler sits in his place on the throne, stone mouth open in a silent yell. They are gone forever. Consider them dead, but do not apply <b>Cannibalize</b> death principle; there is no body.
+Posąg przyciąga do siebie spóźnionego. Dotyka on go delikatnie. W jednej chwili zamienia się miejscem z człowiekiem na tronie który stoi teraż żywy rozglądając się w zdumieniu. Spóźniony siedzi na tronie, a jego kamienne usta, otwierają się w niemym wrzasku. Uważaj go martwego. Nie możesz  zastosować doktryny śmierci <b>Kanibalizm</b>.  Nie pozostało po nim żadne ciało.
 [TO] Sprawdź
 [td] Czy osada zna <b>Momento Mori</b>?
 [c] Tak #Momento Mori
-[d] The satue resembles a deceased survivor. Replace the straggler with the record sheet of a fallen survivor. Remove all of their severe injuries. Set their Hunt XP to 2 (they Age again, as this is a new lifetime). They gain +1k10 survival, +1k10 insanity. You may give them 3 ranks of proficiency in a random weapon type.
+[d] Posąg przypomina zmarłego Ocalałego. Wymień Spóźnionego na zmarłego Ocalałego zapisanego w arkuszu. Usuń jego wszystkie ciężkie urazy. Ustaw doświadczenie łowieckie na 2 (rozpatrz wiek  ponownie, tak jakby był nowonarodzonym). Otrzymuje +1k10 przetrwania, +1k10 obłędu. Możesz mu przydzielić 3 stopnie biegłości w losowo wybranym typie broni.
 [c] Nie #
-[dt] The man offers his thanks and joins the hunting party without any explanation. He is a new survivor with the straggler's gear, 2 random disorders, and 2 Hunt XP. Shuffle all weapon specialization cards (including expansions, if any) and draw one. The survivor has 3 ranks of proficiency in that weapon type. They gain +1k10 survival, +1k10 insanity. Give him a name and +1 survival for being named.
+[dt] Mężczyzna składa podziękowanie i dołącza do grupy łowców bez żadnych wyjaśnień. Jest nowym Ocalałym z ekwipunkiem Spóźnionego, 2 losowymi zaburzeniami i 2 punktami doświadczenia łowieckiego. Potasuj wszystkie karty specjalizacji w broni (łącznie z tymi z dodatków, jeśli takie masz) i wylosuj jedną. Ocalały ma 3 stopień biegłości w tej broni. Zyskuje +1k10 przetrwania, 1k10 obłędu. Nadaj mu imię i dodaj +1 przetrwania za posiadanie imienia.
 
 [>d]
 [T]
@@ -1627,8 +1627,8 @@ Each survivor rolls 1k10.
 Each survivor rolls 1k10. The lowest scoring survivor (or survivors, in case of ties) becomes a straggler.
 
 [TO] 1k10
-[td] Determine straggler
-[c] Straggler chosen
+[td] Wybierz Spóźnionego
+[c] Spóźniony wybrany
 [dt] While examining the stone faces underfoot, the straggler recognizes the face of a fallen friend. Bittersweet memories reduce them to tears. Reduce their insanity to 0 and they gain +1 understanding.
 `,
 
@@ -1881,8 +1881,8 @@ Record the <b>Portcullis Key</b> in the settlement record sheet notes.
 The survivors pass a ring of stones with an unassuming boulder at the center. Each survivor rolls 1k10. The lowest scoring survivor (randomize in case of ties) becomes a straggler.
 
 [TO] 1k10
-[td] Determine straggler
-[c] Straggler chosen
+[td] Wybierz Spóźnionego
+[c] Spóźniony wybrany
 [dt] The straggler hefts the boulder (it's heavy!) and promises to carry it everywhere, forever in love. They must always leave one space in their gear grid empty, as it contains their beloved rock. Record this on your survivor sheet. The rock can be lost or archived like other gear; if it is lost, the survivor mourns their beloved and reclaims the space in their gear grid.
 `,
 
@@ -1905,8 +1905,8 @@ The survivors carefully tread along the back of a massive, sleeping monster. Ins
 Vibrant green grass grows in patches ahead of the survivors. Closer inspection of the delicate leaves reveals they are as sharp as any blade. Each survivor rolls 1k10. The lowest scoring survivor (or survivors, in case of ties) becomes a straggler.
 
 [TO] 1k10
-[td] Determine straggler
-[c] Straggler chosen
+[td] Wybierz Spóźnionego
+[c] Spóźniony wybrany
 [d<]
 
 As the survivors carefully pick their way past the verdant hazards, the straggler stumbles into the brush. They roll 1k10.
@@ -2072,8 +2072,8 @@ A one-eyed statue, twice as tall as any man, sits before a great anvil with a ha
 Tiny, ragged birds with needle-thin beaks fly overhead. Each survivor rolls 1k10. The lowest-scoring survivor (roll off in case of ties) becomes a straggler.
 
 [TO] 1k10
-[td] Determine straggler
-[c] Straggler chosen
+[td] Wybierz Spóźnionego
+[c] Spóźniony wybrany
 [d<]
 
 The birds swarm the straggler. One forces its way into the straggler's mouth and down their throat. The survivor vomits up the well-fed bird, their insides scrambled and scarred. Gain +1 permanent luck, -1 permanent speed.

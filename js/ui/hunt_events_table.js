@@ -1806,84 +1806,85 @@ Każdy Ocalały rzuca 1k10.
 Potykając się w ciemności, wykonawca zdarzenia wuwraca się na ziemię, miażdżąc pod sobą latarnię. Gorejące światło z wnętrza latarni, przypala jego ekwipunek. Wykonawca wydarzenia archiwizuje 1 wybrany przez siebie ekwipunek, ze swojej siatki ekwipunku.
 `,
 
-  76: `76 | Dream the Way
-The survivors have vivid, fevered visions of what lies ahead. All at once, they are startled awake and frantically compare the horrors they saw.
-Each survivor rolls 1k10.
-[i] If any survivor is a savior, their powerful dream envelopes the group; each survivor may select whatever die roll result they want.
-If any survivors' rolls are the same, those survivors discover they had the exact same dream. They gain +1 insanity. If any duplicate rolls are 10s, the event revealer may re-roll any one roll result this hunt phase (any one die roll, not just their roll).
+  76: `76 | Wyśniona droga
+Ocalali mają żywe, gorączkowe wizje tego co ich czeka. Wszyscy jednocześnie się budzą i w rozgorączkowaniu porównują okropności który widzieli.
+Każdy Ocalały rzuca 1k10. 
+[i] Jeśli którykolwiek Ocalały jest zbawcą, jego potężny sen otacza grupę; każdy z Ocalałych może wybrać dowolny wynik rzutu kości. 
+Jeśli jakiekolwiek rzuty Ocalałych są takie same, ci Ocalali odkrywają, że mają dokładnie ten sam sen. Otrzymują +1 do obłędu. Jeśli którekolwiek zduplikowane rzuty wynoszą 10, wykonawca zdarzenia może ponownie przerzucić dowolny wynik rzutu w tej fazie łowów (dowolny rzut kości, a nie tylko jego rzut).
 `,
 
-  77: `77 | Sinkhole
-A gaping sinkhole suddenly opens under the survivors, revealing a swirling black pool of ichor beneath them. Each survivor rolls 1k10. The lowest scoring survivor (or survivors, in case of ties) becomes a straggler.
-Each straggler rolls 1k10.
-[i] If any other survivor has a whip, they throw a line to the straggler. Each straggler adds +4 to their roll.
+  77: `77 | Dziura
+Przed Ocalałymi nagle otwiera się dziura, odsłaniając wirującą czarną kałużę posoki pod nimi. Każdy Ocalały rzuca 1k10. Ocalały z najniższym wynikiem (lub Ocalali w przypadku remisów) zostaje Spóźnionym.
+Każdy Spóźniony rzuca 1k10.
+[i] Jeśli którykolwiek inny Ocalały ma bicz, rzuca nim spóźnionym jak liną — dodają wtedy +4 do rzutu.
 
 [TA] 1k10
 [td] Spóźniony
 [c] 1
-[d] You are swallowed by the sinkhole. Moments later it regurgitates you completely naked. Your gear is hopelessly lost in the miasma. Archive all gear in your gear grid.
+[d] Zostajesz połknięty przez dziurę. Chwilę później dziura wypluwa Cię kompletnie nago. Twój ekwipunek jest zagubiony pośród wyziewów i posoki. Zarchiwizuj cały ekwipunek ze swojej siatki ekwipunku.
 [c] 2-4
-[d] The other survivors haul you up, but not before something is sucked below the surface. Archive 1 gear of your choice from your gear grid.
+[d] Pozostali Ocalali wyciągają cię, choć wcześniej zostałeś zassany pod powierzchnię. Archiwizuj 1 ekwipunek ze swojej siatki ekwipunku.
 [c] 5-9
-[d] You are dragged to safety, terrified but unharmed.
+[d] Jesteś wleczony w bezpieczne miejsce, przerażony, ale bez szwanku.
 [c] 10+
-[dt] After a monumental effort, the other survivors pull you free. Someone is clinging tightly to your feet (+1 population)! As they reatreat to your settlement, each survivor suffers 1 brain event damage.
+[dt] Po wielkim wysiłku, inni Ocalali wyciągają Ciebie na powierzchnię. Ktoś mocno trzyma się  twoich stóp (+1 do populacji)! Gdy powracacie do twojej osady, to wydarzenie zadaje 1 obrażenie umysłowi każdego z Ocalałych.
 `,
 
-  78: `78 | Dead Great Game Hunter
+  78: `78 | Wspaniała, śmiertelna gra łowcy
 
-The survivors find a corpse dressed in brightly-colored clothing, clutching something to its chest. The event revealer may <b>investigate</b>.
+Ocalali znajdują zwłoki ubrane w jaskrawe ubrania, przyciskające coś do piersi. Wykonawca wydarzenia może przeprowadzić <b>badanie</b>.
 
 [TO] Wybór
 [td] Wykonawca wydarzenia
-[c] Investigate
+[c] Badanie
 [d<]
 
-They gain +1 courage and roll 1k10.
-[i] If any survivor has a whip, they lash the corpse from afar; add +4 to your roll.
+Zyskuje +1 odwagi i rzuca 1k10.
+[i] Jeśli którykolwiek Ocalały ma bicz, smaga nim zwłoki z daleka, dodaj +4 do swojego rzutu.
 
 [TO] 1k10
-[td] Wykonawca wydarzenia -Investigate
+[td] Wykonawca wydarzenia - Badanie
 [c] 1
-[d] He was holding an explosive! Moving it causes it to detonate, blowing off your hand. Suffer the <b>dismembered arm</b> severe arm injury.
+[d] Trzymał materiał wybuchowy! Poruszenie nim powoduje detonację odrywając ci rękę. Otrzymujesz ciężki uraz ręki - <b>odcięte ramię</b>.
 [c] 2-4
-[d] He was holding an explosive! It explodes, but you pull away before disaster strikes. Gain -1 accuracy token.
+[d] Trzymał materiał wybuchowy! Eksplozja odrzuca cię nie powodującwiększych obrażeń. Otrzymujesz żeton precyzji -1.
 [c] 5-9
 [d<]
 
-His hands are empty.
-[i] If the settlement has <b>Cannibalize</b>, gain 1 random basic resource.
-[i] If the settlement has <b>Graves</b>, gain +1 understanding.
+Jego ręce są puste. 
+[i] Jeśli osada zna <b>kanibalizm</b>, otrzymujesz 1 losowy podstawowy zasób. 
+[i] Jeśli osada zna <b>groby</b>, otrzymujesz +1 do wiedzy.
 
 [>d]
 [c] 10+
-[dt] His hands contain a jeweled bottle filled with a chartreuse liquid. Gain 1 <b>Frenzy Drink</b> gear.
+[dt] Jego dłonie trzymają wysadzaną klejnotami butelkę wypełnioną żółto-zielonym likierem. Otrzymujesz 1 ekwipunek <b>napój furii</b>.
 [>d]
-[c] Move on
-[dt] Roll again on the hunt event table before moving on the hunt board.
+[c] Idź dalej
+[dt] Rzuć ponownie na liście wydarzeń na łowach nim poruszycie się na planszy łowów.
 `,
 
-  79: `79 | Dying Small Prospector
-[i] If your settlement already has a <b>Portcullis Key</b>, the prospector is gone. Roll again on the hunt event table before moving on the hunt board.
-The survivors discover a body slumped against a large stone face. Moving closer, they find a small, dying prospector riddled with arrows. As they approach, he growls a warning, threatening them with a huge stone shard. When he sees that they are not evil monsters, he calms down and gives them a key. With his dying breath he says: This is the key to the portcullis. Without it, you will never get through.
-Record the <b>Portcullis Key</b> in the settlement record sheet notes.
+  79: `79 | Śmierć małego poszukiwacza
+[i] Jeśli twoja osada posiada już <b>klucz do kraty</b>, poszukiwacz znika. Rzuć ponownie na liście wydarzeń na łowach zanim poruszysz się na planszy łowów.
+Ocalali odkrywają ciało leżące na wielkiej kamiennej twarzy. Podchodząc bliżej dostrzegają małego, umierającego poszukiwacza przebitego strzałą. Kiedy się zbliżają, warczy ostrzegawczo, grożąc im ogromnym kamiennym
+odłamkiem. Kiedy dostrzega, że nie jesteście potworami, uspokaja się i daje wam klucz. Ostatnim tchnieniem mówi:  To jest Klucz do kraty. Bez  tego, nigdy  nie przejdziesz.
+Zanotuj <b>Klucz do kraty</b> w arkusza osady.
 
 [TO] Sprawdź
-[td] Czy osada zna Graves?
-[c] Tak #Graves
-[d] The event revealer builds a small monument of broken stone noses and gains +1 understanding.
+[td] Czy osada zna Groby?
+[c] Tak #Groby
+[d] Wykonawca wydarzenia buduje mały pomnik z rozbitych kamieni i zyskuje +1 do wiedzy.
 [c] Nie #
-[d] The survivors continue their hunt.
+[d] Ocalali kontynuują łowy.
 [T]
 `,
 
-  80: `80 | Lovelorn Rock
-The survivors pass a ring of stones with an unassuming boulder at the center. Each survivor rolls 1k10. The lowest scoring survivor (randomize in case of ties) becomes a straggler.
+  80: `80 |  Samotny, opuszczony głaz
+Ocalali przechodzą koło kręgu kamieni z niepozornym głazem pośrodku. Każdy Ocalały rzuca 1k10. Ocalały z najniższym wynikiem (wylosuj w przypadku remisu) zostaje Spóźnionym. 
 
 [TO] 1k10
 [td] Wybierz Spóźnionego
 [c] Spóźniony wybrany
-[dt] The straggler hefts the boulder (it's heavy!) and promises to carry it everywhere, forever in love. They must always leave one space in their gear grid empty, as it contains their beloved rock. Record this on your survivor sheet. The rock can be lost or archived like other gear; if it is lost, the survivor mourns their beloved and reclaims the space in their gear grid.
+[dt] Spóźniony podnosi głaz (jest ciężki!) i przepełniony miłością obiecuje nosić go wszędzie, na zawsze. Odtąd musi zawsze pozostawić jedno miejsce puste w swojej siatce ekwipunku, na swoją ukochaną skałę. Zanotuj to w arkuszu Ocalałego. Głaz może być utracony lub zarchiwizowany jak każdy inny ekwipunek. Jeśli zostanie utracony, Ocalały opłakuje swoją ukochaną skałę, ale odzyskuje miejsce w swojej siatce ekwipunku.
 `,
 
   81: `81 | Field of Arms

@@ -1891,136 +1891,136 @@ Ocalali przechodzą koło kręgu kamieni z niepozornym głazem pośrodku. Każdy
 
 [img] 78
 
-The survivors carefully tread along the back of a massive, sleeping monster. Instead of fur, it has elongated arms, several of them twitching to whatever dream the great beast is in the midst of. The survivors don't disturb the monster's deep sleep and cross without issue.
+Ocalali ostrożnie depczą po grzbiecie ogromnego, śpiącego potwora. Zamiast futra ma podłużne ramiona. Kilka z nich drży podczas snu w którym pogrążona jest wielka bestia. Ocalali nie zakłócają głębokiego snu potwora i przechodzą bez komplikacji.
 
 [TO] Sprawdź
-[td] Does any survivor have a sickle?
-[c] Tak #Sickle
-[d] They gingerly remove some tough skin from one of the arms and gain 1 <b>Hide</b> basic resource.
-[c] Nie #No sickle
-[dt] The survivors continue their hunt.
+[td] Czy jakiś Ocalały posiada sierp?
+[c] Tak #Sierp
+[d] Ostrożnie odcinasz nieco twardej skóry na jednym z ramion i zyskujesz 1 podstawowy zasób <b>skóra</b>.
+[c] Nie #Brak sierpa
+[dt] ocalali kontynuują łowy.
 [T]
 `,
 
-  82: `82 | Consuming Grass
-Vibrant green grass grows in patches ahead of the survivors. Closer inspection of the delicate leaves reveals they are as sharp as any blade. Each survivor rolls 1k10. The lowest scoring survivor (or survivors, in case of ties) becomes a straggler.
+  82: `82 | Żarłoczna trawa
+Soczyście zielona trawa wyrasta na polanach przed Ocalałymi. Bliższe sprawdzenie delikatnych liści ujawnia, że są ​​one ostre jak ostrza. Każdy Ocalały rzuca 1k10. Ocalały z najniższym wynikiem (lub Ocalali w przypadku remisów) zostaje Spóźnionym.
 
 [TO] 1k10
 [td] Wybierz Spóźnionego
 [c] Spóźniony wybrany
 [d<]
 
-As the survivors carefully pick their way past the verdant hazards, the straggler stumbles into the brush. They roll 1k10.
-[i] If any survivor has a whip, a hasty tether is made. Add +4 to your roll.
+Podczas gdy Ocalali ostrożnie przechodzą przez zielone niebezpieczeństwo, Spóźniony utyka w zaroślach. Rzuca 1k10.
+[i] Jeśli którykolwiek z Ocalałych ma bicz, rozwija go pospiesznie. Dodaj +4 do rzutu.
 
 [TA] 1k10
 [td] Spóźniony
 [c] 1
-[d] You land in the grass patch. As you climb to your feet, you realize it's too late. The parts of your body that touched the ground have sprouted with sharp blades of grass. Any attempt to remove them only spreads them further over your body. During the showdown, you are never a threat (ignore any effect that would make you a threat, even the White Lion's <b>Sniff</b>). At the end of the showdown, your body blossoms into a whorl of immaculate green grass. Dead.
+[d] Lądujesz na trawiastej polanie. Kiedy stajesz na nogi, zdajesz sobie sprawę, że jest już za późno. W części ciała które dotknęły ziemi, trawa wbiła się ostrymi źdźbłami. Każda próba ich usunięcia wciska je głebiej w ciało. Podczas starcia nigdy nie jesteś zagrożeniem (zignoruj​​ jakikolwiek efekt, który może sprawić, że staniesz się zagrożeniem, nawet <b>węszenie</b> Białego lwa). Pod koniec starcia twoje ciało rozkwita w kępę soczyście zielonej trawy. Nie żyjesz.
 [c] 2-9
-[d] You fall but manage to interpose something between the grass and your bare skin. Either archive 1 gear of your choice from your gear grid to protect yourself, or treat this result as if you rolled a 1.
+[d] Upadasz, ale udało ci się wepchnąć coś pomiędzy trawę, a swoje ciało. Zarchiwizuj wybrany ekwipunek z własnej siatki ewipunku, którego użyłeś by się zabezpieczyć lub potraktuj ten wynik tak, jakbyś wyrzucił 1.
 [c] 10+
-[d] You stop your fall before it's too late.
+[d] Zatrzymujesz upadek, nim jest za późno.
 [>d]
 [T]
 `,
 
-  83: `83 | Flesh Monolith
+  83: `83 | Monolit ciał
 
 [img] 83
 
-The survivors approach a 5-sided monolith made of flesh that stretches into the darkness overhead. Limbs and faces both human and bizarre protrude from all sides. The event revealer gains +1 courage and <b>investigates</b>.
+Ocalali zbliżają się do 5-stronnego monolitu wykonanego z ciał, wznoszącego się w ciemność nad głowami. Kończyny i ludzkie twarze dziwaczne wystają ze wszystkich stron. Wykonawca wydarzenia zyskuje +1 odwagi i wykonuje <b>badanie</b>.
 
 [TO] 1k10
-[td] Wykonawca wydarzenia - investigate
+[td] Wykonawca wydarzenia - badanie
 [c] 1
 [d<]
 
-The monolith's limbs spring to life, grabbing hold before you can react.
+Kończyny monolitu ożywają, chwytając cię nim zdążysz zareagować.
 [TO] Sprawdź
-[td] Czy osada zna Survival of the Fittest?
-[c] Tak #Survival of the Fittest
-[d] You fight the monolith! The horrible edifice tears your arm off, but you bite one of its appendages in return, severing it! The monolith retreats into the ground as you roar in triumph. Suffer the <b>dismembered arm</b> severe injury and gain +1 permanent strength. All other survivors stand in awe and gain +3 insanity and +1 courage.
+[td] Czy osada zna <b>Przetrwanie najsilniejszych</b>?
+[c] Tak #Przetrwanie najsilniejszych
+[d] Walczysz z monolitem! Okropny monolit odrywa ci rękę, ale w odwecie gryziesz jedną z jego kończyn! Gdy wycofuje się w głąb ziemi, ryczysz triumfalnie. Otrzymujesz ciężki uraz <b>odcięte ramię</b> i otrzymujesz na stałe +1 do siły. Reszta Ocalałych stoi oniemiała w zachwycie. Otrzymują +3 do obłędu i +1 do odwagi.
 [c] Nie #
-[dt] They join your body parts to its own with maddening efficiency as you are ripped apart in a shower of gore. Dead. The horrible sight causes all other survivors to suffer 3 brain event damage and they all gain <b>Post Traumatic Stress</b> disorder.
+[dt] Z oszałamiającą szybkością rozrywają Twoje ciało na strzępy przytwierdzając je do monolitu. Nie żyjesz. Widok tego straszliwego wydarzenia zadaje pozostałym Ocalałym 3 obrażenia umysłu i wszyscy otrzymują zaburzenie <b>stres pourazowy</b>.
 
 [>d]
 [c] 2-4
-[d] Hands and tentacles grasp at you. Spend 1 survival to wriggle away or treat this result as if you rolled a 1.
+[d] Dłonie i macki chwytają cię. Wydaj 1 przetrwania by się oderwać i odskoczyć lub zachowaj się tak jakbyś wyrzucił 1.
 [c] 5-9
-[d] All survivors are driven back with horror. They all suffer quarry's monster level brain event damage.
+[d] Wszyscy Ocalałali uciekają z grozą w oczach. To wydarzenie zadaje obrażenia umysłom wszystkich Ocalałych, równe poziomowi potwora.
 [c] 10+
 [d<]
 
-As the survivors draw near, they discover that this flesh monolith is actually an enormous pile of survivors' corpses, many with badly broken limbs. The pile is covered in chunks of strange, sweet-smelling viscera.
+Gdy Ocalali zbliżają się, odkrywają, że monolit ciał jest w rzeczywistości ogromną stertą ciał Ocalałych, wielu z okropnie połamanymi kończynami. Sterta jest pokryta kawałkami dziwnych, słodko pachnących wnętrzności.
 [TO] Sprawdź
-[td] Czy osada zna Graves?
-[c] Tak #Graves
-[d] You ascend the heap and find 3 barely living survivors, their bodies devoid of nourishment and their eyes too sensitive for lantern light. If you return to the settlement, +3 population. These new survivors cannot depart for 2 lantern years as they need time to recover (note this on the timeline).
+[td] Czy osada zna Groby?
+[c] Tak #Groby
+[d] Wchodzisz na stertę i znajdujesz 3 ledwo żyjące ofiary. Są wygłodniali, a ich oczy są wrażliwe na światło. Jeśli uda Ci się wrócić do osady zyskacie +3 populacji. Nowi Ocalali nie mogą wyruszać na łowy przez kolejne 2 lata, ponieważ potrzebują czasu by odzyskać siły (zanotuj to na osi czasu).
 [c] Nie #
-[dt] All you manage to harvest from the pile of emaciated corpses is 2 <b>Organ</b> basic resources. Their skin is too soft and bones too brittle to be of any use.
+[dt] Wszystko, co zdołałeś zebrać ze stosu wychudzonych trupów, to 2 podstawowe zasoby <b>organów</b>. Skóra reszty jest zbyt miękka, a kości zbyt kruche by mogły być przydatne.
 [>d]
 [T]
 `,
 
-  84: `84 | Scribe's Book
+  84: `84 | Księga skryby
 
 [img] 84
 
-A huge, ornately bound book lays open before the survivors.
+Przed Ocalałymi leży ogromna, otwarta, zdobnie oprawiona ornamentami księga. 
 
 [TO] Sprawdź
-[td] Czy osada zna Pictographs?
-[c] Tak #Pictographs
+[td] Czy osada zna Piktogramy?
+[c] Tak #Piktogramy
 [d<]
 
-Any survivor with 3+ courage may write their name in the book. <b>Insane</b> survivors with 3+ courage must write.
+Każdy z Ocalałych z odwagą na 3+ może zapisać swoje imię w księdze. <b>Obłąkani</b> Ocalali z odwagą 3+ muszą pisać.
 
-Each survivor who writes their name in the book rolls 1k10 and adds their understanding. If no one writes, roll again on the event table before moving on the hunt board.
+Każdy Ocalały, który zapisuje swoje imię w księdze rzuca 1k10 i dodaje swoją wiedzę. Jeśli nikt nie pisze rzuć ponownie na liście wydarzeń na łowach, zanim poruszycie się na planszy łowów.
 
 [TA] 1k10
-[td] Any survivor with 3+ courage
+[td] Dowolny Ocalały z odwagą 3+
 [c] 1-4
-[d] As you finish writing your name, you know that you did something terribly wrong. You vanish from history. Dead. Archive your gear.
+[d] Gdy kończysz pisać swoje imię, orientujesz się, że zrobiłeś coś bardzo głupiego. Znikasz z historii. Giniesz. Zarchiwizuj swoje wyposażenie.
 [c] 5-8
-[d] Nothing happens.
+[d] Nic się nie dzieje.
 [c] 9-10
-[d] As you write your name, you feel restored. Heal all injury levels and lost armor points. Gain +2 survival.
+[d] Gdy wpisujesz swoje imię, czujesz się odnowiony. Ulecz wszystkie rany i stracone punkty pancerza. Otrzymujesz +2 przetrwania.
 [c] 11-14
-[d] You feel assured that as long as your name is in the book, nothing bad can happen to you. Gain two of the following: +2 courage, +2 understanding or +2 survival.
+[d] Masz przekonanie, że póki twoje imię jest w księdze nic złego się nie może stać. Zdobywasz dwie z następujących rzeczy: +2 do odwagi, +2 do wiedzy lub +2 przetrwania.
 [c] 15+
-[dt] The book proves the undeniable mark you leave on the world. Gain +1 survival, +1 understanding, +1 courage, +1 permanent speed and +1 permanent strength.
+[dt] Księga niezaprzeczalnie dowodzi, że zostaje po tobie ślad w historii tego świata. Zdobywasz +1 do przetrwania, +1 do wiedzy, +1 do odwagi, na stałe +1 szybkości i na stałe +1 siły.
 
 [>d]
 [c] Nie #
-[dt] Survivors continue their hunt. Roll again on the event table before moving on the hunt board.
+[dt] Ocalali kontunuują łowy. Rzuć ponownie na liście wydarzeń na łowach, zanim poruszycie się na planszy łowów.
 `,
 
-  85: `85 | Test of Courage
-Lava flows from the eyes of a huge, grimacing stone face. Its gritted teeth hold a worn sword. If there are any survivors with 6+ courage, choose one to brave the lava.
+  85: `85 |  Test odwagi
+Z oka wykrzywionej w grymasie, ogromnej kamiennej twarzy wypływa lawa. Zaciśnięte zęby ściskają powycierany miecz. Jeśli jakiś Ocalały ma odwagę 6+, wybierz jednego do zmagań z lawą.
 
 [TO] Sprawdź
-[td] Does any survivor have 6+ courage?
-[c] Tak #6+ courage
+[td] Czy jakiś Ocalały ma odwagę 6+ ?
+[c] Tak #odwaga 6+
 [d<]
 
-They gain the <b>Adventure Sword</b> rare gear.
+Otrzymujesz rzadki ekwipunek <b>Miecz awanturnika</b>.
 
 [TO] Sprawdź
-[td] Does the settlement already have Adventure Sword and Storytelling?
+[td] Czy osada posiada już <b>Miecz awanturnika</b> i zna opowieści?
 [c] Tak #
 [d<]
 
-The survivors share stories of bravery; each survivor gains +1 survival.
-[i] If the settlement also has <b>Saga</b>, the stories are exceptionally moving; each survivor also gains +1 courage.
+Ocalali dzielą się historiami o odwadze. Każdy Ocalały otrzymuje +1 do przetrwania.
+[i] Jeśli osada zna również <b>Sagi</b> historie są wyjątkowo poruszające, a każdy Ocalały otrzymuje +1 do odwagi.
 
 [>d]
 [c] Nie #
-[dt] The group moves on.
+[dt] Grupa rusza w dalszą drogę.
 
 [>d]
 [c] Nie #
-[d] The group moves on with a feeling of inadequacy.
+[d] Grupa rusza dalej czując, że nie ma dostatecznych umiejętności.
 [T]
 `,
 

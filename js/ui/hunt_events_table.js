@@ -2024,294 +2024,294 @@ Ocalali dzielą się historiami o odwadze. Każdy Ocalały otrzymuje +1 do przet
 [T]
 `,
 
-  86: `86 | Putrid Tunnels
-The survivors smell it long before they see it, a series of cave mouths that emit noxious odors.
-Each survivor rolls 1k10.
+  86: `86 | Cuchnące tunele
+Ocalali wyczuwają zapach na długo wcześniej niż zobaczą, grupę jam w ziemi, wydzielających trujące wyziewy.
+Każdy Ocalały rzuca 1k10.
 
 [TA] 1k10
 [td] Każdy Ocalały
 [c] 1-8
-[d] They overcome the desire to investigate.
+[d] Powstajesz się od badania.
 [c] 9+
-[dt] They enter one of the tunnels and discover a wretched group of diseased survivors living in filth. All survivors who enter the cave catch their foul rotting disease. They have <b>Leprosy</b>: reduce all damage suffered by 1 to a minimum of 1. Suffer -2 to severe injury rolls. Record this impairment.
+[dt] Wchodzisz do jednego z tuneli i odkrywasz grupę chorych nieszczęśliwców, żyjących w smrodzie i brudzie. Wszyscy Ocalali wchodzący do jaskini, nabywają <b>Gnilną chorobę</b>. Stają się trędowaci. Zmniejsz im wszystkie otrzymywane obrażenia o 1, minimalnie do 1. Otrzymują -2 do rzutów na ciężkie urazy. Zanotuj to upośledzenie.
 `,
 
-  87: `87 | Weeping Faces
-Water flows from the eyes of the surrounding stone faces, gathering in a small pool. Any survivor may <b>consume</b> from the pool and roll 1k10.
-[i] If they have 3+ understanding, add +2 to their roll.
+  87: `87 | Szlochające twarze
+Woda płynie z oczu okolicznych kamiennych twarzy, gromadząc się w małej sadzawce. Każdy Ocalały może spróbować ją <b>spożyć</b> z sadzawki, rzucając 1k10. 
+[i] Jeśli ma wiedzę na 3+, dodaje +2 do tego rzutu.
 
-<b>Insane</b> survivors are inconsolable, they lay on the ground sobbing heavily. If any survivor is <b>insane</b>, roll again on the hunt event table before moving on the hunt board.
+<b>Obłąkani</b> Ocalali są niepocieszeni, leżą na ziemi szlochając ciężko. Jeśli którykolwiek z Ocalałych jest <b>obłąkany</b>, rzuć ponownie na liśćie wydarzeń na łowach, zanim poruszycie się na planszy łowów.
 
 [TA] 1k10
-[td] Any survivor - Consume
+[td] Dowolny Ocalały - Spożyj
 [c] 1-3
-[d] The water is salty and sour. You can't help thinking about what you might be drinking. Suffer 1 brain event damage.
+[d] Woda jest słona i kwaśna. Nie pomaga w myśleniu świadomość co pijesz. To wydarzenie zadaje 1 obrażenie twojemu umysłowi.
 [c] 4-6
-[d] Refreshing!
+[d] Odświeżająca!
 [c] 7-8
-[d] The water is cleaner than most. You may heal up to 2 injury levels at any one hit location.
+[d] Woda jest czystsza niż wyglądała. Możesz uleczyć do 2 poziomów ran w dowolnym miejscu trafienia.
 [c] 9+
-[dt] The water is invigorating. Gain +1 speed token.
+[dt] Woda jest orzeźwiająca. Otrzymujesz żeton +1 szybkości.
 `,
 
-  88: `88 | The Sword and the Statue
-A one-eyed statue, twice as tall as any man, sits before a great anvil with a hammer in each of its six hands. Transfixed, the survivors watch the statue beat a red-hot sword that lies across the anvil. Each survivor, starting with the event revealer and proceeding clockwise, may make one attempt to grab the sword from the anvil. If they do, they gain +1 courage, roll 1k10 and add their Hunt XP to their roll.
+  88: `88 | Miecz i posąg
+Jednooki posąg, dwa razy wyższy niż jakikolwiek człowiek, siedzi przed kowadłem z młotem w każdej z sześciu rąk. Sparaliżowani Ocalali patrzą, jak posąg wali w rozpalony do czerwoności miecz, leżący w poprzek kowadła. Każdy Ocalały, począwszy od wykonawcy wydarzenia, (a kolejni zgodnie z kierunkiem ruchu wskazówek zegara) może podjąć jedną próbę ściągnięcia miecza z kowadła. 
+Jeśli to robi otrzymuje +1 odwagi, rzuca 1k10 i dodaje swoje doświadczenie w łowiectwie do tego rzutu.
 
 [TA] 1k10
-[td] Any survivor
+[td] Dowolny Ocalały
 [c] 1-2
-[d] As you get near the anvil, the statue grabs the sword and plunges it into your body. There is a sharp hiss as the hot metal cools in your blood. Dead.
+[d] Kiedy zbliżasz się do kowadła, posąg chwyta miecz i wbija go w twoje ciało. Słuchać głośny syk, gdy gorący metal chłodzi się w twojej krwi. Nie żyjesz.
 [c] 3-8
-[d] You make a quick grab for the sword, but not quick enough. Suffer the <b>dismembered arm</b> severe arm injury.
+[d] Szybko łapiesz za miecz, ale nie wystarczająco szybko. Otrzymujesz ciężki uraz <b>odcięte ramię</b>.
 [c] 9-13
-[d] You may not be quick enough to grab the sword, but at least you're not foolish enough to die trying.
+[d] Możesz nie być wystarczająco szybki by złapać miecz, ale przynajmniej nie jesteś na tyle głupi, by umrzeć próbując.
 [c] 14+
-[dt] Your speed is legendary. Gain the <b>Muramasa</b> rare gear. Zakończ to wydarzenie.
+[dt] Twoja prędkość jest legendarna. Zdobywasz rzadki ekwipunek Muramasa. Zakończ to wydarzenie.
 `,
 
-  89: `89 | Cleaner Birds
-Tiny, ragged birds with needle-thin beaks fly overhead. Each survivor rolls 1k10. The lowest-scoring survivor (roll off in case of ties) becomes a straggler.
+  89: `89 | Ptaki czyściciele
+Maleńkie, nastroszone ptaki z cienkimi jak igły dziobami, krążą wam nad głowami. Każdy Ocalały rzuca 1k10. Ocalały z najniższym wynikiem (remisujący rozstrzygają to rzutami między sobą) zostaje Spóźnionym.
 
 [TO] 1k10
 [td] Wybierz Spóźnionego
 [c] Spóźniony wybrany
 [d<]
 
-The birds swarm the straggler. One forces its way into the straggler's mouth and down their throat. The survivor vomits up the well-fed bird, their insides scrambled and scarred. Gain +1 permanent luck, -1 permanent speed.
-[i] If any survivor has a whip, they crack it and fell the offensive creature. Gain 1 random basic resource.
+Ptaki rzucają się rojem na Spóźnionego. Jeden na siłę wciska się w usta spóźnionego i przepycha w głąb gardła. Ocalały wymiotuje tłustym ptakiem. Wypluwa pokiereszowane wnętrzności. Otrzymujesz na stałe +1 do szczęścia i na stałe -1 do szybkości.
+[i] Jeśli któryś z ocalałych ma bicz, trzaska nim w powietrze, rozpędzając agresywne stworzenia. Otrzymujesz 1 losowy podstawowy zasób.
 
 [>d]
 [T]
 `,
 
-  90: `90 | Light on the Horizon
-The survivors hear a screeching howl, followed by a crash. They see an explosion of multicolored light on the horizon. The unnatural light illuminates the survivors' way.
+  90: `90 | Światło na horyzoncie
+Ocalali usłyszeli skrzeczące wycie, po którym nastąpił huk. Widzą eksplozję wielobarwnego światła na horyzoncie. Nienaturalne światło oświetla drogę Ocalałych. 
 
 [TO] Sprawdź
-[td] Is any survivor sane?
-[c] Tak #Sane survivor
+[td] Czy jakiś Ocalały nie jest obłąkany?
+[c] Tak #Nie wszyscy są obłąkani
 [d<]
 
-Survivors follow the light. You may reroll the next result on the hunt event table.
-The light reaches the settlement. Add the <b>Lights in the Sky</b> settlement event to the timeline next year.
+Ocalali podążają za światłem. Możesz przerzucić następny wynik w tabeli zdarzeń na łowach. 
+Światło dociera do osady. Dodaj wydarzenie osady <b>Swiatła na niebie</b> na osi czasu w przyszłym roku.
 [>d]
-[c] Nie #All insane
+[c] Nie #Wszyscy są obłąkani
 [d<]
 
-Survivors turn away from the light, walking into the darkness. Move the survivors 2 spaces back on the hunt board.
-The light reaches the settlement. Add the <b>Lights in the Sky</b> settlement event to the timeline next year.
-
+Ocalali odwracają się od światła, idąc w ciemność. Przesuń Ocalałych o 2 pola w tył na planszy łowów.
+Światło dociera do osady. Dodaj wydarzenie osady <b>Światła na niebie</b> na osi czasu w przyszłym roku.
 [>d]
 [T]
 `,
 
-  91: `91 | The Beginning
-The survivors stumble upon the scene of their settlement's first hunt. Whether they've seen it themselves or heard of it through stories, they immediately recognize it. Seeing the spot of their settlement's first triumph is electrifying.
+  91: `91 | Początek
+Ocalali natknęli się na miejsce pierwszych łowów ich osady. Niezależnie czy widzieli to sami, czy słyszeli o tym historie, natychmiast je rozpoznają. Ujrzenie pierwszego zwycięstwa ich osady jest elektryzujące.
 
-Each survivor gains +1 survival.
+Każdy Ocalały otrzymuje +1 do przetrwania.
 
-[TA] Check
-[td] What innovations does the settlement have?
-[c] Saga
-[d] Each survivor gains +1 courage.
-[c] Storytelling
-[dt] Each survivor gains +1 understanding.
+[TA] Sprawdź
+[td] Jakie innowacja zna osada?
+[c] Sagi
+[d] Każdy z Ocalałych otrzymuje +1 odwagi.
+[c] Opowieści
+[dt] Każdy z Ocalałych otrzymuje +1 wiedzy.
 `,
 
-  92: `92 | Failed Start
-The survivors find the tattered remains of four humans. Clad in loincloths and clutching stone shards, they bear the distinct marks of White Lion claws.
-Each survivor suffers 1 brain event damage and gains 1 <b>Founding Stone</b> starting gear. Survivors with 3+ understanding also gain +1k10 insanity.
+  92: `92 | Nieudany start
+Ocalali znajdują rozdarte szczątki czterech ludzi. Ubrani w przepaski na biodrach i ściskający kamienne odłamki, noszą wyraźne ślady pazurów Białego Lwa. 
+To wydarzenie zadaje umysłowi każdego z Ocalałych 1 obrażenie. Każdy otrzymuje 1 początkowy ekwipunek <b>Odłamek podłoża</b>. Ocalali z wiedzą 3+ otrzymują także +1k10 obłędu.
 `,
 
-  93: `93 | Lost Survivor
+  93: `93 | Zaginiony Ocalały
 
 [img] 93 # width:25%
 
-In a hollow between two identical rocks, you find a corpse with fabulous hair clutching a book to its chest.
+W zagłębieniu między dwiema identycznymi skałami znajdują się zwłoki o bajecznych włosach, przyciskające do piersi księgę.
 
 [TO] Sprawdź
-[td] Czy osada zna Pictographs?
-[c] Tak #Pictographs
+[td] Czy osada zna Piktogramy?
+[c] Tak #Piktogramy
 [d<]
 
-The event revealer may read from the book and roll 1k10.
+Wykonawca wydarzenia może przeczytać księgę i rzucić 1k10.
 
 [TO] Wybór
 [td] Wykonawca wydarzenia
-[c] Read
+[c] Przeczytaj
 [d<]
 
-The book tells the tragic tale of two survivors who found a love they could never have.
-
+Księga opowiada tragiczną historię dwojga Ocalałych, którzy odnaleźli miłość jakiej nigdy wcześniej nie mieli.
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1-3
-[d] Page 3 - Dual Nature. The lovers' settlement was destroyed, and they were stolen away. The event revealer feels conflicted. After the showdown, they leave the settlement forever in search of something.
+[d] Strona 3: podwójna natura. Osada kochanków została zniszczona, a oni porwani. Wykonawcę wydarzenia porusza ten konflikt. Po starciu opuszcza osadę na zawsze w poszukiwaniu czegoś innego.
 [c] 4-6
-[d] Page 6 - The man spent years enduring horrible torture for the sake of his beloved. Each wound only strengthened the man's resolve. Gain +1 permanent speed and the <b>Anxiety</b> and <b>Traumatized</b> disorders.
+[d] Strona 6: mężczyzna spędził lata tragicznych tortur dla dobra ukochanej. Każda rana tylko wzmocniła determinację mężczyzny. Otrzymujesz na stałe +1 do szybkości i zaburzenia: <b>Niepokój</b> oraz <b>Straumatyzowany</b>.
 [c] 7+
-[dt] Page 9 - The man escaped, yet never returned. He knew that if he did, it would doom his beloved. He decided it was best for him to fade into memory to protect the few smiles his existence had inspired. Gain +1 courage and the <b>Tough</b> and <b>Last Man Standing</b> fighting arts.
+[dt] Strona 9: mężczyzna uciekł, i nigdy nie wrócił. Wiedział, że gdyby to zrobił skazałby swoją ukochaną. Postanowił, że najlepiej będzie gdy zniknie z pamięci, by chronić nieliczne uśmiechy, które zainspirowały jego istnienie. Otrzymujesz +1 odwagi i sztukę walki <b>Ostatni Ocalały</b>.
 
 [>d]
-[c] Don't read
-[dt] The survivors move on, deeply confused.
+[c] Nie czytaj
+[dt] Ocalali ruszają dalej mocno skonfudowani. 
 
 [>d]
 [c] Nie #
-[dt] The survivors move on, deeply confused.
+[dt] Ocalali ruszają dalej mocno skonfudowani. 
 `,
 
-  94: `94 | Sickening Mess
-The survivors come upon a patch of badly damaged ground. The stone faces are cracked and debris is strewn everywhere. Piles of toxic-smelling dung and half-digested viscera litter the area. The survivors approach, but survivors with <b>Squeamish</b> disorder refuse to go any closer.
+  94: `94 | Obrzydliwe odpady
+Ocalali natrafiają na skrawek paskudnie zniszczonej ziemi. Kamienne twarze są popękane, a szczątki porozrzucane wokół. W okolicy rozlewają się stosy toksycznie pachnącego łajna i na wpół strawionych wnętrzności. Ocalali zbliżają się, oprócz Ocalałych z zaburzeniem <b>Wrażliwy</b>, którzy nie podejdą ani kroku bliżej.
 
-<b>Insane</b> survivors <b>consume</b> what they find and make themselves sick; they gain -1 strength token. Sane survivors stop to <b>investigate</b> the mess. Each gains +1 courage, rolls 1k10, and adds their understanding.
+<b>Obłąkani</b> Ocalali <b>spożywają</b> to, co znaleźli i chorują; Otrzymują żeton siły -1. Nieobłąkani Ocalali powstrzymują się i badają odpady. Każdy z nich otrzymuje +1 do odwagi, rzuca 1k10 i dodaje swoją wiedzę.
 
 [TA] 1k10
-[td] Each sane survivor - Investigate
+[td] Każdy nie obłąkany Ocalały - Badaj
 [c] 1-2
-[d] You become lightheaded sifting through the piles of dung; uncontrollable gagging ensues. Gain -1 strength token.
+[d] Bezmyślnie przesiewasz stosy łajna. Krztusisz się w niekontrolowanych odruchach. Otrzymujesz żeton -1 siły.
 [c] 3-8
-[d] Heaving, eyes filled with tears, your sickening hunt pays off. Gain 1 random basic resource and suffer 1 event damage to a random hit location.
+[d] Masz oczy wypełnione łzami, ale twoje obrzydliwe poszukiwania się opłacają. Znajdujesz 1 losowy podstawowy zasób, ale to wydarzenie zadaje tobie 1 obrażenie w losowe miejsce trafienia.
 [c] 9+
-[dt] Your intuition pays off! Gain 1 random basic resource.
+[dt] Twoja intuicja się opłaca! Znajdujesz 1 losowy podstawowy zasób.
 `,
 
-  95: `95 | Grim and Frostbitten
-There is a dead stillness in the air. The atmosphere becomes thick with worry and the survivors carry on nervously. A bitter, evil cold sets in and there is no shelter.
-The survivors huddle together for warmth, shivering loudly. Unless a survivor has armor gear at each hit location, they lose quarry monster level survival.
+  95: `95 | Ponury i odmrożony
+Martwa cisza unosi się w powietrzu. Atmosfera staje się gęsta od zmartwień, a Ocalali zachowują się nerwowo. Pojawia się przenikliwy nieprzyjemny chłód, przed którym nie ma schronienia.
+Ocalali przytulają się, by poczuć ciepło, drżą oddychając głośno. Jeśli któryś z Ocalałych nie ma pancerza na każdym miejscu trafienia, traci przetrwanie równe poziomowi potwora na łowach.
 `,
 
-  96: `96 | Cloaked Stranger
-A cloaked form steps out from a patch of darkness ahead of the survivors. Its illfitting garment shifts atop its form and its trudging leaves dark, black puddles in the mouths of the rain-slick stone on the ground.
-The event revealer approaches the stranger and rolls 1k10.
+  96: `96 | Tajemniczy nieznajomy
+Z ciemności przed ocalałymi wyłania się postać spowita peleryną. Jej źle dopasowane ubranie powiewa wokół, a jej mozolny chód pozostawia ciemne, czarno-oleiste kałuże w kamiennych ustach na ziemi.
+Wykonawca wydarzenia podchodzi do nieznajomego i rzuca 1k10.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1-2
-[d] The stranger's approach fills your ears with painful static. There is a flash of light and a loud crack. You fall to the ground, holding your bloody chest in pain. Suffer the <b>ruptured spleen</b> severe body injury. All <b>non-deaf</b> survivors suffer 2 brain event damage.
+[d] Podejście obcego wypełnia uszy bolesnymi zakłóceniami. Nagle błyska światło i słychać huk. Padasz na ziemię, ściśnięty ostrym bólem klatki piersiowej. Otrzymujesz ciężki uraz korpusu <b>Pęknięta śledziona</b>. To wydarzenie zadaje 2 obrażenia umysłom wszystkim <b>niegłuchym</b> Ocalałym.
 [c] 3-4
-[d] The stranger ripples in and out of focus as you approach. When you reach them, they are gone, their form impossible to remember. Gain 1 bleeding token and forget 1 fighting art of your choice.
+[d] Nieznajomy zafalował, zapadając się w sobie, znikając i pojawiając gdy podchodzisz. Kiedy stajesz przed nim - znika, i nie możesz sobie przypomnieć jego wyglądu. Otrzymujesz 1 żeton krwawienia i zapominasz 1 sztukę walki według swojego wyboru.
 [c] 5-6
-[d] As you near the stranger, you realize that they're floating in the air! You barely make out a dry rasping coming from the form that seems to resemble... laughter? After the stranger departs, you return to the group, face bone-white, refusing to speak of what you saw. Suffer 3 brain event damage.
+[d] Gdy jesteś blisko nieznajomego, zdajesz sobie sprawę, że on unosi się w powietrzu! Ledwo słyszalne suche zgrzytanie dochodzące od postaci, wydaje się przypominać... śmiech? Po odejściu nieznajomego wracasz do grupy, blady jak wosk, odmawiając mówienia o tym, co widziałeś. To wydarzenie zadaje 3 obrażenia twojemu umysłowi.
 [c] 7-8
-[d] The stranger raises its arms and moves to meet your approach. From beneath the folds of its cloak, you can just make out a hint of violet, scaly hide. A claw extends from a sleeve and gently strokes your cheek, leaving a layer of viscous liquid behind. Wiping off the sludge, you find the bizarre experience strangely touching. You gain +1 survival, +1 understanding.
+[d] Nieznajomy podnosi ramiona i porusza się na spotkanie gdy podchodzisz do niego. Spod fałd peleryny wyziera fragment fioletowej, łuszczącej się skóry. Pazur rozciąga się od rękawa i delikatnie gładzi twój policzek pozostawiając warstwę lepkiego płynu. Wycierając osad, doznajesz dziwnego uczucia w dotyku. Otrzymujesz +1 przetrwania oraz +1 wiedzy.
 [c] 9+
 [d<]
 
-The stranger orders you to organize a test of strength among the survivors. Each survivor must roll 1k10 (roll off in case of ties). The highest scoring survivor wins the melee.
+Nieznajomy każe ci zorganizować test siły pośród Ocalałych. Każdy z ocalałych musi rzucić 1k10 (remisujący rozstrzygają rzutami między sobą). Zdobywca najwyższego wyniku wygrywa walkę. 
 [TO] 1k10
-[td] Determine winner
-[c] Winner chosen
-[dt] The stranger marks their face with its glistening claw, granting them the <b>Iron Will</b> ability: You cannot be knocked down. Reduce all knockback you suffer to knockback 1. Record this ability. All survivors lose 4 survival from the exhausting fight.
+[td] Wybierz zwycięzcę
+[c] Zwycięzca wybrany
+[dt] Nieznajomy zaznacza jego twarz lśniącym szponem, nadając mu zdolność <b>Żelazna wola</b>: Nie może zostać powalonym. Będąc odrzucanym odległość odrzutu zmniejsza się do 1. Odrzucenie = 1. Zanotuj tę umiejętność. Wszyscy Ocalali tracą po 4 punkty przetrwania, po wyczerpującej walce.
 
 [>d]
 [T]
 `,
 
-  97: `97 | Living Stone
-The ground suddenly shifts and rises sharply into the air! The survivors find themselves clutching the back of a giant creature that lay sleeping beneath their feet. The survivors hold on for dear life, absolutely terrified.
-Nominate a survivor to climb toward the top of the giant and see what lies ahead. They roll 1k10.
+  97: `97 | Żywy kamień
+Ziemia nagle porusza się i wybrzusza gwałtownie w górę! Ocalali łapią się pleców gigantycznego stworzenia, które leży pod ich nogami. Ocalali trwożliwie przywierają do niego w absolutnym przerażeniu. 
+Wybierz Ocalałego by wspiął się na szczyt olbrzyma i zobaczył co na was czeka. Rzuć 1k10.
 
 [TO] 1k10
-[td] Nominated survivor
+[td] Wybrano Ocalały
 [c] 1
-[d] Your motion irritates the giant, sending the survivors flying off! All survivors suffer 1d5 event damage to a random hit location. Archive all <b>fragile</b> gear.
+[d] Twój ruch irytuje olbrzyma który strząsa Ocalałych! To wydarzenie zadaje wszystkim Ocalałym k5 obrażeń w losowe miejsce trafienia. Zarchiwizuj cały <b>kruchy</b> ekwipunek. 
 [c] 2-7
-[d] You reach the top and have a perfect vantage point to see the world, if only there were enough light to see it. Set your insanity to O. The giant carries you exactly where you're going! Start the showdown immediately.
+[d] Docierasz na szczyt gdzie masz doskonały punkt widokowy, by zobaczyć świat. Gdyby tylko było wystarczająco dużo światła by go ujrzeć. Ustaw swój obłęd na 0. Gigant idzie dokładnie tam, gdzie zmierzasz! Natychmiast rozpoczynacie Starcie.
 [c] 8+
-[dt] You discover a bizarre creature with an inverted face diligently carving upon the giant's back. It discards damaged stone faces as it works. Each survivor catches a fragment, gaining 1 <b>Founding Stone</b> starting gear. Eventually, the giant settles down into the ground again. You dismount and discover your quarry! <b>Ambush</b> the monster!
+[dt] Odkrywasz dziwaczne stworzenie o odwróconej twarzy starannie wyrzeźbione w grzbiecie olbrzyma. Zrzucasz kawałki potłuczonych kamiennych twarzy którymi pracowano. Każdy Ocalały łapie fragment, otrzymując 1 początkowy ekwipunek <b>odłamek podłoża</b>. W końcu olbrzym znów przysiada na ziemi. Zsuwacie się z niego i odkrywacie swoją zdobycz! Potwór wpada w waszą <b>pułapkę</b>!
 `,
 
-  98: `98 | Bloody Eyes
+  98: `98 | Krwawe oczy
 
 [img] 98 # width:35%
 
-The survivors find a trail of blood. It pools in the eye sockets of the stonefaced ground. The blood is still warm.
-The event revealer may <b>investigate</b> and roll 1k10, or ignore the trail and end this event.
+Ocalali znajdują ślady krwi. Zebrała sie w oczodołach kamiennych twarzy na ziemi. Krew jest jeszcze wciąż ciepła.
+Wykonawca wydarzenia może przeprowadzić <b>badanie</b> i rzucić 1k10 lub zignorować ślady i zakończyć to wydarzenie.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia - Badanie
 [c] 1-3
-[d] One of your own is slumped at the end of the trail, bleeding terribly. Choose a random survivor, they gain 3 bleeding tokens. All survivors suffer 3 brain event damage.
+[d] Jeden z was osuwa się pod koniec śladów, krwawiąc straszliwie. Wybierz losowego Ocalałego, Otrzymuje 3 żetony krwawienia. To wydarzenie zadaje umysłom wszystkich Ocalałych 3 obrażenia.
 [c] 4-6
-[d] The trail leads to a huge box. Trapped inside is a young, red-haired survivor. Gain +1 population. The carvings adorning the box are haunting. All survivors suffer 3 brain event damage.
+[d] Ślady prowadzą do ogromnego pudła. W środku uwięziony jest młody, rudowłosy Ocalały. Zyskujesz +1 populacji. Rzeźby zdobiące pudło są nawiedzone. To wydarzenie zadaje umysłom wszystkich Ocalałych 3 obrażenia.
 [c] 7+
-[dt] The trail leads to your quarry! The monster is wounded from a previous battle. Start the showdown immediately. At the start of the showdown, the monster suffers 1 wound.
+[dt] Ślady prowadzą wprost do twojej zdobyczy! Potwór jest ranny po wcześniejszej walce. Natychmiast rozpoczynacie starcie. Na początku starcia potwór otrzymuje 1 ranę.
 `,
 
-  99: `99 | Portcullis
+  99: `99 | Krata
 
 [img] 99
 
-The survivors approach a massive portcullis standing in the darkness. It is not attached to anything and does not bar their way. They may choose to walk around it.
+Ocalali zbliżają się do ogromnej kraty w ciemności. Nie jest do niczego przymocowana i nie blokuje drogi. Możecie ją obejść.
 
 [TO] Sprawdź
-[td] Czy osada zna the Portcullis Key?
-[c] Tak #Portcullis Key
+[td] Czy osada ma <b>klucz do kraty</b>?
+[c] Tak #Klucz do kraty
 [d<]
 
-They may erase it from the settlement record sheet and use it.
+Ocalali mogą wymazać klucz z rubryki arkusza osady i użyć go.
 [TO] Wybór
-[td] Use the Portcullis Key?
-[c] Tak #Open the portcullis
+[td] Używasz klucza?
+[c] Tak #Otwórz kratę
 [d<]
 
-Each survivor gains +1 courage. The portcullis creaks open and the survivors step through. A dank gloom awaits the survivors inside.
+Każdy Ocalały otrzymuje +1 do odwagi. Krata otwiera się skrzypiąc, a Ocalali przechodzą przez nią. Głęboki mrok czeka w środku na Ocalałych.
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1
-[d] The portcullis suddenly slams shut behind them and the lights of their lanterns begin to dim. The last thing the survivors see is the grimace of fear on each other's faces as the dark closes in. The survivors are dead.
+[d] Krata z nagłym trzaskiem zamyka się za Ocalałymi, a światła ich latarni zaczynają słabnąć. Ostatnią rzeczą, jaką widzą, jest grymas strachu na twarzach innych, kiedy ciemność zamyka się nad nimi. Ocalali umierają.
 [c] 2+
-[dt] At their feet lies an ornate crucible with a void in the shape of a mighty weapon. Gain the <b>Perfect Crucible</b> strange resource. If they have a Blacksmith in their settlement, they may now craft a <b>Perfect Slayer</b>.
+[dt] U ich stóp leży zdobny w ornamenty pusty tygiel w kształcie potężnej broni. Otrzymujesz dziwny zasób <b>Perfekcyjny tygiel</b>. Jeśli macie kowala w swojej osadzie, możecie teraz wyprodukować <b>Perfekcyjnego zabójcę</b>.
 
 [>d]
-[c] Nie #Walk around
-[dt] Roll again on the hunt event table before moving on the hunt board.
+[c] Nie #Obejdź do okoła
+[dt] Rzuć ponownie na liście wydarzeń na łowach, zanim poruszycie się na planszy łowów.
 
 [>d]
-[c] Nie #Walk around
-[d] Roll again on the hunt event table before moving on the hunt board.
+[c] Nie #Obejdź do okoła
+[d] Rzuć ponownie na liście wydarzeń na łowach, zanim poruszycie się na planszy łowów.
 [T]
 `,
 
-  100: `100 | The Finale
+  100: `100 | Finał
 
-An enormous, metallic sound rings out from a distance. All survivors are electrified with dread; they suffer 2 brain event damage.
+Olbrzymi, metaliczny dźwięk rozbrzmiewa z oddali. Wszystkich Ocalałych przeszywa przerażenie. To wydarzenie zadaje 2 obrażenia ich umysłom.
 
 [TO] Wybór
-[td] Follow the sound?
-[c] Tak #Follow the sound
+[td] Podążasz za dźwiękiem?
+[c] Tak #Podążasz za dźwiękiem
 [d<]
 
-Each survivor gains +1 courage and gingerly approaches the sound's origin. As they travel, they pass the shattered corpses of strange beasts.
+Każdy Ocalały otrzymuje +1 odwagi i ostrożnie zbliża się do źródła dźwięku. Podczas marszu, mijają roztrzaskane ciała dziwnych bestii.
 
 [TO] Sprawdź
-[td] Does any survivor have 3+ understanding?
-[c] Tak #3+ understanding
+[td] Czy jakiś Ocalały ma wiedzę na 3+?
+[c] Tak #wiedza 3+
 [d<]
 
-Survivors follow the trail of corpses.
+Ocalali podążają tropem trupów.
 
 [img] 100
 
-Arriving at a massive anvil, the survivors see a giant, one-eyed knight, its charcoal-colored armor reflecting their lantern light.
-The event revealer rolls 1k10.
+Po dotarciu do ogromnego kowadła, Ocalali widzą gigantycznego, jednookiego rycerza, którego pancerz w kolorze węgla odbija światło ich latarń. 
+Wykonawca wydarzenia rzuca 1k10.
 
 [TO] 1k10
 [td] Wykonawca wydarzenia
 [c] 1
-[d] The knight stares at the survivors. All survivors with less than 3 courage are struck dead. All other survivors flee in horror.
+[d] Rycerz wpatruje się w Ocalałych. Wszyscy Ocalali posiadający mniej niż 3 odwagi padają martwi. Reszta Ocalałych ucieka w przerażeniu.
 [c] 2-8
-[d] The knight approaches the survivors. In an instant, it chops off a random survivor's ear; they gain 1 bleeding token. Then, it strikes the anvil, blinding the survivors with a churning wall of sound. When they open their eyes, the knight is gone and the <b>Steel Sword</b> and <b>Steel Shield</b> rare gear rest in its place. The group divides the gear between them.
+[d] Rycerz zbliża się do Ocalałych. W jednej chwili odrywa losowemu Ocalałemu ucho - otrzymuje on 1 żeton krwawienia. Następnie, uderza w kowadło, nagły huk i błysk oślepia Ocalałych. Kiedy otwierają oczy, rycerz znika, a ekwipunek <b>Stalowy miecz</b> i <b>Stalowa tarcza leżą na jego miejscu. Grupa dzieli ekwipunek między sobie.
 [c] 9+
-[dt] The knight smashes the object in its hands upon the anvil. When the molten orange object cools, it sets into a massive lion-faced hammer. The knight places it in the hands of the survivor with the highest courage (roll off in case of ties). They gain the <b>Thunder Maul</b> rare gear. A current of electricity runs through their body, joining weapon and survivor forever.
+[dt] Rycerz rozbija na kowadle przedmiot trzymany w dłoniach. Kiedy stopiony, pomarańczowy obiekt się chłodzi zmienia się w potężny młot z lwiej paszczy. Rycerz wkłada go w ręce Ocalałego z największą odwagą (remisujący rozstrzygają to rzutami między sobą). Otrzymuje rzadki ekwipunek <b>Młot gromu</b>. Elektryczne napięcie przebiega poprzez jego ciało, łącząc broń i Ocalałego na zawsze.
 [>d]
-[c] Nie #Less than 3 understanding
-[dt] Harvest 3 random basic resources from the corpses and end this event.
+[c] Nie #Mniej niż 3 wiedzy
+[dt] Zbierasz 3 losowe podstawowe zasoby ze zwłok i kończysz to wydarzenie.
 
 [>d]
-[c] Nie #Retreat
-[dt] Survivors panic and retreat in the opposite direction; end this event and move the survivors 2 spaces back on the hunt board.`,
+[c] Nie #Wycofaj się
+[dt] Ocalali panikują i uciekają w przeciwnym kierunku. Zakończ to wydarzenie i przesuń Ocalałych 2 pola w tył na planszy łowów.
+`,
 }
 
 module.exports = {
